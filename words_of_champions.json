@@ -37316,7 +37316,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 2,
+   "nMistakes": 3,
    "weight": 1
  },
  {
@@ -37400,7 +37400,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 2,
+   "nMistakes": 4,
    "weight": 1
  },
  {
@@ -37496,7 +37496,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -37556,7 +37556,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
@@ -37568,7 +37568,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -37652,7 +37652,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -37664,7 +37664,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -37676,7 +37676,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -37724,7 +37724,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -37760,7 +37760,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -37784,7 +37784,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -37820,7 +37820,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
@@ -37844,7 +37844,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -37880,7 +37880,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -37892,7 +37892,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -37916,7 +37916,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -37952,7 +37952,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
@@ -38000,7 +38000,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -38024,7 +38024,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
@@ -38036,7 +38036,7 @@
    "group": "champions",
    "origin": "",
    "nTried": 1,
-   "nMistakes": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -38083,7 +38083,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38095,7 +38095,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38107,7 +38107,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38119,7 +38119,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38131,7 +38131,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38143,7 +38143,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38155,7 +38155,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38166,8 +38166,8 @@
    "type": "",
    "bee": "three",
    "group": "champions",
-   "origin": "",
-   "nTried": 0,
+   "origin": "German",
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38179,7 +38179,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38191,7 +38191,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38203,7 +38203,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38215,7 +38215,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38227,7 +38227,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38239,7 +38239,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38251,7 +38251,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38263,7 +38263,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38275,7 +38275,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38287,7 +38287,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38299,7 +38299,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38311,8 +38311,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -38323,7 +38323,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38335,7 +38335,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38347,7 +38347,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38359,7 +38359,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38371,7 +38371,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38383,7 +38383,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38395,8 +38395,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -38407,7 +38407,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38419,8 +38419,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -38431,8 +38431,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -38443,8 +38443,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -38455,8 +38455,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -38467,8 +38467,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -38479,8 +38479,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -38491,7 +38491,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -38503,2616 +38503,2580 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
    "id": 3210,
-   "word": "alai",
-   "alt": "",
-   "type": "",
-   "bee": "three",
-   "group": "champions",
-   "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
-   "weight": 1
- },
- {
-   "id": 3211,
    "word": "capoeira",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3212,
+   "id": 3211,
    "word": "emolument",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3213,
+   "id": 3212,
    "word": "hircine",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3214,
+   "id": 3213,
    "word": "floruit",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
-   "id": 3215,
+   "id": 3214,
    "word": "vaccary",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3216,
+   "id": 3215,
    "word": "de rigueur",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
-   "id": 3217,
+   "id": 3216,
    "word": "demitasse",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3218,
+   "id": 3217,
    "word": "rupicolous",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3219,
+   "id": 3218,
    "word": "rugose",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3220,
+   "id": 3219,
    "word": "hemorrhage",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3221,
+   "id": 3220,
    "word": "tomalley",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3222,
+   "id": 3221,
    "word": "penicillin",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3223,
+   "id": 3222,
    "word": "latke",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3224,
+   "id": 3223,
    "word": "pejerrey",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3225,
+   "id": 3224,
    "word": "obnebulate",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3226,
+   "id": 3225,
    "word": "coccygeal",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3227,
+   "id": 3226,
    "word": "mackinaw",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3228,
+   "id": 3227,
    "word": "sesquipedalian",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3229,
+   "id": 3228,
    "word": "ensilage",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
-   "id": 3230,
+   "id": 3229,
    "word": "aristoi",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3231,
+   "id": 3230,
    "word": "nubilous",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3232,
+   "id": 3231,
    "word": "speleothem",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3233,
+   "id": 3232,
    "word": "galoot",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3234,
+   "id": 3233,
    "word": "panettone",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3235,
+   "id": 3234,
    "word": "proselytizer",
    "alt": "*proselytiser",
    "type": "British",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3236,
+   "id": 3235,
    "word": "euripus",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3237,
+   "id": 3236,
    "word": "teratism",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3238,
+   "id": 3237,
    "word": "melee",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3239,
+   "id": 3238,
    "word": "epideictic",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3240,
+   "id": 3239,
    "word": "flavedo",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3241,
+   "id": 3240,
    "word": "sebaceous",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3242,
+   "id": 3241,
    "word": "puerilely",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3243,
+   "id": 3242,
    "word": "sakura",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3244,
+   "id": 3243,
    "word": "surfeit",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3245,
+   "id": 3244,
    "word": "epenthesis",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3246,
+   "id": 3245,
    "word": "pochoir",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3247,
+   "id": 3246,
    "word": "macropterous",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3248,
+   "id": 3247,
    "word": "golem",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3249,
+   "id": 3248,
    "word": "buffa",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3250,
+   "id": 3249,
    "word": "seiche",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3251,
+   "id": 3250,
    "word": "ascetic",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3252,
+   "id": 3251,
    "word": "hackamore",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3253,
+   "id": 3252,
    "word": "oppidan",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3254,
+   "id": 3253,
    "word": "xerogel",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3255,
+   "id": 3254,
    "word": "grison",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3256,
+   "id": 3255,
    "word": "bienvenue",
    "alt": "bienvenu",
    "type": "Alt",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3257,
+   "id": 3256,
    "word": "tristeza",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3258,
+   "id": 3257,
    "word": "halcyon",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3259,
+   "id": 3258,
    "word": "ullage",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3260,
+   "id": 3259,
    "word": "cassock",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3261,
+   "id": 3260,
    "word": "triquetra",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3262,
+   "id": 3261,
    "word": "regnal",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3263,
+   "id": 3262,
    "word": "angiitis",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3264,
+   "id": 3263,
    "word": "ethylene",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3265,
+   "id": 3264,
    "word": "deleterious",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3266,
+   "id": 3265,
    "word": "brume",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3267,
+   "id": 3266,
    "word": "brucellosis",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3268,
+   "id": 3267,
    "word": "stevedore",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3269,
+   "id": 3268,
    "word": "glazier",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3270,
+   "id": 3269,
    "word": "ikebana",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3271,
+   "id": 3270,
    "word": "haricot",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3272,
+   "id": 3271,
    "word": "urushiol",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3273,
+   "id": 3272,
    "word": "tuatara",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3274,
+   "id": 3273,
    "word": "crescive",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3275,
+   "id": 3274,
    "word": "vermeil",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3276,
+   "id": 3275,
    "word": "Glaswegian",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3277,
+   "id": 3276,
    "word": "taurine",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3278,
+   "id": 3277,
    "word": "bibliopegist",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3279,
+   "id": 3278,
    "word": "chicanery",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3280,
+   "id": 3279,
    "word": "execrable",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3281,
+   "id": 3280,
    "word": "pelagial",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3282,
+   "id": 3281,
    "word": "gentilitial",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3283,
+   "id": 3282,
    "word": "zortzico",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3284,
-   "word": "force",
-   "alt": "",
-   "type": "",
-   "bee": "three",
-   "group": "champions",
-   "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
-   "weight": 1
- },
- {
-   "id": 3285,
+   "id": 3283,
    "word": "ogival",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3286,
+   "id": 3284,
    "word": "toreador",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3287,
+   "id": 3285,
    "word": "huipil",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3288,
+   "id": 3286,
    "word": "expugnable",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3289,
+   "id": 3287,
    "word": "budgereegah",
    "alt": "budgerygah",
    "type": "No preference",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3290,
+   "id": 3288,
    "word": "contumelious",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3291,
+   "id": 3289,
    "word": "après",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3292,
+   "id": 3290,
    "word": "Fribourg",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3293,
+   "id": 3291,
    "word": "appurtenances",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3294,
+   "id": 3292,
    "word": "psoriasis",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3295,
+   "id": 3293,
    "word": "agnomen",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3296,
+   "id": 3294,
    "word": "expatiate",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3297,
+   "id": 3295,
    "word": "toponymic",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3298,
+   "id": 3296,
    "word": "plangency",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3299,
+   "id": 3297,
    "word": "ailette",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3300,
+   "id": 3298,
    "word": "allelopathy",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3301,
+   "id": 3299,
    "word": "Ficus",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3302,
+   "id": 3300,
    "word": "gentian",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3303,
+   "id": 3301,
    "word": "toccata",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3304,
+   "id": 3302,
    "word": "thaumaturge",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3305,
+   "id": 3303,
    "word": "ague",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3306,
+   "id": 3304,
    "word": "empennage",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3307,
+   "id": 3305,
    "word": "incarnadine",
    "alt": "encarnadine",
    "type": "Alt",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3308,
+   "id": 3306,
    "word": "Rastafarian",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3309,
+   "id": 3307,
    "word": "cicatrize",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3310,
+   "id": 3308,
    "word": "kathakali",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3311,
+   "id": 3309,
    "word": "asterion",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3312,
+   "id": 3310,
    "word": "peregrination",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3313,
+   "id": 3311,
    "word": "loup-garou",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
-   "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "origin": "French",
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3314,
+   "id": 3312,
    "word": "isagoge",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3315,
+   "id": 3313,
    "word": "saccharide",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3316,
+   "id": 3314,
    "word": "gimbaled",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3317,
+   "id": 3315,
    "word": "imaret",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3318,
+   "id": 3316,
    "word": "mediobrome",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3319,
+   "id": 3317,
    "word": "kinesiology",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3320,
+   "id": 3318,
    "word": "demulcent",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3321,
+   "id": 3319,
    "word": "patois",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
-   "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "origin": "French",
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3322,
+   "id": 3320,
    "word": "bucatini",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3323,
+   "id": 3321,
    "word": "camembert",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3324,
+   "id": 3322,
    "word": "pillor",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3325,
+   "id": 3323,
    "word": "parquet",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3326,
+   "id": 3324,
    "word": "spirulina",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3327,
+   "id": 3325,
    "word": "adumbrate",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3328,
+   "id": 3326,
    "word": "Bunyanesque",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3329,
+   "id": 3327,
    "word": "anechoic",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3330,
+   "id": 3328,
    "word": "pekoe",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3331,
+   "id": 3329,
    "word": "oubliette",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3332,
+   "id": 3330,
    "word": "Chalcolithic",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3333,
+   "id": 3331,
    "word": "hinoki",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3334,
+   "id": 3332,
    "word": "nacelle",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3335,
+   "id": 3333,
    "word": "joropo",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3336,
+   "id": 3334,
    "word": "apoplexy",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3337,
+   "id": 3335,
    "word": "sopapilla",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3338,
+   "id": 3336,
    "word": "ravigote",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3339,
+   "id": 3337,
    "word": "limicolous",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3340,
+   "id": 3338,
    "word": "tatterdemalion",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3341,
+   "id": 3339,
    "word": "nitid",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3342,
+   "id": 3340,
    "word": "enoptromancy",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3343,
+   "id": 3341,
    "word": "oyez",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3344,
+   "id": 3342,
    "word": "mascarpone",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3345,
+   "id": 3343,
    "word": "phulkari",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3346,
+   "id": 3344,
    "word": "latitudinarian",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3347,
+   "id": 3345,
    "word": "benison",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3348,
+   "id": 3346,
    "word": "ruelle",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3349,
+   "id": 3347,
    "word": "fait",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3350,
+   "id": 3348,
    "word": "bergère",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3351,
+   "id": 3349,
    "word": "oviparous",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
-   "id": 3352,
+   "id": 3350,
    "word": "pendeloque",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
-   "id": 3353,
+   "id": 3351,
    "word": "adscititious",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3354,
+   "id": 3352,
    "word": "ushabti",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
-   "id": 3355,
+   "id": 3353,
    "word": "codswallop",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3356,
+   "id": 3354,
    "word": "velouté",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3357,
+   "id": 3355,
    "word": "toque",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3358,
+   "id": 3356,
    "word": "weltschmerz",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
-   "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "origin": "German",
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3359,
+   "id": 3357,
    "word": "predilection",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3360,
+   "id": 3358,
    "word": "mustelid",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3361,
+   "id": 3359,
    "word": "risorgimento",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3362,
+   "id": 3360,
    "word": "rondeau",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3363,
+   "id": 3361,
    "word": "pinetum",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3364,
+   "id": 3362,
    "word": "comanchero",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3365,
+   "id": 3363,
    "word": "flaneur",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3366,
+   "id": 3364,
    "word": "spondylitis",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3367,
+   "id": 3365,
    "word": "olecranon",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3368,
+   "id": 3366,
    "word": "wakame",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3369,
+   "id": 3367,
    "word": "abeyance",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3370,
+   "id": 3368,
    "word": "betony",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
-   "id": 3371,
+   "id": 3369,
    "word": "succussion",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3372,
+   "id": 3370,
    "word": "schefflera",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3373,
+   "id": 3371,
    "word": "kipuka",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3374,
+   "id": 3372,
    "word": "redingote",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3375,
+   "id": 3373,
    "word": "morel",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3376,
+   "id": 3374,
    "word": "gesellschaft",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3377,
+   "id": 3375,
    "word": "brioche",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3378,
+   "id": 3376,
    "word": "agnolotti",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3379,
-   "word": "ad",
-   "alt": "",
-   "type": "",
-   "bee": "three",
-   "group": "champions",
-   "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
-   "weight": 1
- },
- {
-   "id": 3380,
+   "id": 3377,
    "word": "trichinosis",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
-   "id": 3381,
+   "id": 3378,
    "word": "croustade",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3382,
+   "id": 3379,
    "word": "urticaria",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3383,
+   "id": 3380,
    "word": "boulevardier",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3384,
+   "id": 3381,
    "word": "thylacine",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3385,
+   "id": 3382,
    "word": "dhurrie",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3386,
+   "id": 3383,
    "word": "oppugn",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3387,
+   "id": 3384,
    "word": "tomography",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3388,
+   "id": 3385,
    "word": "zymurgy",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3389,
+   "id": 3386,
    "word": "portmanteau",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3390,
+   "id": 3387,
    "word": "avifauna",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3391,
+   "id": 3388,
    "word": "danseur",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3392,
+   "id": 3389,
    "word": "nugatory",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3393,
+   "id": 3390,
    "word": "pylorus",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3394,
+   "id": 3391,
    "word": "upsilon",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3395,
+   "id": 3392,
    "word": "yttriferous",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3396,
+   "id": 3393,
    "word": "lidocaine",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3397,
+   "id": 3394,
    "word": "paronomasia",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3398,
+   "id": 3395,
    "word": "sangfroid",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3399,
+   "id": 3396,
    "word": "moiety",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3400,
+   "id": 3397,
    "word": "breviloquence",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3401,
+   "id": 3398,
    "word": "polemic",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3402,
+   "id": 3399,
    "word": "accoutrement",
    "alt": "accouterment",
    "type": "Alt",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3403,
+   "id": 3400,
    "word": "ululate",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3404,
+   "id": 3401,
    "word": "cygnet",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3405,
+   "id": 3402,
    "word": "habiliments",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3406,
+   "id": 3403,
    "word": "kanban",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3407,
+   "id": 3404,
    "word": "toroidal",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3408,
+   "id": 3405,
    "word": "catarrh",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3409,
+   "id": 3406,
    "word": "syncope",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3410,
+   "id": 3407,
    "word": "pasilla",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3411,
+   "id": 3408,
    "word": "littoral",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3412,
+   "id": 3409,
    "word": "mufti",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3413,
+   "id": 3410,
    "word": "ibidem",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3414,
+   "id": 3411,
    "word": "focaccia",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3415,
+   "id": 3412,
    "word": "graticule",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3416,
+   "id": 3413,
    "word": "hellebore",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3417,
+   "id": 3414,
    "word": "illative",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3418,
+   "id": 3415,
    "word": "hariolation",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3419,
+   "id": 3416,
    "word": "cephalopod",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3420,
+   "id": 3417,
    "word": "subrident",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3421,
+   "id": 3418,
    "word": "obloquy",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3422,
+   "id": 3419,
    "word": "erubescent",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3423,
+   "id": 3420,
    "word": "tetrachoric",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3424,
+   "id": 3421,
    "word": "farrago",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3425,
+   "id": 3422,
    "word": "budgerigar",
    "alt": "budgereegah",
    "type": "Alt",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
  {
-   "id": 3426,
+   "id": 3423,
    "word": "amaryllis",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
-   "id": 3427,
+   "id": 3424,
    "word": "Bauhaus",
    "alt": "",
    "type": "",
@@ -41124,7 +41088,7 @@
    "weight": 1
  },
  {
-   "id": 3428,
+   "id": 3425,
    "word": "digerati",
    "alt": "",
    "type": "",
@@ -41136,7 +41100,7 @@
    "weight": 1
  },
  {
-   "id": 3429,
+   "id": 3426,
    "word": "telegnosis",
    "alt": "",
    "type": "",
@@ -41148,7 +41112,7 @@
    "weight": 1
  },
  {
-   "id": 3430,
+   "id": 3427,
    "word": "binturong",
    "alt": "",
    "type": "",
@@ -41160,7 +41124,7 @@
    "weight": 1
  },
  {
-   "id": 3431,
+   "id": 3428,
    "word": "vizierial",
    "alt": "",
    "type": "",
@@ -41172,7 +41136,7 @@
    "weight": 1
  },
  {
-   "id": 3432,
+   "id": 3429,
    "word": "adiabatic",
    "alt": "",
    "type": "",
@@ -41184,7 +41148,7 @@
    "weight": 1
  },
  {
-   "id": 3433,
+   "id": 3430,
    "word": "umami",
    "alt": "",
    "type": "",
@@ -41196,7 +41160,7 @@
    "weight": 1
  },
  {
-   "id": 3434,
+   "id": 3431,
    "word": "ajimez",
    "alt": "",
    "type": "",
@@ -41208,7 +41172,7 @@
    "weight": 1
  },
  {
-   "id": 3435,
+   "id": 3432,
    "word": "rhyton",
    "alt": "",
    "type": "",
@@ -41220,7 +41184,7 @@
    "weight": 1
  },
  {
-   "id": 3436,
+   "id": 3433,
    "word": "lipophilic",
    "alt": "",
    "type": "",
@@ -41232,7 +41196,7 @@
    "weight": 1
  },
  {
-   "id": 3437,
+   "id": 3434,
    "word": "paillard",
    "alt": "",
    "type": "",
@@ -41244,7 +41208,7 @@
    "weight": 1
  },
  {
-   "id": 3438,
+   "id": 3435,
    "word": "repartee",
    "alt": "",
    "type": "",
@@ -41256,7 +41220,7 @@
    "weight": 1
  },
  {
-   "id": 3439,
+   "id": 3436,
    "word": "jabot",
    "alt": "",
    "type": "",
@@ -41268,7 +41232,7 @@
    "weight": 1
  },
  {
-   "id": 3440,
+   "id": 3437,
    "word": "yuloh",
    "alt": "",
    "type": "",
@@ -41280,7 +41244,7 @@
    "weight": 1
  },
  {
-   "id": 3441,
+   "id": 3438,
    "word": "fjeld",
    "alt": "",
    "type": "",
@@ -41292,7 +41256,7 @@
    "weight": 1
  },
  {
-   "id": 3442,
+   "id": 3439,
    "word": "holobenthic",
    "alt": "",
    "type": "",
@@ -41304,7 +41268,7 @@
    "weight": 1
  },
  {
-   "id": 3443,
+   "id": 3440,
    "word": "tazza",
    "alt": "",
    "type": "",
@@ -41316,7 +41280,7 @@
    "weight": 1
  },
  {
-   "id": 3444,
+   "id": 3441,
    "word": "camarilla",
    "alt": "",
    "type": "",
@@ -41328,7 +41292,7 @@
    "weight": 1
  },
  {
-   "id": 3445,
+   "id": 3442,
    "word": "polydactyly",
    "alt": "",
    "type": "",
@@ -41340,7 +41304,7 @@
    "weight": 1
  },
  {
-   "id": 3446,
+   "id": 3443,
    "word": "reseau",
    "alt": "",
    "type": "",
@@ -41352,7 +41316,7 @@
    "weight": 1
  },
  {
-   "id": 3447,
+   "id": 3444,
    "word": "paraquat",
    "alt": "",
    "type": "",
@@ -41364,7 +41328,7 @@
    "weight": 1
  },
  {
-   "id": 3448,
+   "id": 3445,
    "word": "Nicoise",
    "alt": "Niçoise",
    "type": "No preference",
@@ -41376,7 +41340,7 @@
    "weight": 1
  },
  {
-   "id": 3449,
+   "id": 3446,
    "word": "caryatid",
    "alt": "",
    "type": "",
@@ -41388,7 +41352,7 @@
    "weight": 1
  },
  {
-   "id": 3450,
+   "id": 3447,
    "word": "diamanté",
    "alt": "",
    "type": "",
@@ -41400,7 +41364,7 @@
    "weight": 1
  },
  {
-   "id": 3451,
+   "id": 3448,
    "word": "zeitgeist",
    "alt": "",
    "type": "",
@@ -41412,7 +41376,7 @@
    "weight": 1
  },
  {
-   "id": 3452,
+   "id": 3449,
    "word": "exaugural",
    "alt": "",
    "type": "",
@@ -41424,7 +41388,7 @@
    "weight": 1
  },
  {
-   "id": 3453,
+   "id": 3450,
    "word": "extravasate",
    "alt": "",
    "type": "",
@@ -41436,7 +41400,7 @@
    "weight": 1
  },
  {
-   "id": 3454,
+   "id": 3451,
    "word": "oeuvre",
    "alt": "",
    "type": "",
@@ -41448,7 +41412,7 @@
    "weight": 1
  },
  {
-   "id": 3455,
+   "id": 3452,
    "word": "realgar",
    "alt": "",
    "type": "",
@@ -41460,7 +41424,7 @@
    "weight": 1
  },
  {
-   "id": 3456,
+   "id": 3453,
    "word": "otiose",
    "alt": "",
    "type": "",
@@ -41472,7 +41436,7 @@
    "weight": 1
  },
  {
-   "id": 3457,
+   "id": 3454,
    "word": "Orwellian",
    "alt": "",
    "type": "",
@@ -41484,7 +41448,7 @@
    "weight": 1
  },
  {
-   "id": 3458,
+   "id": 3455,
    "word": "alpargata",
    "alt": "",
    "type": "",
@@ -41496,7 +41460,7 @@
    "weight": 1
  },
  {
-   "id": 3459,
+   "id": 3456,
    "word": "wickiup",
    "alt": "",
    "type": "",
@@ -41508,7 +41472,7 @@
    "weight": 1
  },
  {
-   "id": 3460,
+   "id": 3457,
    "word": "kugel",
    "alt": "",
    "type": "",
@@ -41520,7 +41484,7 @@
    "weight": 1
  },
  {
-   "id": 3461,
+   "id": 3458,
    "word": "pastitsio",
    "alt": "",
    "type": "",
@@ -41532,7 +41496,7 @@
    "weight": 1
  },
  {
-   "id": 3462,
+   "id": 3459,
    "word": "tiffin",
    "alt": "",
    "type": "",
@@ -41544,7 +41508,7 @@
    "weight": 1
  },
  {
-   "id": 3463,
+   "id": 3460,
    "word": "saturnine",
    "alt": "",
    "type": "",
@@ -41556,7 +41520,7 @@
    "weight": 1
  },
  {
-   "id": 3464,
+   "id": 3461,
    "word": "pappardelle",
    "alt": "",
    "type": "",
@@ -41568,7 +41532,7 @@
    "weight": 1
  },
  {
-   "id": 3465,
+   "id": 3462,
    "word": "aioli",
    "alt": "",
    "type": "",
@@ -41580,7 +41544,7 @@
    "weight": 1
  },
  {
-   "id": 3466,
+   "id": 3463,
    "word": "theca",
    "alt": "",
    "type": "",
@@ -41592,7 +41556,7 @@
    "weight": 1
  },
  {
-   "id": 3467,
+   "id": 3464,
    "word": "sphygmometer",
    "alt": "",
    "type": "",
@@ -41604,7 +41568,7 @@
    "weight": 1
  },
  {
-   "id": 3468,
+   "id": 3465,
    "word": "aficionado",
    "alt": "afficionado",
    "type": "Alt",
@@ -41616,7 +41580,7 @@
    "weight": 1
  },
  {
-   "id": 3469,
+   "id": 3466,
    "word": "ustion",
    "alt": "",
    "type": "",
@@ -41628,7 +41592,7 @@
    "weight": 1
  },
  {
-   "id": 3470,
+   "id": 3467,
    "word": "inesculent",
    "alt": "",
    "type": "",
@@ -41640,7 +41604,7 @@
    "weight": 1
  },
  {
-   "id": 3471,
+   "id": 3468,
    "word": "agalma",
    "alt": "",
    "type": "",
@@ -41652,7 +41616,7 @@
    "weight": 1
  },
  {
-   "id": 3472,
+   "id": 3469,
    "word": "obdurate",
    "alt": "",
    "type": "",
@@ -41664,7 +41628,7 @@
    "weight": 1
  },
  {
-   "id": 3473,
+   "id": 3470,
    "word": "loupe",
    "alt": "",
    "type": "",
@@ -41676,7 +41640,7 @@
    "weight": 1
  },
  {
-   "id": 3474,
+   "id": 3471,
    "word": "contretemps",
    "alt": "",
    "type": "",
@@ -41688,7 +41652,7 @@
    "weight": 1
  },
  {
-   "id": 3475,
+   "id": 3472,
    "word": "immiscible",
    "alt": "",
    "type": "",
@@ -41700,7 +41664,7 @@
    "weight": 1
  },
  {
-   "id": 3476,
+   "id": 3473,
    "word": "nescience",
    "alt": "",
    "type": "",
@@ -41712,7 +41676,7 @@
    "weight": 1
  },
  {
-   "id": 3477,
+   "id": 3474,
    "word": "almoner",
    "alt": "",
    "type": "",
@@ -41724,7 +41688,7 @@
    "weight": 1
  },
  {
-   "id": 3478,
+   "id": 3475,
    "word": "perorate",
    "alt": "",
    "type": "",
@@ -41736,7 +41700,7 @@
    "weight": 1
  },
  {
-   "id": 3479,
+   "id": 3476,
    "word": "bauxite",
    "alt": "",
    "type": "",
@@ -41748,7 +41712,7 @@
    "weight": 1
  },
  {
-   "id": 3480,
+   "id": 3477,
    "word": "moraine",
    "alt": "",
    "type": "",
@@ -41760,7 +41724,7 @@
    "weight": 1
  },
  {
-   "id": 3481,
+   "id": 3478,
    "word": "huapango",
    "alt": "",
    "type": "",
@@ -41772,7 +41736,7 @@
    "weight": 1
  },
  {
-   "id": 3482,
+   "id": 3479,
    "word": "carte",
    "alt": "",
    "type": "",
@@ -41784,7 +41748,7 @@
    "weight": 1
  },
  {
-   "id": 3483,
+   "id": 3480,
    "word": "bailiwick",
    "alt": "",
    "type": "",
@@ -41796,7 +41760,7 @@
    "weight": 1
  },
  {
-   "id": 3484,
+   "id": 3481,
    "word": "funori",
    "alt": "",
    "type": "",
@@ -41808,7 +41772,7 @@
    "weight": 1
  },
  {
-   "id": 3485,
+   "id": 3482,
    "word": "parallax",
    "alt": "",
    "type": "",
@@ -41820,7 +41784,7 @@
    "weight": 1
  },
  {
-   "id": 3486,
+   "id": 3483,
    "word": "disciform",
    "alt": "",
    "type": "",
@@ -41832,7 +41796,7 @@
    "weight": 1
  },
  {
-   "id": 3487,
+   "id": 3484,
    "word": "krewe",
    "alt": "",
    "type": "",
@@ -41844,7 +41808,7 @@
    "weight": 1
  },
  {
-   "id": 3488,
+   "id": 3485,
    "word": "quidnunc",
    "alt": "",
    "type": "",
@@ -41856,7 +41820,7 @@
    "weight": 1
  },
  {
-   "id": 3489,
+   "id": 3486,
    "word": "pejorate",
    "alt": "",
    "type": "",
@@ -41868,7 +41832,7 @@
    "weight": 1
  },
  {
-   "id": 3490,
+   "id": 3487,
    "word": "maquette",
    "alt": "",
    "type": "",
@@ -41880,7 +41844,7 @@
    "weight": 1
  },
  {
-   "id": 3491,
+   "id": 3488,
    "word": "vicenary",
    "alt": "",
    "type": "",
@@ -41892,7 +41856,7 @@
    "weight": 1
  },
  {
-   "id": 3492,
+   "id": 3489,
    "word": "Luddite",
    "alt": "",
    "type": "",
@@ -41904,7 +41868,7 @@
    "weight": 1
  },
  {
-   "id": 3493,
+   "id": 3490,
    "word": "chastushka",
    "alt": "",
    "type": "",
@@ -41916,7 +41880,7 @@
    "weight": 1
  },
  {
-   "id": 3494,
+   "id": 3491,
    "word": "quokka",
    "alt": "",
    "type": "",
@@ -41928,7 +41892,7 @@
    "weight": 1
  },
  {
-   "id": 3495,
+   "id": 3492,
    "word": "oleiculture",
    "alt": "",
    "type": "",
@@ -41940,7 +41904,7 @@
    "weight": 1
  },
  {
-   "id": 3496,
+   "id": 3493,
    "word": "Magellan",
    "alt": "",
    "type": "",
@@ -41952,7 +41916,7 @@
    "weight": 1
  },
  {
-   "id": 3497,
+   "id": 3494,
    "word": "imbroglio",
    "alt": "embroglio",
    "type": "Alt",
@@ -41964,7 +41928,7 @@
    "weight": 1
  },
  {
-   "id": 3498,
+   "id": 3495,
    "word": "heinousness",
    "alt": "",
    "type": "",
@@ -41976,7 +41940,7 @@
    "weight": 1
  },
  {
-   "id": 3499,
+   "id": 3496,
    "word": "euphonious",
    "alt": "",
    "type": "",
@@ -41988,7 +41952,7 @@
    "weight": 1
  },
  {
-   "id": 3500,
+   "id": 3497,
    "word": "hypertrophy",
    "alt": "",
    "type": "",
@@ -42000,7 +41964,7 @@
    "weight": 1
  },
  {
-   "id": 3501,
+   "id": 3498,
    "word": "avuncular",
    "alt": "",
    "type": "",
@@ -42012,7 +41976,7 @@
    "weight": 1
  },
  {
-   "id": 3502,
+   "id": 3499,
    "word": "Feldenkrais",
    "alt": "",
    "type": "",
@@ -42024,7 +41988,7 @@
    "weight": 1
  },
  {
-   "id": 3503,
+   "id": 3500,
    "word": "otacoustic",
    "alt": "",
    "type": "",
@@ -42036,7 +42000,7 @@
    "weight": 1
  },
  {
-   "id": 3504,
+   "id": 3501,
    "word": "prana",
    "alt": "",
    "type": "",
@@ -42048,7 +42012,7 @@
    "weight": 1
  },
  {
-   "id": 3505,
+   "id": 3502,
    "word": "panjandrum",
    "alt": "",
    "type": "",
@@ -42060,7 +42024,7 @@
    "weight": 1
  },
  {
-   "id": 3506,
+   "id": 3503,
    "word": "katsura",
    "alt": "",
    "type": "",
@@ -42072,7 +42036,7 @@
    "weight": 1
  },
  {
-   "id": 3507,
+   "id": 3504,
    "word": "bobolink",
    "alt": "",
    "type": "",
@@ -42084,7 +42048,7 @@
    "weight": 1
  },
  {
-   "id": 3508,
+   "id": 3505,
    "word": "pertinacity",
    "alt": "",
    "type": "",
@@ -42096,7 +42060,7 @@
    "weight": 1
  },
  {
-   "id": 3509,
+   "id": 3506,
    "word": "pistou",
    "alt": "",
    "type": "",
@@ -42108,7 +42072,7 @@
    "weight": 1
  },
  {
-   "id": 3510,
+   "id": 3507,
    "word": "neophyte",
    "alt": "",
    "type": "",
@@ -42120,7 +42084,7 @@
    "weight": 1
  },
  {
-   "id": 3511,
+   "id": 3508,
    "word": "arachnophagous",
    "alt": "",
    "type": "",
@@ -42132,7 +42096,7 @@
    "weight": 1
  },
  {
-   "id": 3512,
+   "id": 3509,
    "word": "clavichord",
    "alt": "",
    "type": "",
@@ -42144,7 +42108,7 @@
    "weight": 1
  },
  {
-   "id": 3513,
+   "id": 3510,
    "word": "dauerlauf",
    "alt": "",
    "type": "",
@@ -42156,7 +42120,7 @@
    "weight": 1
  },
  {
-   "id": 3514,
+   "id": 3511,
    "word": "corrigenda",
    "alt": "",
    "type": "",
@@ -42168,7 +42132,7 @@
    "weight": 1
  },
  {
-   "id": 3515,
+   "id": 3512,
    "word": "tanager",
    "alt": "",
    "type": "",
@@ -42180,7 +42144,7 @@
    "weight": 1
  },
  {
-   "id": 3516,
+   "id": 3513,
    "word": "mountebank",
    "alt": "",
    "type": "",
@@ -42192,7 +42156,7 @@
    "weight": 1
  },
  {
-   "id": 3517,
+   "id": 3514,
    "word": "Reykjavík",
    "alt": "",
    "type": "",
@@ -42204,7 +42168,7 @@
    "weight": 1
  },
  {
-   "id": 3518,
+   "id": 3515,
    "word": "mesial",
    "alt": "",
    "type": "",
@@ -42216,7 +42180,7 @@
    "weight": 1
  },
  {
-   "id": 3519,
+   "id": 3516,
    "word": "rescissible",
    "alt": "",
    "type": "",
@@ -42228,7 +42192,7 @@
    "weight": 1
  },
  {
-   "id": 3520,
+   "id": 3517,
    "word": "lefse",
    "alt": "",
    "type": "",
@@ -42240,7 +42204,7 @@
    "weight": 1
  },
  {
-   "id": 3521,
+   "id": 3518,
    "word": "luculent",
    "alt": "",
    "type": "",
@@ -42252,7 +42216,7 @@
    "weight": 1
  },
  {
-   "id": 3522,
+   "id": 3519,
    "word": "myeloma",
    "alt": "",
    "type": "",
@@ -42264,7 +42228,7 @@
    "weight": 1
  },
  {
-   "id": 3523,
+   "id": 3520,
    "word": "renminbi",
    "alt": "",
    "type": "",
@@ -42276,7 +42240,7 @@
    "weight": 1
  },
  {
-   "id": 3524,
+   "id": 3521,
    "word": "theodicy",
    "alt": "",
    "type": "",
@@ -42288,7 +42252,7 @@
    "weight": 1
  },
  {
-   "id": 3525,
+   "id": 3522,
    "word": "framboise",
    "alt": "",
    "type": "",
@@ -42300,7 +42264,7 @@
    "weight": 1
  },
  {
-   "id": 3526,
+   "id": 3523,
    "word": "saponaceous",
    "alt": "",
    "type": "",
@@ -42312,7 +42276,7 @@
    "weight": 1
  },
  {
-   "id": 3527,
+   "id": 3524,
    "word": "bathos",
    "alt": "",
    "type": "",
@@ -42324,7 +42288,7 @@
    "weight": 1
  },
  {
-   "id": 3528,
+   "id": 3525,
    "word": "tikkun",
    "alt": "",
    "type": "",
@@ -42336,7 +42300,7 @@
    "weight": 1
  },
  {
-   "id": 3529,
+   "id": 3526,
    "word": "harmattan",
    "alt": "",
    "type": "",
@@ -42348,7 +42312,7 @@
    "weight": 1
  },
  {
-   "id": 3530,
+   "id": 3527,
    "word": "mamushi",
    "alt": "",
    "type": "",
@@ -42360,7 +42324,7 @@
    "weight": 1
  },
  {
-   "id": 3531,
+   "id": 3528,
    "word": "outré",
    "alt": "",
    "type": "",
@@ -42372,7 +42336,7 @@
    "weight": 1
  },
  {
-   "id": 3532,
+   "id": 3529,
    "word": "anodyne",
    "alt": "",
    "type": "",
@@ -42384,7 +42348,7 @@
    "weight": 1
  },
  {
-   "id": 3533,
+   "id": 3530,
    "word": "gyttja",
    "alt": "",
    "type": "",
@@ -42396,7 +42360,7 @@
    "weight": 1
  },
  {
-   "id": 3534,
+   "id": 3531,
    "word": "dysrhythmia",
    "alt": "",
    "type": "",
@@ -42408,7 +42372,7 @@
    "weight": 1
  },
  {
-   "id": 3535,
+   "id": 3532,
    "word": "denouement",
    "alt": "",
    "type": "",
@@ -42420,7 +42384,7 @@
    "weight": 1
  },
  {
-   "id": 3536,
+   "id": 3533,
    "word": "examen",
    "alt": "",
    "type": "",
@@ -42432,7 +42396,7 @@
    "weight": 1
  },
  {
-   "id": 3537,
+   "id": 3534,
    "word": "tourelle",
    "alt": "",
    "type": "",
@@ -42444,7 +42408,7 @@
    "weight": 1
  },
  {
-   "id": 3538,
+   "id": 3535,
    "word": "acequia",
    "alt": "",
    "type": "",
@@ -42456,7 +42420,7 @@
    "weight": 1
  },
  {
-   "id": 3539,
+   "id": 3536,
    "word": "transhumance",
    "alt": "",
    "type": "",
@@ -42468,7 +42432,7 @@
    "weight": 1
  },
  {
-   "id": 3540,
+   "id": 3537,
    "word": "bodhran",
    "alt": "",
    "type": "",
@@ -42480,7 +42444,7 @@
    "weight": 1
  },
  {
-   "id": 3541,
+   "id": 3538,
    "word": "carmagnole",
    "alt": "",
    "type": "",
@@ -42492,7 +42456,7 @@
    "weight": 1
  },
  {
-   "id": 3542,
+   "id": 3539,
    "word": "Panagia",
    "alt": "",
    "type": "",
@@ -42504,7 +42468,7 @@
    "weight": 1
  },
  {
-   "id": 3543,
+   "id": 3540,
    "word": "rocaille",
    "alt": "",
    "type": "",
@@ -42516,7 +42480,7 @@
    "weight": 1
  },
  {
-   "id": 3544,
+   "id": 3541,
    "word": "bouillon",
    "alt": "",
    "type": "",
@@ -42528,7 +42492,7 @@
    "weight": 1
  },
  {
-   "id": 3545,
+   "id": 3542,
    "word": "veridical",
    "alt": "",
    "type": "",
@@ -42540,7 +42504,7 @@
    "weight": 1
  },
  {
-   "id": 3546,
+   "id": 3543,
    "word": "basilica",
    "alt": "",
    "type": "",
@@ -42552,7 +42516,7 @@
    "weight": 1
  },
  {
-   "id": 3547,
+   "id": 3544,
    "word": "gambol",
    "alt": "",
    "type": "",
@@ -42564,7 +42528,7 @@
    "weight": 1
  },
  {
-   "id": 3548,
+   "id": 3545,
    "word": "nudibranch",
    "alt": "",
    "type": "",
@@ -42576,7 +42540,7 @@
    "weight": 1
  },
  {
-   "id": 3549,
+   "id": 3546,
    "word": "ikat",
    "alt": "",
    "type": "",
@@ -42588,7 +42552,7 @@
    "weight": 1
  },
  {
-   "id": 3550,
+   "id": 3547,
    "word": "gagaku",
    "alt": "",
    "type": "",
@@ -42600,7 +42564,7 @@
    "weight": 1
  },
  {
-   "id": 3551,
+   "id": 3548,
    "word": "pirouetted",
    "alt": "",
    "type": "",
@@ -42612,7 +42576,7 @@
    "weight": 1
  },
  {
-   "id": 3552,
+   "id": 3549,
    "word": "prognosticate",
    "alt": "",
    "type": "",
@@ -42624,7 +42588,7 @@
    "weight": 1
  },
  {
-   "id": 3553,
+   "id": 3550,
    "word": "terpsichore",
    "alt": "",
    "type": "",
@@ -42636,7 +42600,7 @@
    "weight": 1
  },
  {
-   "id": 3554,
+   "id": 3551,
    "word": "voce",
    "alt": "",
    "type": "",
@@ -42648,7 +42612,7 @@
    "weight": 1
  },
  {
-   "id": 3555,
+   "id": 3552,
    "word": "trigeminal",
    "alt": "",
    "type": "",
@@ -42660,7 +42624,7 @@
    "weight": 1
  },
  {
-   "id": 3556,
+   "id": 3553,
    "word": "dulcinea",
    "alt": "",
    "type": "",
@@ -42672,7 +42636,7 @@
    "weight": 1
  },
  {
-   "id": 3557,
+   "id": 3554,
    "word": "stanchion",
    "alt": "",
    "type": "",
@@ -42684,7 +42648,7 @@
    "weight": 1
  },
  {
-   "id": 3558,
+   "id": 3555,
    "word": "akaryote",
    "alt": "",
    "type": "",
@@ -42696,7 +42660,7 @@
    "weight": 1
  },
  {
-   "id": 3559,
+   "id": 3556,
    "word": "goosander",
    "alt": "",
    "type": "",
@@ -42708,7 +42672,7 @@
    "weight": 1
  },
  {
-   "id": 3560,
+   "id": 3557,
    "word": "xiphias",
    "alt": "",
    "type": "",
@@ -42720,7 +42684,7 @@
    "weight": 1
  },
  {
-   "id": 3561,
+   "id": 3558,
    "word": "hsaing-waing",
    "alt": "",
    "type": "",
@@ -42732,7 +42696,7 @@
    "weight": 1
  },
  {
-   "id": 3562,
+   "id": 3559,
    "word": "seine",
    "alt": "",
    "type": "",
@@ -42744,7 +42708,7 @@
    "weight": 1
  },
  {
-   "id": 3563,
+   "id": 3560,
    "word": "affogato",
    "alt": "",
    "type": "",
@@ -42756,7 +42720,7 @@
    "weight": 1
  },
  {
-   "id": 3564,
+   "id": 3561,
    "word": "ferruginous",
    "alt": "",
    "type": "",
@@ -42768,7 +42732,7 @@
    "weight": 1
  },
  {
-   "id": 3565,
+   "id": 3562,
    "word": "totipotency",
    "alt": "",
    "type": "",
@@ -42780,7 +42744,7 @@
    "weight": 1
  },
  {
-   "id": 3566,
+   "id": 3563,
    "word": "secant",
    "alt": "",
    "type": "",
@@ -42792,7 +42756,7 @@
    "weight": 1
  },
  {
-   "id": 3567,
+   "id": 3564,
    "word": "bloviate",
    "alt": "",
    "type": "",
@@ -42804,7 +42768,7 @@
    "weight": 1
  },
  {
-   "id": 3568,
+   "id": 3565,
    "word": "verdure",
    "alt": "",
    "type": "",
@@ -42816,7 +42780,7 @@
    "weight": 1
  },
  {
-   "id": 3569,
+   "id": 3566,
    "word": "skeuomorph",
    "alt": "",
    "type": "",
@@ -42828,7 +42792,7 @@
    "weight": 1
  },
  {
-   "id": 3570,
+   "id": 3567,
    "word": "Bolognese",
    "alt": "",
    "type": "",
@@ -42840,7 +42804,7 @@
    "weight": 1
  },
  {
-   "id": 3571,
+   "id": 3568,
    "word": "kobold",
    "alt": "",
    "type": "",
@@ -42852,7 +42816,7 @@
    "weight": 1
  },
  {
-   "id": 3572,
+   "id": 3569,
    "word": "mortadella",
    "alt": "",
    "type": "",
@@ -42864,7 +42828,7 @@
    "weight": 1
  },
  {
-   "id": 3573,
+   "id": 3570,
    "word": "modiste",
    "alt": "",
    "type": "",
@@ -42876,7 +42840,7 @@
    "weight": 1
  },
  {
-   "id": 3574,
+   "id": 3571,
    "word": "sacerdotal",
    "alt": "",
    "type": "",
@@ -42888,7 +42852,7 @@
    "weight": 1
  },
  {
-   "id": 3575,
+   "id": 3572,
    "word": "colporteur",
    "alt": "colporter",
    "type": "No preference",
@@ -42900,7 +42864,7 @@
    "weight": 1
  },
  {
-   "id": 3576,
+   "id": 3573,
    "word": "querulous",
    "alt": "",
    "type": "",
@@ -42912,7 +42876,7 @@
    "weight": 1
  },
  {
-   "id": 3577,
+   "id": 3574,
    "word": "orogeny",
    "alt": "",
    "type": "",
@@ -42924,7 +42888,7 @@
    "weight": 1
  },
  {
-   "id": 3578,
+   "id": 3575,
    "word": "stannum",
    "alt": "",
    "type": "",
@@ -42936,7 +42900,7 @@
    "weight": 1
  },
  {
-   "id": 3579,
+   "id": 3576,
    "word": "chrysolite",
    "alt": "",
    "type": "",
@@ -42948,7 +42912,7 @@
    "weight": 1
  },
  {
-   "id": 3580,
+   "id": 3577,
    "word": "impugn",
    "alt": "",
    "type": "",
@@ -42960,7 +42924,7 @@
    "weight": 1
  },
  {
-   "id": 3581,
+   "id": 3578,
    "word": "toxicosis",
    "alt": "",
    "type": "",
@@ -42972,7 +42936,7 @@
    "weight": 1
  },
  {
-   "id": 3582,
+   "id": 3579,
    "word": "agitprop",
    "alt": "",
    "type": "",
@@ -42984,7 +42948,7 @@
    "weight": 1
  },
  {
-   "id": 3583,
+   "id": 3580,
    "word": "bibimbap",
    "alt": "",
    "type": "",
@@ -42996,7 +42960,7 @@
    "weight": 1
  },
  {
-   "id": 3584,
+   "id": 3581,
    "word": "tenon",
    "alt": "",
    "type": "",
@@ -43008,7 +42972,7 @@
    "weight": 1
  },
  {
-   "id": 3585,
+   "id": 3582,
    "word": "mizuna",
    "alt": "",
    "type": "",
@@ -43020,7 +42984,7 @@
    "weight": 1
  },
  {
-   "id": 3586,
+   "id": 3583,
    "word": "quattrocento",
    "alt": "",
    "type": "",
@@ -43032,7 +42996,7 @@
    "weight": 1
  },
  {
-   "id": 3587,
+   "id": 3584,
    "word": "spiedini",
    "alt": "",
    "type": "",
@@ -43044,7 +43008,7 @@
    "weight": 1
  },
  {
-   "id": 3588,
+   "id": 3585,
    "word": "diastole",
    "alt": "",
    "type": "",
@@ -43056,7 +43020,7 @@
    "weight": 1
  },
  {
-   "id": 3589,
+   "id": 3586,
    "word": "étouffée",
    "alt": "etouffee",
    "type": "No preference",
@@ -43068,7 +43032,7 @@
    "weight": 1
  },
  {
-   "id": 3590,
+   "id": 3587,
    "word": "encina",
    "alt": "",
    "type": "",
@@ -43080,7 +43044,7 @@
    "weight": 1
  },
  {
-   "id": 3591,
+   "id": 3588,
    "word": "coalescence",
    "alt": "",
    "type": "",
@@ -43092,7 +43056,7 @@
    "weight": 1
  },
  {
-   "id": 3592,
+   "id": 3589,
    "word": "exsect",
    "alt": "",
    "type": "",
@@ -43104,7 +43068,7 @@
    "weight": 1
  },
  {
-   "id": 3593,
+   "id": 3590,
    "word": "gendarme",
    "alt": "",
    "type": "",
@@ -43116,7 +43080,7 @@
    "weight": 1
  },
  {
-   "id": 3594,
+   "id": 3591,
    "word": "stretto",
    "alt": "",
    "type": "",
@@ -43128,7 +43092,7 @@
    "weight": 1
  },
  {
-   "id": 3595,
+   "id": 3592,
    "word": "consigliere",
    "alt": "",
    "type": "",
@@ -43140,7 +43104,7 @@
    "weight": 1
  },
  {
-   "id": 3596,
+   "id": 3593,
    "word": "sulcus",
    "alt": "",
    "type": "",
@@ -43152,7 +43116,7 @@
    "weight": 1
  },
  {
-   "id": 3597,
+   "id": 3594,
    "word": "hamadryad",
    "alt": "",
    "type": "",
@@ -43164,7 +43128,7 @@
    "weight": 1
  },
  {
-   "id": 3598,
+   "id": 3595,
    "word": "ochlocracy",
    "alt": "",
    "type": "",
@@ -43176,7 +43140,7 @@
    "weight": 1
  },
  {
-   "id": 3599,
+   "id": 3596,
    "word": "capotasto",
    "alt": "",
    "type": "",
@@ -43188,7 +43152,7 @@
    "weight": 1
  },
  {
-   "id": 3600,
+   "id": 3597,
    "word": "rongeur",
    "alt": "",
    "type": "",
@@ -43200,7 +43164,7 @@
    "weight": 1
  },
  {
-   "id": 3601,
+   "id": 3598,
    "word": "a",
    "alt": "",
    "type": "",
@@ -43212,7 +43176,7 @@
    "weight": 1
  },
  {
-   "id": 3602,
+   "id": 3599,
    "word": "parterre",
    "alt": "",
    "type": "",
@@ -43224,7 +43188,7 @@
    "weight": 1
  },
  {
-   "id": 3603,
+   "id": 3600,
    "word": "katakana",
    "alt": "",
    "type": "",
@@ -43236,7 +43200,7 @@
    "weight": 1
  },
  {
-   "id": 3604,
+   "id": 3601,
    "word": "immure",
    "alt": "",
    "type": "",
@@ -43248,7 +43212,7 @@
    "weight": 1
  },
  {
-   "id": 3605,
+   "id": 3602,
    "word": "puchero",
    "alt": "",
    "type": "",
@@ -43260,7 +43224,7 @@
    "weight": 1
  },
  {
-   "id": 3606,
+   "id": 3603,
    "word": "Adélie",
    "alt": "",
    "type": "",
@@ -43272,7 +43236,7 @@
    "weight": 1
  },
  {
-   "id": 3607,
+   "id": 3604,
    "word": "béchamel",
    "alt": "",
    "type": "",
@@ -43284,7 +43248,7 @@
    "weight": 1
  },
  {
-   "id": 3608,
+   "id": 3605,
    "word": "cozen",
    "alt": "",
    "type": "",
@@ -43296,7 +43260,7 @@
    "weight": 1
  },
  {
-   "id": 3609,
+   "id": 3606,
    "word": "beurre",
    "alt": "",
    "type": "",
@@ -43308,7 +43272,7 @@
    "weight": 1
  },
  {
-   "id": 3610,
+   "id": 3607,
    "word": "naumachia",
    "alt": "",
    "type": "",
@@ -43320,7 +43284,7 @@
    "weight": 1
  },
  {
-   "id": 3611,
+   "id": 3608,
    "word": "rhizome",
    "alt": "",
    "type": "",
@@ -43332,7 +43296,7 @@
    "weight": 1
  },
  {
-   "id": 3612,
+   "id": 3609,
    "word": "surcease",
    "alt": "",
    "type": "",
@@ -43344,7 +43308,7 @@
    "weight": 1
  },
  {
-   "id": 3613,
+   "id": 3610,
    "word": "eleemosynary",
    "alt": "",
    "type": "",
@@ -43356,7 +43320,7 @@
    "weight": 1
  },
  {
-   "id": 3614,
+   "id": 3611,
    "word": "zazen",
    "alt": "",
    "type": "",
@@ -43368,7 +43332,7 @@
    "weight": 1
  },
  {
-   "id": 3615,
+   "id": 3612,
    "word": "rubefacient",
    "alt": "",
    "type": "",
@@ -43380,7 +43344,7 @@
    "weight": 1
  },
  {
-   "id": 3616,
+   "id": 3613,
    "word": "paroxysm",
    "alt": "",
    "type": "",
@@ -43392,7 +43356,7 @@
    "weight": 1
  },
  {
-   "id": 3617,
+   "id": 3614,
    "word": "niveau",
    "alt": "",
    "type": "",
@@ -43404,7 +43368,7 @@
    "weight": 1
  },
  {
-   "id": 3618,
+   "id": 3615,
    "word": "trompe",
    "alt": "",
    "type": "",
@@ -43416,7 +43380,7 @@
    "weight": 1
  },
  {
-   "id": 3619,
+   "id": 3616,
    "word": "longevous",
    "alt": "",
    "type": "",
@@ -43428,7 +43392,7 @@
    "weight": 1
  },
  {
-   "id": 3620,
+   "id": 3617,
    "word": "hauteur",
    "alt": "",
    "type": "",
@@ -43440,7 +43404,7 @@
    "weight": 1
  },
  {
-   "id": 3621,
+   "id": 3618,
    "word": "tournedos",
    "alt": "",
    "type": "",
@@ -43452,7 +43416,7 @@
    "weight": 1
  },
  {
-   "id": 3622,
+   "id": 3619,
    "word": "contrapposto",
    "alt": "",
    "type": "",
@@ -43464,7 +43428,7 @@
    "weight": 1
  },
  {
-   "id": 3623,
+   "id": 3620,
    "word": "luthier",
    "alt": "",
    "type": "",
@@ -43476,7 +43440,7 @@
    "weight": 1
  },
  {
-   "id": 3624,
+   "id": 3621,
    "word": "aposematic",
    "alt": "",
    "type": "",
@@ -43488,7 +43452,7 @@
    "weight": 1
  },
  {
-   "id": 3625,
+   "id": 3622,
    "word": "vitiate",
    "alt": "",
    "type": "",
@@ -43500,7 +43464,7 @@
    "weight": 1
  },
  {
-   "id": 3626,
+   "id": 3623,
    "word": "inchoate",
    "alt": "",
    "type": "",
@@ -43512,7 +43476,7 @@
    "weight": 1
  },
  {
-   "id": 3627,
+   "id": 3624,
    "word": "nictitate",
    "alt": "",
    "type": "",
@@ -43524,7 +43488,7 @@
    "weight": 1
  },
  {
-   "id": 3628,
+   "id": 3625,
    "word": "exiguous",
    "alt": "",
    "type": "",
@@ -43536,7 +43500,7 @@
    "weight": 1
  },
  {
-   "id": 3629,
+   "id": 3626,
    "word": "carapace",
    "alt": "",
    "type": "",
@@ -43548,7 +43512,7 @@
    "weight": 1
  },
  {
-   "id": 3630,
+   "id": 3627,
    "word": "coaxation",
    "alt": "",
    "type": "",
@@ -43560,7 +43524,7 @@
    "weight": 1
  },
  {
-   "id": 3631,
+   "id": 3628,
    "word": "consanguine",
    "alt": "",
    "type": "",
@@ -43572,7 +43536,7 @@
    "weight": 1
  },
  {
-   "id": 3632,
+   "id": 3629,
    "word": "pneumatocyst",
    "alt": "",
    "type": "",
@@ -43584,7 +43548,7 @@
    "weight": 1
  },
  {
-   "id": 3633,
+   "id": 3630,
    "word": "Rorschach",
    "alt": "",
    "type": "",
@@ -43596,7 +43560,7 @@
    "weight": 1
  },
  {
-   "id": 3634,
+   "id": 3631,
    "word": "insouciance",
    "alt": "",
    "type": "",
@@ -43608,7 +43572,7 @@
    "weight": 1
  },
  {
-   "id": 3635,
+   "id": 3632,
    "word": "saccadic",
    "alt": "",
    "type": "",
@@ -43620,7 +43584,7 @@
    "weight": 1
  },
  {
-   "id": 3636,
+   "id": 3633,
    "word": "croquembouche",
    "alt": "",
    "type": "",
@@ -43632,7 +43596,7 @@
    "weight": 1
  },
  {
-   "id": 3637,
+   "id": 3634,
    "word": "Ouagadougou",
    "alt": "",
    "type": "",
@@ -43644,7 +43608,7 @@
    "weight": 1
  },
  {
-   "id": 3638,
+   "id": 3635,
    "word": "dubitante",
    "alt": "",
    "type": "",
@@ -43656,7 +43620,7 @@
    "weight": 1
  },
  {
-   "id": 3639,
+   "id": 3636,
    "word": "pruritus",
    "alt": "",
    "type": "",
@@ -43668,7 +43632,7 @@
    "weight": 1
  },
  {
-   "id": 3640,
+   "id": 3637,
    "word": "kente",
    "alt": "",
    "type": "",
@@ -43680,7 +43644,7 @@
    "weight": 1
  },
  {
-   "id": 3641,
+   "id": 3638,
    "word": "frazil",
    "alt": "",
    "type": "",
@@ -43692,7 +43656,7 @@
    "weight": 1
  },
  {
-   "id": 3642,
+   "id": 3639,
    "word": "wassail",
    "alt": "",
    "type": "",
@@ -43704,7 +43668,7 @@
    "weight": 1
  },
  {
-   "id": 3643,
+   "id": 3640,
    "word": "élan",
    "alt": "",
    "type": "",
@@ -43716,7 +43680,7 @@
    "weight": 1
  },
  {
-   "id": 3644,
+   "id": 3641,
    "word": "ossicle",
    "alt": "",
    "type": "",
@@ -43728,7 +43692,7 @@
    "weight": 1
  },
  {
-   "id": 3645,
+   "id": 3642,
    "word": "valetudinary",
    "alt": "",
    "type": "",
@@ -43740,7 +43704,7 @@
    "weight": 1
  },
  {
-   "id": 3646,
+   "id": 3643,
    "word": "elision",
    "alt": "",
    "type": "",
@@ -43752,7 +43716,7 @@
    "weight": 1
  },
  {
-   "id": 3647,
+   "id": 3644,
    "word": "beccafico",
    "alt": "",
    "type": "",
@@ -43764,7 +43728,7 @@
    "weight": 1
  },
  {
-   "id": 3648,
+   "id": 3645,
    "word": "frison",
    "alt": "",
    "type": "",
@@ -43776,7 +43740,7 @@
    "weight": 1
  },
  {
-   "id": 3649,
+   "id": 3646,
    "word": "malleolus",
    "alt": "",
    "type": "",
@@ -43788,7 +43752,7 @@
    "weight": 1
  },
  {
-   "id": 3650,
+   "id": 3647,
    "word": "duello",
    "alt": "",
    "type": "",
@@ -43800,7 +43764,7 @@
    "weight": 1
  },
  {
-   "id": 3651,
+   "id": 3648,
    "word": "accompli",
    "alt": "",
    "type": "",
@@ -43812,7 +43776,7 @@
    "weight": 1
  },
  {
-   "id": 3652,
+   "id": 3649,
    "word": "rafflesia",
    "alt": "",
    "type": "",
@@ -43824,7 +43788,7 @@
    "weight": 1
  },
  {
-   "id": 3653,
+   "id": 3650,
    "word": "retinoscopy",
    "alt": "",
    "type": "",
@@ -43836,7 +43800,7 @@
    "weight": 1
  },
  {
-   "id": 3654,
+   "id": 3651,
    "word": "bourgeois",
    "alt": "",
    "type": "",
@@ -43848,7 +43812,7 @@
    "weight": 1
  },
  {
-   "id": 3655,
+   "id": 3652,
    "word": "elegiac",
    "alt": "",
    "type": "",
@@ -43860,7 +43824,7 @@
    "weight": 1
  },
  {
-   "id": 3656,
+   "id": 3653,
    "word": "thalassic",
    "alt": "",
    "type": "",
@@ -43872,7 +43836,7 @@
    "weight": 1
  },
  {
-   "id": 3657,
+   "id": 3654,
    "word": "strychnine",
    "alt": "",
    "type": "",
@@ -43884,7 +43848,7 @@
    "weight": 1
  },
  {
-   "id": 3658,
+   "id": 3655,
    "word": "cinerarium",
    "alt": "",
    "type": "",
@@ -43896,7 +43860,7 @@
    "weight": 1
  },
  {
-   "id": 3659,
+   "id": 3656,
    "word": "venenate",
    "alt": "",
    "type": "",
@@ -43908,7 +43872,7 @@
    "weight": 1
  },
  {
-   "id": 3660,
+   "id": 3657,
    "word": "fossiliferous",
    "alt": "",
    "type": "",
@@ -43920,7 +43884,7 @@
    "weight": 1
  },
  {
-   "id": 3661,
+   "id": 3658,
    "word": "rathskeller",
    "alt": "",
    "type": "",
@@ -43932,7 +43896,7 @@
    "weight": 1
  },
  {
-   "id": 3662,
+   "id": 3659,
    "word": "bijouterie",
    "alt": "",
    "type": "",
@@ -43944,7 +43908,7 @@
    "weight": 1
  },
  {
-   "id": 3663,
+   "id": 3660,
    "word": "hominem",
    "alt": "",
    "type": "",
@@ -43956,7 +43920,7 @@
    "weight": 1
  },
  {
-   "id": 3664,
+   "id": 3661,
    "word": "synecdoche",
    "alt": "",
    "type": "",
@@ -43968,7 +43932,7 @@
    "weight": 1
  },
  {
-   "id": 3665,
+   "id": 3662,
    "word": "titian",
    "alt": "",
    "type": "",
@@ -43980,7 +43944,7 @@
    "weight": 1
  },
  {
-   "id": 3666,
+   "id": 3663,
    "word": "malachite",
    "alt": "",
    "type": "",
@@ -43992,7 +43956,7 @@
    "weight": 1
  },
  {
-   "id": 3667,
+   "id": 3664,
    "word": "atlatl",
    "alt": "",
    "type": "",
@@ -44004,7 +43968,7 @@
    "weight": 1
  },
  {
-   "id": 3668,
+   "id": 3665,
    "word": "polloi",
    "alt": "",
    "type": "",
@@ -44016,7 +43980,7 @@
    "weight": 1
  },
  {
-   "id": 3669,
+   "id": 3666,
    "word": "shubunkin",
    "alt": "",
    "type": "",
@@ -44028,7 +43992,7 @@
    "weight": 1
  },
  {
-   "id": 3670,
+   "id": 3667,
    "word": "unwonted",
    "alt": "",
    "type": "",
@@ -44040,7 +44004,7 @@
    "weight": 1
  },
  {
-   "id": 3671,
+   "id": 3668,
    "word": "gaillardia",
    "alt": "",
    "type": "",
@@ -44052,7 +44016,7 @@
    "weight": 1
  },
  {
-   "id": 3672,
+   "id": 3669,
    "word": "vigneron",
    "alt": "",
    "type": "",
@@ -44064,7 +44028,7 @@
    "weight": 1
  },
  {
-   "id": 3673,
+   "id": 3670,
    "word": "tryptophan",
    "alt": "",
    "type": "",
@@ -44076,7 +44040,7 @@
    "weight": 1
  },
  {
-   "id": 3674,
+   "id": 3671,
    "word": "avgolemono",
    "alt": "",
    "type": "",
@@ -44088,7 +44052,7 @@
    "weight": 1
  },
  {
-   "id": 3675,
+   "id": 3672,
    "word": "auteur",
    "alt": "",
    "type": "",
@@ -44100,7 +44064,7 @@
    "weight": 1
  },
  {
-   "id": 3676,
+   "id": 3673,
    "word": "embolus",
    "alt": "",
    "type": "",
@@ -44112,7 +44076,7 @@
    "weight": 1
  },
  {
-   "id": 3677,
+   "id": 3674,
    "word": "dreikanter",
    "alt": "",
    "type": "",
@@ -44124,7 +44088,7 @@
    "weight": 1
  },
  {
-   "id": 3678,
+   "id": 3675,
    "word": "nisse",
    "alt": "",
    "type": "",
@@ -44136,7 +44100,7 @@
    "weight": 1
  },
  {
-   "id": 3679,
+   "id": 3676,
    "word": "haori",
    "alt": "",
    "type": "",
@@ -44148,7 +44112,7 @@
    "weight": 1
  },
  {
-   "id": 3680,
+   "id": 3677,
    "word": "solipsist",
    "alt": "",
    "type": "",
@@ -44160,7 +44124,7 @@
    "weight": 1
  },
  {
-   "id": 3681,
+   "id": 3678,
    "word": "woad",
    "alt": "",
    "type": "",
@@ -44172,7 +44136,7 @@
    "weight": 1
  },
  {
-   "id": 3682,
+   "id": 3679,
    "word": "pusillanimous",
    "alt": "",
    "type": "",
@@ -44184,7 +44148,7 @@
    "weight": 1
  },
  {
-   "id": 3683,
+   "id": 3680,
    "word": "radicchio",
    "alt": "",
    "type": "",
@@ -44196,7 +44160,7 @@
    "weight": 1
  },
  {
-   "id": 3684,
+   "id": 3681,
    "word": "aerophilatelic",
    "alt": "",
    "type": "",
@@ -44208,7 +44172,7 @@
    "weight": 1
  },
  {
-   "id": 3685,
+   "id": 3682,
    "word": "milieu",
    "alt": "",
    "type": "",
@@ -44220,7 +44184,7 @@
    "weight": 1
  },
  {
-   "id": 3686,
+   "id": 3683,
    "word": "sommelier",
    "alt": "",
    "type": "",
@@ -44232,7 +44196,7 @@
    "weight": 1
  },
  {
-   "id": 3687,
+   "id": 3684,
    "word": "susurrus",
    "alt": "",
    "type": "",
@@ -44244,7 +44208,7 @@
    "weight": 1
  },
  {
-   "id": 3688,
+   "id": 3685,
    "word": "caisson",
    "alt": "",
    "type": "",
@@ -44256,7 +44220,7 @@
    "weight": 1
  },
  {
-   "id": 3689,
+   "id": 3686,
    "word": "facile",
    "alt": "",
    "type": "",
@@ -44268,7 +44232,7 @@
    "weight": 1
  },
  {
-   "id": 3690,
+   "id": 3687,
    "word": "tralatitious",
    "alt": "",
    "type": "",
@@ -44280,7 +44244,7 @@
    "weight": 1
  },
  {
-   "id": 3691,
+   "id": 3688,
    "word": "vilipend",
    "alt": "",
    "type": "",
@@ -44292,7 +44256,7 @@
    "weight": 1
  },
  {
-   "id": 3692,
+   "id": 3689,
    "word": "palaver",
    "alt": "",
    "type": "",
@@ -44304,7 +44268,7 @@
    "weight": 1
  },
  {
-   "id": 3693,
+   "id": 3690,
    "word": "Conestoga",
    "alt": "",
    "type": "",
@@ -44316,7 +44280,7 @@
    "weight": 1
  },
  {
-   "id": 3694,
+   "id": 3691,
    "word": "sumpsimus",
    "alt": "",
    "type": "",
@@ -44328,7 +44292,7 @@
    "weight": 1
  },
  {
-   "id": 3695,
+   "id": 3692,
    "word": "bavardage",
    "alt": "",
    "type": "",
@@ -44340,7 +44304,7 @@
    "weight": 1
  },
  {
-   "id": 3696,
+   "id": 3693,
    "word": "hepatectomy",
    "alt": "",
    "type": "",
@@ -44352,7 +44316,7 @@
    "weight": 1
  },
  {
-   "id": 3697,
+   "id": 3694,
    "word": "draegerman",
    "alt": "",
    "type": "",
@@ -44364,7 +44328,7 @@
    "weight": 1
  },
  {
-   "id": 3698,
+   "id": 3695,
    "word": "nunchaku",
    "alt": "",
    "type": "",
@@ -44376,7 +44340,7 @@
    "weight": 1
  },
  {
-   "id": 3699,
+   "id": 3696,
    "word": "bibelot",
    "alt": "",
    "type": "",
@@ -44388,7 +44352,7 @@
    "weight": 1
  },
  {
-   "id": 3700,
+   "id": 3697,
    "word": "coulibiac",
    "alt": "",
    "type": "",
@@ -44400,7 +44364,7 @@
    "weight": 1
  },
  {
-   "id": 3701,
+   "id": 3698,
    "word": "moulage",
    "alt": "",
    "type": "",
@@ -44412,7 +44376,7 @@
    "weight": 1
  },
  {
-   "id": 3702,
+   "id": 3699,
    "word": "trichotillomania",
    "alt": "",
    "type": "",
@@ -44424,7 +44388,7 @@
    "weight": 1
  },
  {
-   "id": 3703,
+   "id": 3700,
    "word": "kibitzer",
    "alt": "kibbitzer",
    "type": "Alt",
@@ -44436,7 +44400,7 @@
    "weight": 1
  },
  {
-   "id": 3704,
+   "id": 3701,
    "word": "bireme",
    "alt": "",
    "type": "",
@@ -44448,7 +44412,7 @@
    "weight": 1
  },
  {
-   "id": 3705,
+   "id": 3702,
    "word": "aniseikonia",
    "alt": "",
    "type": "",
@@ -44460,7 +44424,7 @@
    "weight": 1
  },
  {
-   "id": 3706,
+   "id": 3703,
    "word": "mignonette",
    "alt": "",
    "type": "",
@@ -44472,7 +44436,7 @@
    "weight": 1
  },
  {
-   "id": 3707,
+   "id": 3704,
    "word": "concinnate",
    "alt": "",
    "type": "",
@@ -44484,7 +44448,7 @@
    "weight": 1
  },
  {
-   "id": 3708,
+   "id": 3705,
    "word": "Castilian",
    "alt": "",
    "type": "",
@@ -44496,7 +44460,7 @@
    "weight": 1
  },
  {
-   "id": 3709,
+   "id": 3706,
    "word": "bonspiel",
    "alt": "",
    "type": "",
@@ -44508,7 +44472,7 @@
    "weight": 1
  },
  {
-   "id": 3710,
+   "id": 3707,
    "word": "paladin",
    "alt": "",
    "type": "",
@@ -44520,7 +44484,7 @@
    "weight": 1
  },
  {
-   "id": 3711,
+   "id": 3708,
    "word": "Aitutakian",
    "alt": "",
    "type": "",
@@ -44532,7 +44496,7 @@
    "weight": 1
  },
  {
-   "id": 3712,
+   "id": 3709,
    "word": "vicissitudes",
    "alt": "",
    "type": "",
@@ -44544,7 +44508,7 @@
    "weight": 1
  },
  {
-   "id": 3713,
+   "id": 3710,
    "word": "yakitori",
    "alt": "",
    "type": "",
@@ -44556,7 +44520,7 @@
    "weight": 1
  },
  {
-   "id": 3714,
+   "id": 3711,
    "word": "vervain",
    "alt": "",
    "type": "",
@@ -44568,7 +44532,7 @@
    "weight": 1
  },
  {
-   "id": 3715,
+   "id": 3712,
    "word": "pulchritude",
    "alt": "",
    "type": "",
@@ -44580,7 +44544,7 @@
    "weight": 1
  },
  {
-   "id": 3716,
+   "id": 3713,
    "word": "cabochon",
    "alt": "",
    "type": "",
@@ -44592,7 +44556,7 @@
    "weight": 1
  },
  {
-   "id": 3717,
+   "id": 3714,
    "word": "Achernar",
    "alt": "",
    "type": "",
@@ -44604,7 +44568,7 @@
    "weight": 1
  },
  {
-   "id": 3718,
+   "id": 3715,
    "word": "piccata",
    "alt": "",
    "type": "",
@@ -44616,7 +44580,7 @@
    "weight": 1
  },
  {
-   "id": 3719,
+   "id": 3716,
    "word": "pseudonymous",
    "alt": "",
    "type": "",
@@ -44628,7 +44592,7 @@
    "weight": 1
  },
  {
-   "id": 3720,
+   "id": 3717,
    "word": "agelicism",
    "alt": "",
    "type": "",
@@ -44640,7 +44604,7 @@
    "weight": 1
  },
  {
-   "id": 3721,
+   "id": 3718,
    "word": "cyrillic",
    "alt": "",
    "type": "",
@@ -44652,7 +44616,7 @@
    "weight": 1
  },
  {
-   "id": 3722,
+   "id": 3719,
    "word": "aquiclude",
    "alt": "",
    "type": "",
@@ -44664,7 +44628,7 @@
    "weight": 1
  },
  {
-   "id": 3723,
+   "id": 3720,
    "word": "Ushuaia",
    "alt": "",
    "type": "",
@@ -44676,7 +44640,7 @@
    "weight": 1
  },
  {
-   "id": 3724,
+   "id": 3721,
    "word": "demurrage",
    "alt": "",
    "type": "",
@@ -44688,7 +44652,7 @@
    "weight": 1
  },
  {
-   "id": 3725,
+   "id": 3722,
    "word": "andouille",
    "alt": "",
    "type": "",
@@ -44700,7 +44664,7 @@
    "weight": 1
  },
  {
-   "id": 3726,
+   "id": 3723,
    "word": "zaibatsu",
    "alt": "",
    "type": "",
@@ -44712,7 +44676,7 @@
    "weight": 1
  },
  {
-   "id": 3727,
+   "id": 3724,
    "word": "gules",
    "alt": "",
    "type": "",
@@ -44724,7 +44688,7 @@
    "weight": 1
  },
  {
-   "id": 3728,
+   "id": 3725,
    "word": "frigate",
    "alt": "",
    "type": "",
@@ -44736,7 +44700,7 @@
    "weight": 1
  },
  {
-   "id": 3729,
+   "id": 3726,
    "word": "maringouin",
    "alt": "",
    "type": "",
@@ -44748,7 +44712,7 @@
    "weight": 1
  },
  {
-   "id": 3730,
+   "id": 3727,
    "word": "chicle",
    "alt": "",
    "type": "",
@@ -44760,7 +44724,7 @@
    "weight": 1
  },
  {
-   "id": 3731,
+   "id": 3728,
    "word": "pompeii",
    "alt": "",
    "type": "",
@@ -44772,7 +44736,7 @@
    "weight": 1
  },
  {
-   "id": 3732,
+   "id": 3729,
    "word": "laterigrade",
    "alt": "",
    "type": "",
@@ -44784,7 +44748,7 @@
    "weight": 1
  },
  {
-   "id": 3733,
+   "id": 3730,
    "word": "querida",
    "alt": "",
    "type": "",
@@ -44796,7 +44760,7 @@
    "weight": 1
  },
  {
-   "id": 3734,
+   "id": 3731,
    "word": "obeisant",
    "alt": "",
    "type": "",
@@ -44808,7 +44772,7 @@
    "weight": 1
  },
  {
-   "id": 3735,
+   "id": 3732,
    "word": "ranine",
    "alt": "",
    "type": "",
@@ -44820,7 +44784,7 @@
    "weight": 1
  },
  {
-   "id": 3736,
+   "id": 3733,
    "word": "hauberk",
    "alt": "",
    "type": "",
@@ -44832,7 +44796,7 @@
    "weight": 1
  },
  {
-   "id": 3737,
+   "id": 3734,
    "word": "nonage",
    "alt": "",
    "type": "",
@@ -44844,7 +44808,7 @@
    "weight": 1
  },
  {
-   "id": 3738,
+   "id": 3735,
    "word": "ahimsa",
    "alt": "",
    "type": "",
@@ -44856,7 +44820,7 @@
    "weight": 1
  },
  {
-   "id": 3739,
+   "id": 3736,
    "word": "reboation",
    "alt": "",
    "type": "",
@@ -44868,7 +44832,7 @@
    "weight": 1
  },
  {
-   "id": 3740,
+   "id": 3737,
    "word": "ascites",
    "alt": "",
    "type": "",
@@ -44880,7 +44844,7 @@
    "weight": 1
  },
  {
-   "id": 3741,
+   "id": 3738,
    "word": "pinniped",
    "alt": "",
    "type": "",
@@ -44892,7 +44856,7 @@
    "weight": 1
  },
  {
-   "id": 3742,
+   "id": 3739,
    "word": "litigious",
    "alt": "",
    "type": "",
@@ -44904,7 +44868,7 @@
    "weight": 1
  },
  {
-   "id": 3743,
+   "id": 3740,
    "word": "genoise",
    "alt": "",
    "type": "",
@@ -44916,7 +44880,7 @@
    "weight": 1
  },
  {
-   "id": 3744,
+   "id": 3741,
    "word": "leonine",
    "alt": "",
    "type": "",
@@ -44928,7 +44892,7 @@
    "weight": 1
  },
  {
-   "id": 3745,
+   "id": 3742,
    "word": "lebensraum",
    "alt": "",
    "type": "",
@@ -44940,7 +44904,7 @@
    "weight": 1
  },
  {
-   "id": 3746,
+   "id": 3743,
    "word": "jacaranda",
    "alt": "",
    "type": "",
@@ -44952,7 +44916,7 @@
    "weight": 1
  },
  {
-   "id": 3747,
+   "id": 3744,
    "word": "flèche",
    "alt": "",
    "type": "",
@@ -44964,7 +44928,7 @@
    "weight": 1
  },
  {
-   "id": 3748,
+   "id": 3745,
    "word": "au",
    "alt": "",
    "type": "",
@@ -44976,7 +44940,7 @@
    "weight": 1
  },
  {
-   "id": 3749,
+   "id": 3746,
    "word": "farina",
    "alt": "",
    "type": "",
@@ -44988,7 +44952,7 @@
    "weight": 1
  },
  {
-   "id": 3750,
+   "id": 3747,
    "word": "kakapo",
    "alt": "",
    "type": "",
@@ -45000,7 +44964,7 @@
    "weight": 1
  },
  {
-   "id": 3751,
+   "id": 3748,
    "word": "tarpaulin",
    "alt": "",
    "type": "",
@@ -45012,7 +44976,7 @@
    "weight": 1
  },
  {
-   "id": 3752,
+   "id": 3749,
    "word": "queue",
    "alt": "",
    "type": "",
@@ -45024,7 +44988,7 @@
    "weight": 1
  },
  {
-   "id": 3753,
+   "id": 3750,
    "word": "l’oeil",
    "alt": "",
    "type": "",
@@ -45036,7 +45000,7 @@
    "weight": 1
  },
  {
-   "id": 3754,
+   "id": 3751,
    "word": "pasquinade",
    "alt": "",
    "type": "",
@@ -45048,7 +45012,7 @@
    "weight": 1
  },
  {
-   "id": 3755,
+   "id": 3752,
    "word": "fanfaronade",
    "alt": "",
    "type": "",
@@ -45060,7 +45024,7 @@
    "weight": 1
  },
  {
-   "id": 3756,
+   "id": 3753,
    "word": "coadjutor",
    "alt": "",
    "type": "",
@@ -45072,7 +45036,7 @@
    "weight": 1
  },
  {
-   "id": 3757,
+   "id": 3754,
    "word": "nainsook",
    "alt": "",
    "type": "",
@@ -45084,7 +45048,7 @@
    "weight": 1
  },
  {
-   "id": 3758,
+   "id": 3755,
    "word": "gorgon",
    "alt": "",
    "type": "",
@@ -45096,7 +45060,7 @@
    "weight": 1
  },
  {
-   "id": 3759,
+   "id": 3756,
    "word": "devastavit",
    "alt": "",
    "type": "",
@@ -45108,7 +45072,7 @@
    "weight": 1
  },
  {
-   "id": 3760,
+   "id": 3757,
    "word": "podagra",
    "alt": "",
    "type": "",
@@ -45120,7 +45084,7 @@
    "weight": 1
  },
  {
-   "id": 3761,
+   "id": 3758,
    "word": "oxalis",
    "alt": "",
    "type": "",
@@ -45132,7 +45096,7 @@
    "weight": 1
  },
  {
-   "id": 3762,
+   "id": 3759,
    "word": "sedulous",
    "alt": "",
    "type": "",
@@ -45144,7 +45108,7 @@
    "weight": 1
  },
  {
-   "id": 3763,
+   "id": 3760,
    "word": "macaque",
    "alt": "",
    "type": "",
@@ -45156,7 +45120,7 @@
    "weight": 1
  },
  {
-   "id": 3764,
+   "id": 3761,
    "word": "hypallage",
    "alt": "",
    "type": "",
@@ -45168,7 +45132,7 @@
    "weight": 1
  },
  {
-   "id": 3765,
+   "id": 3762,
    "word": "sporran",
    "alt": "",
    "type": "",
@@ -45180,7 +45144,7 @@
    "weight": 1
  },
  {
-   "id": 3766,
+   "id": 3763,
    "word": "oxyacetylene",
    "alt": "",
    "type": "",
@@ -45192,7 +45156,7 @@
    "weight": 1
  },
  {
-   "id": 3767,
+   "id": 3764,
    "word": "plumassier",
    "alt": "",
    "type": "",
@@ -45204,7 +45168,7 @@
    "weight": 1
  },
  {
-   "id": 3768,
+   "id": 3765,
    "word": "degauss",
    "alt": "",
    "type": "",
@@ -45216,7 +45180,7 @@
    "weight": 1
  },
  {
-   "id": 3769,
+   "id": 3766,
    "word": "cartouches",
    "alt": "",
    "type": "",
@@ -45228,7 +45192,7 @@
    "weight": 1
  },
  {
-   "id": 3770,
+   "id": 3767,
    "word": "ranunculus",
    "alt": "",
    "type": "",
@@ -45240,7 +45204,7 @@
    "weight": 1
  },
  {
-   "id": 3771,
+   "id": 3768,
    "word": "guilloche",
    "alt": "",
    "type": "",
@@ -45252,7 +45216,7 @@
    "weight": 1
  },
  {
-   "id": 3772,
+   "id": 3769,
    "word": "Stradivarius",
    "alt": "",
    "type": "",
@@ -45264,7 +45228,7 @@
    "weight": 1
  },
  {
-   "id": 3773,
+   "id": 3770,
    "word": "jicama",
    "alt": "",
    "type": "",
@@ -45276,7 +45240,7 @@
    "weight": 1
  },
  {
-   "id": 3774,
+   "id": 3771,
    "word": "amygdala",
    "alt": "",
    "type": "",
@@ -45288,7 +45252,7 @@
    "weight": 1
  },
  {
-   "id": 3775,
+   "id": 3772,
    "word": "dudgeon",
    "alt": "",
    "type": "",
@@ -45300,7 +45264,7 @@
    "weight": 1
  },
  {
-   "id": 3776,
+   "id": 3773,
    "word": "dysphasia",
    "alt": "",
    "type": "",
@@ -45312,7 +45276,7 @@
    "weight": 1
  },
  {
-   "id": 3777,
+   "id": 3774,
    "word": "pastiche",
    "alt": "",
    "type": "",
@@ -45324,7 +45288,7 @@
    "weight": 1
  },
  {
-   "id": 3778,
+   "id": 3775,
    "word": "bdelloid",
    "alt": "",
    "type": "",
@@ -45336,7 +45300,7 @@
    "weight": 1
  },
  {
-   "id": 3779,
+   "id": 3776,
    "word": "zabaglione",
    "alt": "",
    "type": "",
@@ -45348,7 +45312,7 @@
    "weight": 1
  },
  {
-   "id": 3780,
+   "id": 3777,
    "word": "Plantagenet",
    "alt": "",
    "type": "",
@@ -45360,7 +45324,7 @@
    "weight": 1
  },
  {
-   "id": 3781,
+   "id": 3778,
    "word": "anathema",
    "alt": "",
    "type": "",
@@ -45372,7 +45336,7 @@
    "weight": 1
  },
  {
-   "id": 3782,
+   "id": 3779,
    "word": "hagiographer",
    "alt": "",
    "type": "",
@@ -45384,7 +45348,7 @@
    "weight": 1
  },
  {
-   "id": 3783,
+   "id": 3780,
    "word": "chevalier",
    "alt": "",
    "type": "",
@@ -45396,7 +45360,7 @@
    "weight": 1
  },
  {
-   "id": 3784,
+   "id": 3781,
    "word": "nihilism",
    "alt": "",
    "type": "",
@@ -45408,7 +45372,7 @@
    "weight": 1
  },
  {
-   "id": 3785,
+   "id": 3782,
    "word": "persiflage",
    "alt": "",
    "type": "",
@@ -45420,7 +45384,7 @@
    "weight": 1
  },
  {
-   "id": 3786,
+   "id": 3783,
    "word": "supercilious",
    "alt": "",
    "type": "",
@@ -45432,7 +45396,7 @@
    "weight": 1
  },
  {
-   "id": 3787,
+   "id": 3784,
    "word": "intonaco",
    "alt": "",
    "type": "",
@@ -45444,7 +45408,7 @@
    "weight": 1
  },
  {
-   "id": 3788,
+   "id": 3785,
    "word": "Aramaic",
    "alt": "",
    "type": "",
@@ -45456,7 +45420,7 @@
    "weight": 1
  },
  {
-   "id": 3789,
+   "id": 3786,
    "word": "Basenji",
    "alt": "",
    "type": "",
@@ -45468,7 +45432,7 @@
    "weight": 1
  },
  {
-   "id": 3790,
+   "id": 3787,
    "word": "scaberulous",
    "alt": "",
    "type": "",
@@ -45480,7 +45444,7 @@
    "weight": 1
  },
  {
-   "id": 3791,
+   "id": 3788,
    "word": "tokonoma",
    "alt": "",
    "type": "",
@@ -45492,7 +45456,7 @@
    "weight": 1
  },
  {
-   "id": 3792,
+   "id": 3789,
    "word": "variscite",
    "alt": "",
    "type": "",
@@ -45504,7 +45468,7 @@
    "weight": 1
  },
  {
-   "id": 3793,
+   "id": 3790,
    "word": "cantatrice",
    "alt": "",
    "type": "",
@@ -45516,7 +45480,7 @@
    "weight": 1
  },
  {
-   "id": 3794,
+   "id": 3791,
    "word": "realpolitik",
    "alt": "",
    "type": "",
@@ -45528,7 +45492,7 @@
    "weight": 1
  },
  {
-   "id": 3795,
+   "id": 3792,
    "word": "altazimuth",
    "alt": "",
    "type": "",
@@ -45540,7 +45504,7 @@
    "weight": 1
  },
  {
-   "id": 3796,
+   "id": 3793,
    "word": "ritenuto",
    "alt": "",
    "type": "",
@@ -45552,7 +45516,7 @@
    "weight": 1
  },
  {
-   "id": 3797,
+   "id": 3794,
    "word": "allochroous",
    "alt": "",
    "type": "",
@@ -45564,7 +45528,7 @@
    "weight": 1
  },
  {
-   "id": 3798,
+   "id": 3795,
    "word": "pissaladière",
    "alt": "",
    "type": "",
@@ -45576,7 +45540,7 @@
    "weight": 1
  },
  {
-   "id": 3799,
+   "id": 3796,
    "word": "jalousie",
    "alt": "",
    "type": "",
@@ -45588,7 +45552,7 @@
    "weight": 1
  },
  {
-   "id": 3800,
+   "id": 3797,
    "word": "phloem",
    "alt": "",
    "type": "",
@@ -45600,7 +45564,7 @@
    "weight": 1
  },
  {
-   "id": 3801,
+   "id": 3798,
    "word": "cicerone",
    "alt": "",
    "type": "",
@@ -45612,7 +45576,7 @@
    "weight": 1
  },
  {
-   "id": 3802,
+   "id": 3799,
    "word": "cordillera",
    "alt": "",
    "type": "",
@@ -45624,7 +45588,7 @@
    "weight": 1
  },
  {
-   "id": 3803,
+   "id": 3800,
    "word": "duxelles",
    "alt": "",
    "type": "",
@@ -45636,7 +45600,7 @@
    "weight": 1
  },
  {
-   "id": 3804,
+   "id": 3801,
    "word": "teneramente",
    "alt": "",
    "type": "",
@@ -45648,7 +45612,7 @@
    "weight": 1
  },
  {
-   "id": 3805,
+   "id": 3802,
    "word": "cheongsam",
    "alt": "",
    "type": "",
@@ -45660,7 +45624,7 @@
    "weight": 1
  },
  {
-   "id": 3806,
+   "id": 3803,
    "word": "onychitis",
    "alt": "",
    "type": "",
@@ -45672,7 +45636,7 @@
    "weight": 1
  },
  {
-   "id": 3807,
+   "id": 3804,
    "word": "wasteweir",
    "alt": "",
    "type": "",
@@ -45684,7 +45648,7 @@
    "weight": 1
  },
  {
-   "id": 3808,
+   "id": 3805,
    "word": "spodumene",
    "alt": "",
    "type": "",
@@ -45696,7 +45660,7 @@
    "weight": 1
  },
  {
-   "id": 3809,
+   "id": 3806,
    "word": "effrontery",
    "alt": "",
    "type": "",
@@ -45708,7 +45672,7 @@
    "weight": 1
  },
  {
-   "id": 3810,
+   "id": 3807,
    "word": "calefacient",
    "alt": "",
    "type": "",
@@ -45720,7 +45684,7 @@
    "weight": 1
  },
  {
-   "id": 3811,
+   "id": 3808,
    "word": "ginglymus",
    "alt": "",
    "type": "",
@@ -45732,7 +45696,7 @@
    "weight": 1
  },
  {
-   "id": 3812,
+   "id": 3809,
    "word": "anhinga",
    "alt": "",
    "type": "",
@@ -45744,7 +45708,7 @@
    "weight": 1
  },
  {
-   "id": 3813,
+   "id": 3810,
    "word": "yosenabe",
    "alt": "",
    "type": "",
@@ -45756,7 +45720,7 @@
    "weight": 1
  },
  {
-   "id": 3814,
+   "id": 3811,
    "word": "mangonel",
    "alt": "",
    "type": "",
@@ -45768,7 +45732,7 @@
    "weight": 1
  },
  {
-   "id": 3815,
+   "id": 3812,
    "word": "dactylic",
    "alt": "",
    "type": "",
@@ -45780,7 +45744,7 @@
    "weight": 1
  },
  {
-   "id": 3816,
+   "id": 3813,
    "word": "hirsute",
    "alt": "",
    "type": "",
@@ -45792,7 +45756,7 @@
    "weight": 1
  },
  {
-   "id": 3817,
+   "id": 3814,
    "word": "leberwurst",
    "alt": "",
    "type": "",
@@ -45804,7 +45768,7 @@
    "weight": 1
  },
  {
-   "id": 3818,
+   "id": 3815,
    "word": "hoi",
    "alt": "",
    "type": "",
@@ -45816,7 +45780,7 @@
    "weight": 1
  },
  {
-   "id": 3819,
+   "id": 3816,
    "word": "somnolent",
    "alt": "",
    "type": "",
@@ -45828,7 +45792,7 @@
    "weight": 1
  },
  {
-   "id": 3820,
+   "id": 3817,
    "word": "apodyterium",
    "alt": "",
    "type": "",
@@ -45840,7 +45804,7 @@
    "weight": 1
  },
  {
-   "id": 3821,
+   "id": 3818,
    "word": "moussaka",
    "alt": "",
    "type": "",
@@ -45852,7 +45816,7 @@
    "weight": 1
  },
  {
-   "id": 3822,
+   "id": 3819,
    "word": "de",
    "alt": "",
    "type": "",
@@ -45864,7 +45828,7 @@
    "weight": 1
  },
  {
-   "id": 3823,
+   "id": 3820,
    "word": "arenaceous",
    "alt": "",
    "type": "",
@@ -45876,7 +45840,7 @@
    "weight": 1
  },
  {
-   "id": 3824,
+   "id": 3821,
    "word": "llanero",
    "alt": "",
    "type": "",
@@ -45888,7 +45852,7 @@
    "weight": 1
  },
  {
-   "id": 3825,
+   "id": 3822,
    "word": "lilliputian",
    "alt": "",
    "type": "",
@@ -45900,7 +45864,7 @@
    "weight": 1
  },
  {
-   "id": 3826,
+   "id": 3823,
    "word": "hangul",
    "alt": "",
    "type": "",
@@ -45912,7 +45876,7 @@
    "weight": 1
  },
  {
-   "id": 3827,
+   "id": 3824,
    "word": "unguiculate",
    "alt": "",
    "type": "",
@@ -45924,7 +45888,7 @@
    "weight": 1
  },
  {
-   "id": 3828,
+   "id": 3825,
    "word": "ecclesiology",
    "alt": "",
    "type": "",
@@ -45936,7 +45900,7 @@
    "weight": 1
  },
  {
-   "id": 3829,
+   "id": 3826,
    "word": "desman",
    "alt": "",
    "type": "",
@@ -45948,7 +45912,7 @@
    "weight": 1
  },
  {
-   "id": 3830,
+   "id": 3827,
    "word": "Beethovenian",
    "alt": "",
    "type": "",
@@ -45960,7 +45924,7 @@
    "weight": 1
  },
  {
-   "id": 3831,
+   "id": 3828,
    "word": "arthralgia",
    "alt": "",
    "type": "",
@@ -45972,7 +45936,7 @@
    "weight": 1
  },
  {
-   "id": 3832,
+   "id": 3829,
    "word": "dhole",
    "alt": "",
    "type": "",
@@ -45984,7 +45948,7 @@
    "weight": 1
  },
  {
-   "id": 3833,
+   "id": 3830,
    "word": "penurious",
    "alt": "",
    "type": "",
@@ -45996,7 +45960,7 @@
    "weight": 1
  },
  {
-   "id": 3834,
+   "id": 3831,
    "word": "proprioceptive",
    "alt": "",
    "type": "",
@@ -46008,7 +45972,7 @@
    "weight": 1
  },
  {
-   "id": 3835,
+   "id": 3832,
    "word": "tussock",
    "alt": "",
    "type": "",
@@ -46020,7 +45984,7 @@
    "weight": 1
  },
  {
-   "id": 3836,
+   "id": 3833,
    "word": "incunabula",
    "alt": "",
    "type": "",
@@ -46032,7 +45996,7 @@
    "weight": 1
  },
  {
-   "id": 3837,
+   "id": 3834,
    "word": "chiffonade",
    "alt": "",
    "type": "",
@@ -46044,7 +46008,7 @@
    "weight": 1
  },
  {
-   "id": 3838,
+   "id": 3835,
    "word": "Airedale",
    "alt": "",
    "type": "",
@@ -46056,7 +46020,7 @@
    "weight": 1
  },
  {
-   "id": 3839,
+   "id": 3836,
    "word": "diphtheria",
    "alt": "",
    "type": "",
@@ -46068,7 +46032,7 @@
    "weight": 1
  },
  {
-   "id": 3840,
+   "id": 3837,
    "word": "bolide",
    "alt": "",
    "type": "",
@@ -46080,7 +46044,7 @@
    "weight": 1
  },
  {
-   "id": 3841,
+   "id": 3838,
    "word": "sinophile",
    "alt": "",
    "type": "",
@@ -46092,7 +46056,7 @@
    "weight": 1
  },
  {
-   "id": 3842,
+   "id": 3839,
    "word": "politeia",
    "alt": "",
    "type": "",
@@ -46104,7 +46068,7 @@
    "weight": 1
  },
  {
-   "id": 3843,
+   "id": 3840,
    "word": "scurrilous",
    "alt": "",
    "type": "",
@@ -46116,7 +46080,7 @@
    "weight": 1
  },
  {
-   "id": 3844,
+   "id": 3841,
    "word": "corsair",
    "alt": "",
    "type": "",
@@ -46128,7 +46092,7 @@
    "weight": 1
  },
  {
-   "id": 3845,
+   "id": 3842,
    "word": "crepuscular",
    "alt": "",
    "type": "",
@@ -46140,7 +46104,7 @@
    "weight": 1
  },
  {
-   "id": 3846,
+   "id": 3843,
    "word": "Chantilly",
    "alt": "",
    "type": "",
@@ -46152,7 +46116,7 @@
    "weight": 1
  },
  {
-   "id": 3847,
+   "id": 3844,
    "word": "xyloglyphy",
    "alt": "",
    "type": "",
@@ -46164,7 +46128,7 @@
    "weight": 1
  },
  {
-   "id": 3848,
+   "id": 3845,
    "word": "ocotillo",
    "alt": "",
    "type": "",
@@ -46176,7 +46140,7 @@
    "weight": 1
  },
  {
-   "id": 3849,
+   "id": 3846,
    "word": "rhinorrhagia",
    "alt": "",
    "type": "",
@@ -46188,7 +46152,7 @@
    "weight": 1
  },
  {
-   "id": 3850,
+   "id": 3847,
    "word": "Nereid",
    "alt": "",
    "type": "",
@@ -46200,7 +46164,7 @@
    "weight": 1
  },
  {
-   "id": 3851,
+   "id": 3848,
    "word": "diktat",
    "alt": "",
    "type": "",
@@ -46212,7 +46176,7 @@
    "weight": 1
  },
  {
-   "id": 3852,
+   "id": 3849,
    "word": "vinaigrette",
    "alt": "",
    "type": "",
@@ -46224,7 +46188,7 @@
    "weight": 1
  },
  {
-   "id": 3853,
+   "id": 3850,
    "word": "gasthaus",
    "alt": "",
    "type": "",
@@ -46236,7 +46200,7 @@
    "weight": 1
  },
  {
-   "id": 3854,
+   "id": 3851,
    "word": "senryu",
    "alt": "",
    "type": "",
@@ -46248,7 +46212,7 @@
    "weight": 1
  },
  {
-   "id": 3855,
+   "id": 3852,
    "word": "semaphore",
    "alt": "",
    "type": "",
@@ -46260,7 +46224,7 @@
    "weight": 1
  },
  {
-   "id": 3856,
+   "id": 3853,
    "word": "glossopetrae",
    "alt": "",
    "type": "",
@@ -46272,7 +46236,7 @@
    "weight": 1
  },
  {
-   "id": 3857,
+   "id": 3854,
    "word": "lecithin",
    "alt": "",
    "type": "",
@@ -46284,7 +46248,7 @@
    "weight": 1
  },
  {
-   "id": 3858,
+   "id": 3855,
    "word": "scintillation",
    "alt": "",
    "type": "",
@@ -46296,7 +46260,7 @@
    "weight": 1
  },
  {
-   "id": 3859,
+   "id": 3856,
    "word": "griffonage",
    "alt": "",
    "type": "",
@@ -46308,7 +46272,7 @@
    "weight": 1
  },
  {
-   "id": 3860,
+   "id": 3857,
    "word": "cabaletta",
    "alt": "",
    "type": "",
@@ -46320,7 +46284,7 @@
    "weight": 1
  },
  {
-   "id": 3861,
+   "id": 3858,
    "word": "inveighed",
    "alt": "",
    "type": "",
@@ -46332,7 +46296,7 @@
    "weight": 1
  },
  {
-   "id": 3862,
+   "id": 3859,
    "word": "megacephalic",
    "alt": "",
    "type": "",
@@ -46344,7 +46308,7 @@
    "weight": 1
  },
  {
-   "id": 3863,
+   "id": 3860,
    "word": "lachsschinken",
    "alt": "",
    "type": "",
@@ -46356,7 +46320,7 @@
    "weight": 1
  },
  {
-   "id": 3864,
+   "id": 3861,
    "word": "estival",
    "alt": "aestival",
    "type": "No preference",
@@ -46368,7 +46332,7 @@
    "weight": 1
  },
  {
-   "id": 3865,
+   "id": 3862,
    "word": "sotto",
    "alt": "",
    "type": "",
@@ -46380,7 +46344,7 @@
    "weight": 1
  },
  {
-   "id": 3866,
+   "id": 3863,
    "word": "bouffant",
    "alt": "",
    "type": "",
@@ -46392,7 +46356,7 @@
    "weight": 1
  },
  {
-   "id": 3867,
+   "id": 3864,
    "word": "dorsiflexor",
    "alt": "",
    "type": "",
@@ -46404,7 +46368,7 @@
    "weight": 1
  },
  {
-   "id": 3868,
+   "id": 3865,
    "word": "Zanni",
    "alt": "",
    "type": "",
@@ -46416,7 +46380,7 @@
    "weight": 1
  },
  {
-   "id": 3869,
+   "id": 3866,
    "word": "ardoise",
    "alt": "",
    "type": "",
@@ -46428,7 +46392,7 @@
    "weight": 1
  },
  {
-   "id": 3870,
+   "id": 3867,
    "word": "lysozyme",
    "alt": "",
    "type": "",
@@ -46440,7 +46404,7 @@
    "weight": 1
  },
  {
-   "id": 3871,
+   "id": 3868,
    "word": "transience",
    "alt": "",
    "type": "",
@@ -46452,7 +46416,7 @@
    "weight": 1
  },
  {
-   "id": 3872,
+   "id": 3869,
    "word": "communiqué",
    "alt": "",
    "type": "",
@@ -46464,7 +46428,7 @@
    "weight": 1
  },
  {
-   "id": 3873,
+   "id": 3870,
    "word": "coterie",
    "alt": "",
    "type": "",
@@ -46476,7 +46440,7 @@
    "weight": 1
  },
  {
-   "id": 3874,
+   "id": 3871,
    "word": "desiccate",
    "alt": "",
    "type": "",
@@ -46488,7 +46452,7 @@
    "weight": 1
  },
  {
-   "id": 3875,
+   "id": 3872,
    "word": "capsaicin",
    "alt": "",
    "type": "",
@@ -46500,7 +46464,7 @@
    "weight": 1
  },
  {
-   "id": 3876,
+   "id": 3873,
    "word": "fetticus",
    "alt": "",
    "type": "",
@@ -46512,7 +46476,7 @@
    "weight": 1
  },
  {
-   "id": 3877,
+   "id": 3874,
    "word": "cornichon",
    "alt": "",
    "type": "",
@@ -46524,7 +46488,7 @@
    "weight": 1
  },
  {
-   "id": 3878,
+   "id": 3875,
    "word": "cachexia",
    "alt": "",
    "type": "",
@@ -46536,7 +46500,7 @@
    "weight": 1
  },
  {
-   "id": 3879,
+   "id": 3876,
    "word": "azulejo",
    "alt": "",
    "type": "",
@@ -46548,7 +46512,7 @@
    "weight": 1
  },
  {
-   "id": 3880,
+   "id": 3877,
    "word": "nidicolous",
    "alt": "",
    "type": "",
@@ -46560,7 +46524,7 @@
    "weight": 1
  },
  {
-   "id": 3881,
+   "id": 3878,
    "word": "synod",
    "alt": "",
    "type": "",
@@ -46572,7 +46536,7 @@
    "weight": 1
  },
  {
-   "id": 3882,
+   "id": 3879,
    "word": "harangue",
    "alt": "",
    "type": "",
@@ -46584,7 +46548,7 @@
    "weight": 1
  },
  {
-   "id": 3883,
+   "id": 3880,
    "word": "nauseam",
    "alt": "",
    "type": "",
@@ -46596,7 +46560,7 @@
    "weight": 1
  },
  {
-   "id": 3884,
+   "id": 3881,
    "word": "heliacal",
    "alt": "",
    "type": "",
@@ -46608,7 +46572,7 @@
    "weight": 1
  },
  {
-   "id": 3885,
+   "id": 3882,
    "word": "sepulchral",
    "alt": "",
    "type": "",
@@ -46620,7 +46584,7 @@
    "weight": 1
  },
  {
-   "id": 3886,
+   "id": 3883,
    "word": "maillot",
    "alt": "",
    "type": "",
@@ -46632,7 +46596,7 @@
    "weight": 1
  },
  {
-   "id": 3887,
+   "id": 3884,
    "word": "Kjeldahl",
    "alt": "",
    "type": "",
@@ -46644,7 +46608,7 @@
    "weight": 1
  },
  {
-   "id": 3888,
+   "id": 3885,
    "word": "decastich",
    "alt": "",
    "type": "",
@@ -46656,7 +46620,7 @@
    "weight": 1
  },
  {
-   "id": 3889,
+   "id": 3886,
    "word": "sauger",
    "alt": "",
    "type": "",
@@ -46668,7 +46632,7 @@
    "weight": 1
  },
  {
-   "id": 3890,
+   "id": 3887,
    "word": "deuterium",
    "alt": "",
    "type": "",
@@ -46680,7 +46644,7 @@
    "weight": 1
  },
  {
-   "id": 3891,
+   "id": 3888,
    "word": "Valkyrian",
    "alt": "",
    "type": "",
@@ -46692,7 +46656,7 @@
    "weight": 1
  },
  {
-   "id": 3892,
+   "id": 3889,
    "word": "tapetum",
    "alt": "",
    "type": "",
@@ -46704,7 +46668,7 @@
    "weight": 1
  },
  {
-   "id": 3893,
+   "id": 3890,
    "word": "horologist",
    "alt": "",
    "type": "",
@@ -46716,7 +46680,7 @@
    "weight": 1
  },
  {
-   "id": 3894,
+   "id": 3891,
    "word": "ichthyology",
    "alt": "",
    "type": "",
@@ -46728,7 +46692,7 @@
    "weight": 1
  },
  {
-   "id": 3895,
+   "id": 3892,
    "word": "obliviscence",
    "alt": "",
    "type": "",
@@ -46740,7 +46704,7 @@
    "weight": 1
  },
  {
-   "id": 3896,
+   "id": 3893,
    "word": "beaumontage",
    "alt": "",
    "type": "",
@@ -46752,7 +46716,7 @@
    "weight": 1
  },
  {
-   "id": 3897,
+   "id": 3894,
    "word": "Wensleydale",
    "alt": "",
    "type": "",
@@ -46764,7 +46728,7 @@
    "weight": 1
  },
  {
-   "id": 3898,
+   "id": 3895,
    "word": "colcannon",
    "alt": "",
    "type": "",
@@ -46776,7 +46740,7 @@
    "weight": 1
  },
  {
-   "id": 3899,
+   "id": 3896,
    "word": "farouche",
    "alt": "",
    "type": "",
@@ -46788,7 +46752,7 @@
    "weight": 1
  },
  {
-   "id": 3900,
+   "id": 3897,
    "word": "reconnoiter",
    "alt": "reconnoitre",
    "type": "No preference",
@@ -46800,7 +46764,7 @@
    "weight": 1
  },
  {
-   "id": 3901,
+   "id": 3898,
    "word": "gazoz",
    "alt": "",
    "type": "",
@@ -46812,7 +46776,7 @@
    "weight": 1
  },
  {
-   "id": 3902,
+   "id": 3899,
    "word": "zocalo",
    "alt": "",
    "type": "",
@@ -46824,7 +46788,7 @@
    "weight": 1
  },
  {
-   "id": 3903,
+   "id": 3900,
    "word": "paramahamsa",
    "alt": "",
    "type": "",
@@ -46836,7 +46800,7 @@
    "weight": 1
  },
  {
-   "id": 3904,
+   "id": 3901,
    "word": "phytophilous",
    "alt": "",
    "type": "",
@@ -46848,7 +46812,7 @@
    "weight": 1
  },
  {
-   "id": 3905,
+   "id": 3902,
    "word": "beelzebub",
    "alt": "",
    "type": "",
@@ -46860,7 +46824,7 @@
    "weight": 1
  },
  {
-   "id": 3906,
+   "id": 3903,
    "word": "Jacobean",
    "alt": "",
    "type": "",
@@ -46872,7 +46836,7 @@
    "weight": 1
  },
  {
-   "id": 3907,
+   "id": 3904,
    "word": "kwashiorkor",
    "alt": "",
    "type": "",
@@ -46884,7 +46848,7 @@
    "weight": 1
  },
  {
-   "id": 3908,
+   "id": 3905,
    "word": "dragée",
    "alt": "",
    "type": "",
@@ -46896,7 +46860,7 @@
    "weight": 1
  },
  {
-   "id": 3909,
+   "id": 3906,
    "word": "potager",
    "alt": "",
    "type": "",
@@ -46908,7 +46872,7 @@
    "weight": 1
  },
  {
-   "id": 3910,
+   "id": 3907,
    "word": "ennui",
    "alt": "",
    "type": "",
@@ -46920,7 +46884,7 @@
    "weight": 1
  },
  {
-   "id": 3911,
+   "id": 3908,
    "word": "Icarian",
    "alt": "",
    "type": "",
@@ -46932,7 +46896,7 @@
    "weight": 1
  },
  {
-   "id": 3912,
+   "id": 3909,
    "word": "millegrain",
    "alt": "",
    "type": "",
@@ -46944,7 +46908,7 @@
    "weight": 1
  },
  {
-   "id": 3913,
+   "id": 3910,
    "word": "topazolite",
    "alt": "",
    "type": "",
@@ -46956,7 +46920,7 @@
    "weight": 1
  },
  {
-   "id": 3914,
+   "id": 3911,
    "word": "depilatory",
    "alt": "",
    "type": "",
@@ -46968,7 +46932,7 @@
    "weight": 1
  },
  {
-   "id": 3915,
+   "id": 3912,
    "word": "pâtissier",
    "alt": "patissier",
    "type": "No preference",
@@ -46980,7 +46944,7 @@
    "weight": 1
  },
  {
-   "id": 3916,
+   "id": 3913,
    "word": "hummock",
    "alt": "",
    "type": "",
@@ -46992,7 +46956,7 @@
    "weight": 1
  },
  {
-   "id": 3917,
+   "id": 3914,
    "word": "solecism",
    "alt": "",
    "type": "",
@@ -47004,7 +46968,7 @@
    "weight": 1
  },
  {
-   "id": 3918,
+   "id": 3915,
    "word": "laulau",
    "alt": "",
    "type": "",
@@ -47016,7 +46980,7 @@
    "weight": 1
  },
  {
-   "id": 3919,
+   "id": 3916,
    "word": "sorghum",
    "alt": "",
    "type": "",
@@ -47028,7 +46992,7 @@
    "weight": 1
  },
  {
-   "id": 3920,
+   "id": 3917,
    "word": "argot",
    "alt": "",
    "type": "",
@@ -47040,7 +47004,7 @@
    "weight": 1
  },
  {
-   "id": 3921,
+   "id": 3918,
    "word": "satiety",
    "alt": "",
    "type": "",
@@ -47052,7 +47016,7 @@
    "weight": 1
  },
  {
-   "id": 3922,
+   "id": 3919,
    "word": "oolite",
    "alt": "",
    "type": "",
@@ -47064,7 +47028,7 @@
    "weight": 1
  },
  {
-   "id": 3923,
+   "id": 3920,
    "word": "riparian",
    "alt": "",
    "type": "",
@@ -47076,7 +47040,7 @@
    "weight": 1
  },
  {
-   "id": 3924,
+   "id": 3921,
    "word": "ecchymosis",
    "alt": "",
    "type": "",
@@ -47088,7 +47052,7 @@
    "weight": 1
  },
  {
-   "id": 3925,
+   "id": 3922,
    "word": "asphyxiate",
    "alt": "",
    "type": "",
@@ -47100,7 +47064,7 @@
    "weight": 1
  },
  {
-   "id": 3926,
+   "id": 3923,
    "word": "fouetté",
    "alt": "",
    "type": "",
@@ -47112,7 +47076,7 @@
    "weight": 1
  },
  {
-   "id": 3927,
+   "id": 3924,
    "word": "pahoehoe",
    "alt": "",
    "type": "",
@@ -47124,7 +47088,7 @@
    "weight": 1
  },
  {
-   "id": 3928,
+   "id": 3925,
    "word": "diluent",
    "alt": "",
    "type": "",
@@ -47136,7 +47100,7 @@
    "weight": 1
  },
  {
-   "id": 3929,
+   "id": 3926,
    "word": "sambal",
    "alt": "",
    "type": "",
@@ -47148,7 +47112,7 @@
    "weight": 1
  },
  {
-   "id": 3930,
+   "id": 3927,
    "word": "martinet",
    "alt": "",
    "type": "",
@@ -47160,7 +47124,7 @@
    "weight": 1
  },
  {
-   "id": 3931,
+   "id": 3928,
    "word": "ageusia",
    "alt": "",
    "type": "",
@@ -47172,7 +47136,7 @@
    "weight": 1
  },
  {
-   "id": 3932,
+   "id": 3929,
    "word": "sturnine",
    "alt": "",
    "type": "",
@@ -47184,7 +47148,7 @@
    "weight": 1
  },
  {
-   "id": 3933,
+   "id": 3930,
    "word": "vestigial",
    "alt": "",
    "type": "",
@@ -47196,7 +47160,7 @@
    "weight": 1
  },
  {
-   "id": 3934,
+   "id": 3931,
    "word": "Huguenot",
    "alt": "",
    "type": "",
@@ -47208,7 +47172,7 @@
    "weight": 1
  },
  {
-   "id": 3935,
+   "id": 3932,
    "word": "coiffure",
    "alt": "",
    "type": "",
@@ -47220,7 +47184,7 @@
    "weight": 1
  },
  {
-   "id": 3936,
+   "id": 3933,
    "word": "cnidarian",
    "alt": "",
    "type": "",
@@ -47232,7 +47196,7 @@
    "weight": 1
  },
  {
-   "id": 3937,
+   "id": 3934,
    "word": "rinceau",
    "alt": "",
    "type": "",
@@ -47244,7 +47208,7 @@
    "weight": 1
  },
  {
-   "id": 3938,
+   "id": 3935,
    "word": "frangipane",
    "alt": "",
    "type": "",
@@ -47256,7 +47220,7 @@
    "weight": 1
  },
  {
-   "id": 3939,
+   "id": 3936,
    "word": "Ponzi",
    "alt": "",
    "type": "",
@@ -47268,7 +47232,7 @@
    "weight": 1
  },
  {
-   "id": 3940,
+   "id": 3937,
    "word": "kepi",
    "alt": "",
    "type": "",
@@ -47280,7 +47244,7 @@
    "weight": 1
  },
  {
-   "id": 3941,
+   "id": 3938,
    "word": "embouchure",
    "alt": "",
    "type": "",
@@ -47292,7 +47256,7 @@
    "weight": 1
  },
  {
-   "id": 3942,
+   "id": 3939,
    "word": "jacana",
    "alt": "",
    "type": "",
@@ -47304,7 +47268,7 @@
    "weight": 1
  },
  {
-   "id": 3943,
+   "id": 3940,
    "word": "Yeatsian",
    "alt": "",
    "type": "",
@@ -47316,7 +47280,7 @@
    "weight": 1
  },
  {
-   "id": 3944,
+   "id": 3941,
    "word": "bucolic",
    "alt": "",
    "type": "",
@@ -47328,7 +47292,7 @@
    "weight": 1
  },
  {
-   "id": 3945,
+   "id": 3942,
    "word": "amphistylar",
    "alt": "",
    "type": "",
@@ -47340,7 +47304,7 @@
    "weight": 1
  },
  {
-   "id": 3946,
+   "id": 3943,
    "word": "Véronique",
    "alt": "Veronique",
    "type": "No preference",
@@ -47352,7 +47316,7 @@
    "weight": 1
  },
  {
-   "id": 3947,
+   "id": 3944,
    "word": "hallux",
    "alt": "",
    "type": "",
@@ -47364,7 +47328,7 @@
    "weight": 1
  },
  {
-   "id": 3948,
+   "id": 3945,
    "word": "hermeneutics",
    "alt": "",
    "type": "",
@@ -47376,7 +47340,7 @@
    "weight": 1
  },
  {
-   "id": 3949,
+   "id": 3946,
    "word": "disembogue",
    "alt": "",
    "type": "",
@@ -47388,7 +47352,7 @@
    "weight": 1
  },
  {
-   "id": 3950,
+   "id": 3947,
    "word": "appositive",
    "alt": "",
    "type": "",
@@ -47400,7 +47364,7 @@
    "weight": 1
  },
  {
-   "id": 3951,
+   "id": 3948,
    "word": "cenote",
    "alt": "",
    "type": "",
@@ -47412,7 +47376,7 @@
    "weight": 1
  },
  {
-   "id": 3952,
+   "id": 3949,
    "word": "potwalloper",
    "alt": "",
    "type": "",
@@ -47424,7 +47388,7 @@
    "weight": 1
  },
  {
-   "id": 3953,
+   "id": 3950,
    "word": "judoka",
    "alt": "",
    "type": "",
@@ -47436,7 +47400,7 @@
    "weight": 1
  },
  {
-   "id": 3954,
+   "id": 3951,
    "word": "canaille",
    "alt": "",
    "type": "",
@@ -47448,7 +47412,7 @@
    "weight": 1
  },
  {
-   "id": 3955,
+   "id": 3952,
    "word": "Gruyère",
    "alt": "",
    "type": "",
@@ -47460,7 +47424,7 @@
    "weight": 1
  },
  {
-   "id": 3956,
+   "id": 3953,
    "word": "Jungian",
    "alt": "",
    "type": "",
@@ -47472,7 +47436,7 @@
    "weight": 1
  },
  {
-   "id": 3957,
+   "id": 3954,
    "word": "nockerl",
    "alt": "",
    "type": "",
@@ -47484,7 +47448,7 @@
    "weight": 1
  },
  {
-   "id": 3958,
+   "id": 3955,
    "word": "bulgur",
    "alt": "bulghur",
    "type": "Alt",
@@ -47496,7 +47460,7 @@
    "weight": 1
  },
  {
-   "id": 3959,
+   "id": 3956,
    "word": "analgesia",
    "alt": "",
    "type": "",
@@ -47508,7 +47472,7 @@
    "weight": 1
  },
  {
-   "id": 3960,
+   "id": 3957,
    "word": "pompadour",
    "alt": "",
    "type": "",
@@ -47520,7 +47484,7 @@
    "weight": 1
  },
  {
-   "id": 3961,
+   "id": 3958,
    "word": "nimiety",
    "alt": "",
    "type": "",
@@ -47532,7 +47496,7 @@
    "weight": 1
  },
  {
-   "id": 3962,
+   "id": 3959,
    "word": "rembrandt",
    "alt": "",
    "type": "",
@@ -47544,7 +47508,7 @@
    "weight": 1
  },
  {
-   "id": 3963,
+   "id": 3960,
    "word": "étagère",
    "alt": "",
    "type": "",
@@ -47556,7 +47520,7 @@
    "weight": 1
  },
  {
-   "id": 3964,
+   "id": 3961,
    "word": "Diplodocus",
    "alt": "",
    "type": "",
@@ -47568,7 +47532,7 @@
    "weight": 1
  },
  {
-   "id": 3965,
+   "id": 3962,
    "word": "labefaction",
    "alt": "",
    "type": "",
@@ -47580,7 +47544,7 @@
    "weight": 1
  },
  {
-   "id": 3966,
+   "id": 3963,
    "word": "bruja",
    "alt": "",
    "type": "",
@@ -47592,7 +47556,7 @@
    "weight": 1
  },
  {
-   "id": 3967,
+   "id": 3964,
    "word": "manteau",
    "alt": "",
    "type": "",
@@ -47604,7 +47568,7 @@
    "weight": 1
  },
  {
-   "id": 3968,
+   "id": 3965,
    "word": "solenoid",
    "alt": "",
    "type": "",
@@ -47616,7 +47580,7 @@
    "weight": 1
  },
  {
-   "id": 3969,
+   "id": 3966,
    "word": "notturno",
    "alt": "",
    "type": "",
@@ -47628,7 +47592,7 @@
    "weight": 1
  },
  {
-   "id": 3970,
+   "id": 3967,
    "word": "Adelaide",
    "alt": "",
    "type": "",
@@ -47640,7 +47604,7 @@
    "weight": 1
  },
  {
-   "id": 3971,
+   "id": 3968,
    "word": "thalamus",
    "alt": "",
    "type": "",
@@ -47652,7 +47616,7 @@
    "weight": 1
  },
  {
-   "id": 3972,
+   "id": 3969,
    "word": "clematis",
    "alt": "",
    "type": "",
@@ -47664,7 +47628,7 @@
    "weight": 1
  },
  {
-   "id": 3973,
+   "id": 3970,
    "word": "hyssop",
    "alt": "",
    "type": "",
@@ -47676,7 +47640,7 @@
    "weight": 1
  },
  {
-   "id": 3974,
+   "id": 3971,
    "word": "souchong",
    "alt": "",
    "type": "",
@@ -47688,7 +47652,7 @@
    "weight": 1
  },
  {
-   "id": 3975,
+   "id": 3972,
    "word": "kanji",
    "alt": "",
    "type": "",
@@ -47700,7 +47664,7 @@
    "weight": 1
  },
  {
-   "id": 3976,
+   "id": 3973,
    "word": "sinciput",
    "alt": "",
    "type": "",
@@ -47712,7 +47676,7 @@
    "weight": 1
  },
  {
-   "id": 3977,
+   "id": 3974,
    "word": "meiosis",
    "alt": "",
    "type": "",
@@ -47724,7 +47688,7 @@
    "weight": 1
  },
  {
-   "id": 3978,
+   "id": 3975,
    "word": "effleurage",
    "alt": "",
    "type": "",
@@ -47736,7 +47700,7 @@
    "weight": 1
  },
  {
-   "id": 3979,
+   "id": 3976,
    "word": "ammonite",
    "alt": "",
    "type": "",
@@ -47748,7 +47712,7 @@
    "weight": 1
  },
  {
-   "id": 3980,
+   "id": 3977,
    "word": "largesses",
    "alt": "",
    "type": "",
@@ -47760,7 +47724,7 @@
    "weight": 1
  },
  {
-   "id": 3981,
+   "id": 3978,
    "word": "glyceraldehyde",
    "alt": "",
    "type": "",
@@ -47772,7 +47736,7 @@
    "weight": 1
  },
  {
-   "id": 3982,
+   "id": 3979,
    "word": "blanche",
    "alt": "",
    "type": "",
@@ -47784,7 +47748,7 @@
    "weight": 1
  },
  {
-   "id": 3983,
+   "id": 3980,
    "word": "tamarack",
    "alt": "",
    "type": "",
@@ -47796,7 +47760,7 @@
    "weight": 1
  },
  {
-   "id": 3984,
+   "id": 3981,
    "word": "catachresis",
    "alt": "",
    "type": "",
@@ -47808,7 +47772,7 @@
    "weight": 1
  },
  {
-   "id": 3985,
+   "id": 3982,
    "word": "sylph",
    "alt": "",
    "type": "",
@@ -47820,7 +47784,7 @@
    "weight": 1
  },
  {
-   "id": 3986,
+   "id": 3983,
    "word": "onychorrhexis",
    "alt": "",
    "type": "",
@@ -47832,7 +47796,7 @@
    "weight": 1
  },
  {
-   "id": 3987,
+   "id": 3984,
    "word": "samarium",
    "alt": "",
    "type": "",
@@ -47844,7 +47808,7 @@
    "weight": 1
  },
  {
-   "id": 3988,
+   "id": 3985,
    "word": "colloque",
    "alt": "",
    "type": "",
@@ -47856,7 +47820,7 @@
    "weight": 1
  },
  {
-   "id": 3989,
+   "id": 3986,
    "word": "lassitude",
    "alt": "",
    "type": "",
@@ -47868,7 +47832,7 @@
    "weight": 1
  },
  {
-   "id": 3990,
+   "id": 3987,
    "word": "meunière",
    "alt": "",
    "type": "",
@@ -47880,7 +47844,7 @@
    "weight": 1
  },
  {
-   "id": 3991,
+   "id": 3988,
    "word": "tsukupin",
    "alt": "",
    "type": "",
@@ -47892,7 +47856,7 @@
    "weight": 1
  },
  {
-   "id": 3992,
+   "id": 3989,
    "word": "antenatus",
    "alt": "",
    "type": "",
@@ -47904,7 +47868,7 @@
    "weight": 1
  },
  {
-   "id": 3993,
+   "id": 3990,
    "word": "ptosis",
    "alt": "",
    "type": "",
@@ -47916,7 +47880,7 @@
    "weight": 1
  },
  {
-   "id": 3994,
+   "id": 3991,
    "word": "aporia",
    "alt": "",
    "type": "",
@@ -47928,7 +47892,7 @@
    "weight": 1
  },
  {
-   "id": 3995,
+   "id": 3992,
    "word": "towhee",
    "alt": "",
    "type": "",
@@ -47940,7 +47904,7 @@
    "weight": 1
  },
  {
-   "id": 3996,
+   "id": 3993,
    "word": "boudin",
    "alt": "",
    "type": "",
@@ -47952,7 +47916,7 @@
    "weight": 1
  },
  {
-   "id": 3997,
+   "id": 3994,
    "word": "galapago",
    "alt": "",
    "type": "",
@@ -47964,7 +47928,7 @@
    "weight": 1
  },
  {
-   "id": 3998,
+   "id": 3995,
    "word": "Foley",
    "alt": "",
    "type": "",
@@ -47976,7 +47940,7 @@
    "weight": 1
  },
  {
-   "id": 3999,
+   "id": 3996,
    "word": "facsimile",
    "alt": "",
    "type": "",
@@ -47988,7 +47952,7 @@
    "weight": 1
  },
  {
-   "id": 4000,
+   "id": 3997,
    "word": "Pepysian",
    "alt": "",
    "type": "",
@@ -48000,7 +47964,7 @@
    "weight": 1
  },
  {
-   "id": 4001,
+   "id": 3998,
    "word": "anaphylaxis",
    "alt": "",
    "type": "",
@@ -48012,7 +47976,7 @@
    "weight": 1
  },
  {
-   "id": 4002,
+   "id": 3999,
    "word": "Daliesque",
    "alt": "",
    "type": "",
@@ -48024,7 +47988,7 @@
    "weight": 1
  },
  {
-   "id": 4003,
+   "id": 4000,
    "word": "flagellum",
    "alt": "",
    "type": "",
@@ -48036,7 +48000,7 @@
    "weight": 1
  },
  {
-   "id": 4004,
+   "id": 4001,
    "word": "internecine",
    "alt": "",
    "type": "",
@@ -48048,7 +48012,7 @@
    "weight": 1
  },
  {
-   "id": 4005,
+   "id": 4002,
    "word": "coulomb",
    "alt": "",
    "type": "",
@@ -48060,7 +48024,7 @@
    "weight": 1
  },
  {
-   "id": 4006,
+   "id": 4003,
    "word": "Sahel",
    "alt": "",
    "type": "",
@@ -48072,7 +48036,7 @@
    "weight": 1
  },
  {
-   "id": 4007,
+   "id": 4004,
    "word": "garrulous",
    "alt": "",
    "type": "",
@@ -48084,7 +48048,7 @@
    "weight": 1
  },
  {
-   "id": 4008,
+   "id": 4005,
    "word": "planetesimal",
    "alt": "",
    "type": "",
@@ -48096,7 +48060,7 @@
    "weight": 1
  },
  {
-   "id": 4009,
+   "id": 4006,
    "word": "plenipotentiary",
    "alt": "",
    "type": "",
@@ -48108,7 +48072,7 @@
    "weight": 1
  },
  {
-   "id": 4010,
+   "id": 4007,
    "word": "allonym",
    "alt": "",
    "type": "",
@@ -48120,7 +48084,7 @@
    "weight": 1
  },
  {
-   "id": 4011,
+   "id": 4008,
    "word": "Lisztian",
    "alt": "",
    "type": "",
@@ -48132,7 +48096,7 @@
    "weight": 1
  },
  {
-   "id": 4012,
+   "id": 4009,
    "word": "rococo",
    "alt": "",
    "type": "",
@@ -48144,7 +48108,7 @@
    "weight": 1
  },
  {
-   "id": 4013,
+   "id": 4010,
    "word": "tamari",
    "alt": "",
    "type": "",
@@ -48156,7 +48120,7 @@
    "weight": 1
  },
  {
-   "id": 4014,
+   "id": 4011,
    "word": "prestidigitation",
    "alt": "",
    "type": "",
@@ -48168,7 +48132,7 @@
    "weight": 1
  },
  {
-   "id": 4015,
+   "id": 4012,
    "word": "bhangra",
    "alt": "",
    "type": "",
@@ -48180,7 +48144,7 @@
    "weight": 1
  },
  {
-   "id": 4016,
+   "id": 4013,
    "word": "apocryphal",
    "alt": "",
    "type": "",
@@ -48192,7 +48156,7 @@
    "weight": 1
  },
  {
-   "id": 4017,
+   "id": 4014,
    "word": "repoussage",
    "alt": "",
    "type": "",
@@ -48204,7 +48168,7 @@
    "weight": 1
  },
  {
-   "id": 4018,
+   "id": 4015,
    "word": "icosahedron",
    "alt": "",
    "type": "",
@@ -48216,7 +48180,7 @@
    "weight": 1
  },
  {
-   "id": 4019,
+   "id": 4016,
    "word": "champignon",
    "alt": "",
    "type": "",
@@ -48228,7 +48192,7 @@
    "weight": 1
  },
  {
-   "id": 4020,
+   "id": 4017,
    "word": "taoiseach",
    "alt": "",
    "type": "",
@@ -48240,7 +48204,7 @@
    "weight": 1
  },
  {
-   "id": 4021,
+   "id": 4018,
    "word": "tinnient",
    "alt": "",
    "type": "",
