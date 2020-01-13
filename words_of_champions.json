@@ -41083,7 +41083,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41095,7 +41095,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41107,7 +41107,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41119,7 +41119,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41131,7 +41131,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41143,7 +41143,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41155,7 +41155,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41167,7 +41167,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41179,7 +41179,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41191,8 +41191,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41203,8 +41203,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41215,7 +41215,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41227,7 +41227,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41239,7 +41239,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41251,7 +41251,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41263,7 +41263,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41275,7 +41275,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41287,7 +41287,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41299,7 +41299,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41311,7 +41311,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41323,7 +41323,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41335,8 +41335,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41347,8 +41347,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41359,8 +41359,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41371,8 +41371,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41383,8 +41383,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41395,8 +41395,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41407,8 +41407,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41419,7 +41419,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41431,7 +41431,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41443,7 +41443,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41455,8 +41455,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
@@ -41467,7 +41467,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41479,20 +41479,20 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
    "id": 3458,
    "word": "pastitsio",
-   "alt": "",
+   "alt": "pastitso",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41503,7 +41503,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41515,7 +41515,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41527,8 +41527,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41539,8 +41539,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41551,8 +41551,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41563,8 +41563,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41575,8 +41575,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
@@ -41587,7 +41587,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41599,7 +41599,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41611,8 +41611,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41623,7 +41623,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41635,7 +41635,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41647,8 +41647,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41659,7 +41659,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41671,8 +41671,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41683,7 +41683,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41695,7 +41695,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41707,7 +41707,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41719,7 +41719,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41731,8 +41731,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41743,7 +41743,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41755,7 +41755,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41767,7 +41767,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41779,7 +41779,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41791,7 +41791,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41803,7 +41803,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41815,7 +41815,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41827,8 +41827,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -41839,7 +41839,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41851,7 +41851,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41863,7 +41863,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41875,8 +41875,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41887,8 +41887,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41899,8 +41899,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41911,7 +41911,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41923,8 +41923,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41935,7 +41935,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41947,7 +41947,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41959,7 +41959,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -41971,8 +41971,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41983,8 +41983,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -41995,8 +41995,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42007,7 +42007,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42019,8 +42019,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42031,7 +42031,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42043,7 +42043,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42055,8 +42055,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42067,8 +42067,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
@@ -42079,7 +42079,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42091,8 +42091,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -42103,7 +42103,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42115,8 +42115,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -42127,7 +42127,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42139,8 +42139,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -42151,7 +42151,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42163,8 +42163,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 4,
    "weight": 1
  },
  {
@@ -42175,8 +42175,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42187,7 +42187,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42199,8 +42199,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42211,8 +42211,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42223,8 +42223,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42235,8 +42235,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42247,8 +42247,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42259,7 +42259,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42271,8 +42271,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42283,7 +42283,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42295,7 +42295,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42307,7 +42307,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42319,7 +42319,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42331,7 +42331,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42343,7 +42343,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42355,8 +42355,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42367,8 +42367,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -42379,8 +42379,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42391,7 +42391,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42403,8 +42403,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42415,8 +42415,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42427,8 +42427,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42439,8 +42439,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
@@ -42451,8 +42451,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -42463,8 +42463,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -42475,8 +42475,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -42487,8 +42487,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42499,7 +42499,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42511,7 +42511,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42523,7 +42523,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42535,7 +42535,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42547,7 +42547,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42559,7 +42559,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42571,7 +42571,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42583,7 +42583,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42595,19 +42595,19 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
    "id": 3551,
-   "word": "voce",
+   "word": "sotto voce",
    "alt": "",
    "type": "",
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42619,7 +42619,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42631,7 +42631,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42643,7 +42643,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42655,7 +42655,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42667,7 +42667,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42679,8 +42679,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -42691,8 +42691,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42703,7 +42703,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42715,7 +42715,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42727,8 +42727,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42739,7 +42739,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42751,7 +42751,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42763,7 +42763,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42775,8 +42775,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
@@ -42787,8 +42787,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 3,
    "weight": 1
  },
  {
@@ -42799,7 +42799,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42811,8 +42811,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 1,
    "weight": 1
  },
  {
@@ -42823,7 +42823,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42835,7 +42835,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
@@ -42847,8 +42847,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -42859,8 +42859,8 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
-   "nMistakes": 0,
+   "nTried": 1,
+   "nMistakes": 2,
    "weight": 1
  },
  {
@@ -42871,7 +42871,7 @@
    "bee": "three",
    "group": "champions",
    "origin": "",
-   "nTried": 0,
+   "nTried": 1,
    "nMistakes": 0,
    "weight": 1
  },
