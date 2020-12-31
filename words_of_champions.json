@@ -29411,7 +29411,7 @@
   },
   {
     "id": 2942,
-    "word": "au",
+    "word": "au-revoir",
     "alt": "",
     "bee": "three",
     "group": "study",
@@ -29421,16 +29421,6 @@
   },
   {
     "id": 2943,
-    "word": "revoir",
-    "alt": "",
-    "bee": "three",
-    "group": "study",
-    "nTried": 0,
-    "nMistakes": 0,
-    "weight": 1
-  },
-  {
-    "id": 2944,
     "word": "bitumen",
     "alt": "",
     "bee": "three",
@@ -29440,7 +29430,7 @@
     "weight": 1
   },
   {
-    "id": 2945,
+    "id": 2944,
     "word": "sacristy",
     "alt": "",
     "bee": "three",
@@ -29450,7 +29440,7 @@
     "weight": 1
   },
   {
-    "id": 2946,
+    "id": 2945,
     "word": "Salzkammergut",
     "alt": "",
     "bee": "three",
@@ -29460,7 +29450,7 @@
     "weight": 1
   },
   {
-    "id": 2947,
+    "id": 2946,
     "word": "frisson",
     "alt": "",
     "bee": "three",
@@ -29470,7 +29460,7 @@
     "weight": 1
   },
   {
-    "id": 2948,
+    "id": 2947,
     "word": "Aachen",
     "alt": "",
     "bee": "three",
@@ -29480,7 +29470,7 @@
     "weight": 1
   },
   {
-    "id": 2949,
+    "id": 2948,
     "word": "oriole",
     "alt": "",
     "bee": "three",
@@ -29490,7 +29480,7 @@
     "weight": 1
   },
   {
-    "id": 2950,
+    "id": 2949,
     "word": "Ganges",
     "alt": "",
     "bee": "three",
@@ -29500,7 +29490,7 @@
     "weight": 1
   },
   {
-    "id": 2951,
+    "id": 2950,
     "word": "niagara",
     "alt": "",
     "bee": "three",
@@ -29510,7 +29500,7 @@
     "weight": 1
   },
   {
-    "id": 2952,
+    "id": 2951,
     "word": "carrion",
     "alt": "",
     "bee": "three",
@@ -29520,7 +29510,7 @@
     "weight": 1
   },
   {
-    "id": 2953,
+    "id": 2952,
     "word": "samosas",
     "alt": "",
     "bee": "three",
@@ -29530,7 +29520,7 @@
     "weight": 1
   },
   {
-    "id": 2954,
+    "id": 2953,
     "word": "chalice",
     "alt": "",
     "bee": "three",
@@ -29540,7 +29530,7 @@
     "weight": 1
   },
   {
-    "id": 2955,
+    "id": 2954,
     "word": "necromancer",
     "alt": "",
     "bee": "three",
@@ -29550,7 +29540,7 @@
     "weight": 1
   },
   {
-    "id": 2956,
+    "id": 2955,
     "word": "proffered",
     "alt": "",
     "bee": "three",
@@ -29560,7 +29550,7 @@
     "weight": 1
   },
   {
-    "id": 2957,
+    "id": 2956,
     "word": "colonel",
     "alt": "",
     "bee": "three",
@@ -29570,7 +29560,7 @@
     "weight": 1
   },
   {
-    "id": 2958,
+    "id": 2957,
     "word": "subaltern",
     "alt": "",
     "bee": "three",
@@ -29580,7 +29570,7 @@
     "weight": 1
   },
   {
-    "id": 2959,
+    "id": 2958,
     "word": "Etruscan",
     "alt": "",
     "bee": "three",
@@ -29590,7 +29580,7 @@
     "weight": 1
   },
   {
-    "id": 2960,
+    "id": 2959,
     "word": "cloisters",
     "alt": "",
     "bee": "three",
@@ -29600,7 +29590,7 @@
     "weight": 1
   },
   {
-    "id": 2961,
+    "id": 2960,
     "word": "redound",
     "alt": "",
     "bee": "three",
@@ -29610,7 +29600,7 @@
     "weight": 1
   },
   {
-    "id": 2962,
+    "id": 2961,
     "word": "Benedictine",
     "alt": "",
     "bee": "three",
@@ -29620,7 +29610,7 @@
     "weight": 1
   },
   {
-    "id": 2963,
+    "id": 2962,
     "word": "arcane",
     "alt": "",
     "bee": "three",
@@ -29630,7 +29620,7 @@
     "weight": 1
   },
   {
-    "id": 2964,
+    "id": 2963,
     "word": "soleil",
     "alt": "",
     "bee": "three",
@@ -29640,7 +29630,7 @@
     "weight": 1
   },
   {
-    "id": 2965,
+    "id": 2964,
     "word": "copse",
     "alt": "",
     "bee": "three",
@@ -29650,7 +29640,7 @@
     "weight": 1
   },
   {
-    "id": 2966,
+    "id": 2965,
     "word": "scabbard",
     "alt": "",
     "bee": "three",
@@ -29660,7 +29650,7 @@
     "weight": 1
   },
   {
-    "id": 2967,
+    "id": 2966,
     "word": "courtiers",
     "alt": "",
     "bee": "three",
@@ -29670,7 +29660,7 @@
     "weight": 1
   },
   {
-    "id": 2968,
+    "id": 2967,
     "word": "assuage",
     "alt": "",
     "bee": "three",
@@ -29680,7 +29670,7 @@
     "weight": 1
   },
   {
-    "id": 2969,
+    "id": 2968,
     "word": "adjutant",
     "alt": "",
     "bee": "three",
@@ -29690,7 +29680,7 @@
     "weight": 1
   },
   {
-    "id": 2970,
+    "id": 2969,
     "word": "inexorably",
     "alt": "",
     "bee": "three",
@@ -29700,7 +29690,7 @@
     "weight": 1
   },
   {
-    "id": 2971,
+    "id": 2970,
     "word": "disgorged",
     "alt": "",
     "bee": "three",
@@ -29710,7 +29700,7 @@
     "weight": 1
   },
   {
-    "id": 2972,
+    "id": 2971,
     "word": "Algiers",
     "alt": "",
     "bee": "three",
@@ -29720,7 +29710,7 @@
     "weight": 1
   },
   {
-    "id": 2973,
+    "id": 2972,
     "word": "primavera",
     "alt": "",
     "bee": "three",
@@ -29730,7 +29720,7 @@
     "weight": 1
   },
   {
-    "id": 2974,
+    "id": 2973,
     "word": "souterrain",
     "alt": "",
     "bee": "three",
@@ -29740,7 +29730,7 @@
     "weight": 1
   },
   {
-    "id": 2975,
+    "id": 2974,
     "word": "knickerbockers",
     "alt": "",
     "bee": "three",
@@ -29750,7 +29740,7 @@
     "weight": 1
   },
   {
-    "id": 2976,
+    "id": 2975,
     "word": "litany",
     "alt": "",
     "bee": "three",
@@ -29760,7 +29750,7 @@
     "weight": 1
   },
   {
-    "id": 2977,
+    "id": 2976,
     "word": "unsullied",
     "alt": "",
     "bee": "three",
@@ -29770,7 +29760,7 @@
     "weight": 1
   },
   {
-    "id": 2978,
+    "id": 2977,
     "word": "Carthusian",
     "alt": "",
     "bee": "three",
@@ -29780,7 +29770,7 @@
     "weight": 1
   },
   {
-    "id": 2979,
+    "id": 2978,
     "word": "maharaja",
     "alt": "maharajah",
     "bee": "three",
@@ -29790,7 +29780,7 @@
     "weight": 1
   },
   {
-    "id": 2980,
+    "id": 2979,
     "word": "Upanishads",
     "alt": "Upanisads",
     "bee": "three",
@@ -29800,7 +29790,7 @@
     "weight": 1
   },
   {
-    "id": 2981,
+    "id": 2980,
     "word": "arret",
     "alt": "",
     "bee": "three",
@@ -29810,7 +29800,7 @@
     "weight": 1
   },
   {
-    "id": 2982,
+    "id": 2981,
     "word": "marquee",
     "alt": "",
     "bee": "three",
@@ -29820,7 +29810,7 @@
     "weight": 1
   },
   {
-    "id": 2983,
+    "id": 2982,
     "word": "imaret",
     "alt": "",
     "bee": "three",
@@ -29830,7 +29820,7 @@
     "weight": 1
   },
   {
-    "id": 2984,
+    "id": 2983,
     "word": "cornichon",
     "alt": "",
     "bee": "three",
@@ -29840,7 +29830,7 @@
     "weight": 1
   },
   {
-    "id": 2985,
+    "id": 2984,
     "word": "devastavit",
     "alt": "",
     "bee": "three",
@@ -29850,7 +29840,7 @@
     "weight": 1
   },
   {
-    "id": 2986,
+    "id": 2985,
     "word": "Mediterranean",
     "alt": "",
     "bee": "three",
@@ -29860,7 +29850,7 @@
     "weight": 1
   },
   {
-    "id": 2987,
+    "id": 2986,
     "word": "longevous",
     "alt": "",
     "bee": "three",
@@ -29870,7 +29860,7 @@
     "weight": 1
   },
   {
-    "id": 2988,
+    "id": 2987,
     "word": "digerati",
     "alt": "",
     "bee": "three",
@@ -29880,7 +29870,7 @@
     "weight": 1
   },
   {
-    "id": 2989,
+    "id": 2988,
     "word": "solecism",
     "alt": "",
     "bee": "three",
@@ -29890,7 +29880,7 @@
     "weight": 1
   },
   {
-    "id": 2990,
+    "id": 2989,
     "word": "hypertrophy",
     "alt": "",
     "bee": "three",
@@ -29900,7 +29890,7 @@
     "weight": 1
   },
   {
-    "id": 2991,
+    "id": 2990,
     "word": "ravigote",
     "alt": "",
     "bee": "three",
@@ -29910,7 +29900,7 @@
     "weight": 1
   },
   {
-    "id": 2992,
+    "id": 2991,
     "word": "inchoate",
     "alt": "",
     "bee": "three",
@@ -29920,7 +29910,7 @@
     "weight": 1
   },
   {
-    "id": 2993,
+    "id": 2992,
     "word": "judoka",
     "alt": "",
     "bee": "three",
@@ -29930,7 +29920,7 @@
     "weight": 1
   },
   {
-    "id": 2994,
+    "id": 2993,
     "word": "vaccary",
     "alt": "",
     "bee": "three",
@@ -29940,7 +29930,7 @@
     "weight": 1
   },
   {
-    "id": 2995,
+    "id": 2994,
     "word": "Adelaide",
     "alt": "",
     "bee": "three",
@@ -29950,7 +29940,7 @@
     "weight": 1
   },
   {
-    "id": 2996,
+    "id": 2995,
     "word": "unwonted",
     "alt": "",
     "bee": "three",
@@ -29960,7 +29950,7 @@
     "weight": 1
   },
   {
-    "id": 2997,
+    "id": 2996,
     "word": "tazza",
     "alt": "",
     "bee": "three",
@@ -29970,7 +29960,7 @@
     "weight": 1
   },
   {
-    "id": 2998,
+    "id": 2997,
     "word": "damson",
     "alt": "",
     "bee": "three",
@@ -29980,7 +29970,7 @@
     "weight": 1
   },
   {
-    "id": 2999,
+    "id": 2998,
     "word": "pelisse",
     "alt": "",
     "bee": "three",
@@ -29990,7 +29980,7 @@
     "weight": 1
   },
   {
-    "id": 3000,
+    "id": 2999,
     "word": "succade",
     "alt": "",
     "bee": "three",
@@ -30000,7 +29990,7 @@
     "weight": 1
   },
   {
-    "id": 3001,
+    "id": 3000,
     "word": "tumulus",
     "alt": "",
     "bee": "three",
@@ -30010,7 +30000,7 @@
     "weight": 1
   },
   {
-    "id": 3002,
+    "id": 3001,
     "word": "dorsiflexor",
     "alt": "",
     "bee": "three",
@@ -30020,7 +30010,7 @@
     "weight": 1
   },
   {
-    "id": 3003,
+    "id": 3002,
     "word": "profiterole",
     "alt": "",
     "bee": "three",
@@ -30030,7 +30020,7 @@
     "weight": 1
   },
   {
-    "id": 3004,
+    "id": 3003,
     "word": "valetudinary",
     "alt": "",
     "bee": "three",
@@ -30040,7 +30030,7 @@
     "weight": 1
   },
   {
-    "id": 3005,
+    "id": 3004,
     "word": "aristoi",
     "alt": "",
     "bee": "three",
@@ -30050,7 +30040,7 @@
     "weight": 1
   },
   {
-    "id": 3006,
+    "id": 3005,
     "word": "vireo",
     "alt": "",
     "bee": "three",
@@ -30060,7 +30050,7 @@
     "weight": 1
   },
   {
-    "id": 3007,
+    "id": 3006,
     "word": "rococo",
     "alt": "",
     "bee": "three",
@@ -30070,7 +30060,7 @@
     "weight": 1
   },
   {
-    "id": 3008,
+    "id": 3007,
     "word": "lachsschinken",
     "alt": "",
     "bee": "three",
@@ -30080,7 +30070,7 @@
     "weight": 1
   },
   {
-    "id": 3009,
+    "id": 3008,
     "word": "wakame",
     "alt": "",
     "bee": "three",
@@ -30090,7 +30080,7 @@
     "weight": 1
   },
   {
-    "id": 3010,
+    "id": 3009,
     "word": "bathos",
     "alt": "",
     "bee": "three",
@@ -30100,7 +30090,7 @@
     "weight": 1
   },
   {
-    "id": 3011,
+    "id": 3010,
     "word": "nihilism",
     "alt": "",
     "bee": "three",
@@ -30110,7 +30100,7 @@
     "weight": 1
   },
   {
-    "id": 3012,
+    "id": 3011,
     "word": "ustion",
     "alt": "",
     "bee": "three",
@@ -30120,7 +30110,7 @@
     "weight": 1
   },
   {
-    "id": 3013,
+    "id": 3012,
     "word": "sumpsimus",
     "alt": "",
     "bee": "three",
@@ -30130,7 +30120,7 @@
     "weight": 1
   },
   {
-    "id": 3014,
+    "id": 3013,
     "word": "morel",
     "alt": "",
     "bee": "three",
@@ -30140,7 +30130,7 @@
     "weight": 1
   },
   {
-    "id": 3015,
+    "id": 3014,
     "word": "abeyance",
     "alt": "",
     "bee": "three",
@@ -30150,7 +30140,7 @@
     "weight": 1
   },
   {
-    "id": 3016,
+    "id": 3015,
     "word": "rongeur",
     "alt": "",
     "bee": "three",
@@ -30160,7 +30150,7 @@
     "weight": 1
   },
   {
-    "id": 3017,
+    "id": 3016,
     "word": "mountebank",
     "alt": "",
     "bee": "three",
@@ -30170,7 +30160,7 @@
     "weight": 1
   },
   {
-    "id": 3018,
+    "id": 3017,
     "word": "allelopathy",
     "alt": "",
     "bee": "three",
@@ -30180,7 +30170,7 @@
     "weight": 1
   },
   {
-    "id": 3019,
+    "id": 3018,
     "word": "capoeira",
     "alt": "",
     "bee": "three",
@@ -30190,7 +30180,7 @@
     "weight": 1
   },
   {
-    "id": 3020,
+    "id": 3019,
     "word": "agnolotti",
     "alt": "",
     "bee": "three",
@@ -30200,7 +30190,7 @@
     "weight": 1
   },
   {
-    "id": 3021,
+    "id": 3020,
     "word": "ballabile",
     "alt": "",
     "bee": "three",
@@ -30210,7 +30200,7 @@
     "weight": 1
   },
   {
-    "id": 3022,
+    "id": 3021,
     "word": "draegerman",
     "alt": "",
     "bee": "three",
@@ -30220,7 +30210,7 @@
     "weight": 1
   },
   {
-    "id": 3023,
+    "id": 3022,
     "word": "prescient",
     "alt": "",
     "bee": "three",
@@ -30230,7 +30220,7 @@
     "weight": 1
   },
   {
-    "id": 3024,
+    "id": 3023,
     "word": "Fribourg",
     "alt": "",
     "bee": "three",
@@ -30240,7 +30230,7 @@
     "weight": 1
   },
   {
-    "id": 3025,
+    "id": 3024,
     "word": "proselytizer",
     "alt": "proselytiser",
     "bee": "three",
@@ -30250,7 +30240,7 @@
     "weight": 1
   },
   {
-    "id": 3026,
+    "id": 3025,
     "word": "tenon",
     "alt": "",
     "bee": "three",
@@ -30260,7 +30250,7 @@
     "weight": 1
   },
   {
-    "id": 3027,
+    "id": 3026,
     "word": "nubilous",
     "alt": "",
     "bee": "three",
@@ -30270,7 +30260,7 @@
     "weight": 1
   },
   {
-    "id": 3028,
+    "id": 3027,
     "word": "iatrogenic",
     "alt": "",
     "bee": "three",
@@ -30280,7 +30270,7 @@
     "weight": 1
   },
   {
-    "id": 3029,
+    "id": 3028,
     "word": "onychitis",
     "alt": "",
     "bee": "three",
@@ -30290,7 +30280,7 @@
     "weight": 1
   },
   {
-    "id": 3030,
+    "id": 3029,
     "word": "roux",
     "alt": "",
     "bee": "three",
@@ -30300,7 +30290,7 @@
     "weight": 1
   },
   {
-    "id": 3031,
+    "id": 3030,
     "word": "tuatara",
     "alt": "",
     "bee": "three",
@@ -30310,7 +30300,7 @@
     "weight": 1
   },
   {
-    "id": 3032,
+    "id": 3031,
     "word": "chicle",
     "alt": "",
     "bee": "three",
@@ -30320,7 +30310,7 @@
     "weight": 1
   },
   {
-    "id": 3033,
+    "id": 3032,
     "word": "sulcus",
     "alt": "",
     "bee": "three",
@@ -30330,7 +30320,7 @@
     "weight": 1
   },
   {
-    "id": 3034,
+    "id": 3033,
     "word": "thalamus",
     "alt": "",
     "bee": "three",
@@ -30340,7 +30330,7 @@
     "weight": 1
   },
   {
-    "id": 3035,
+    "id": 3034,
     "word": "gyttja",
     "alt": "",
     "bee": "three",
@@ -30350,7 +30340,7 @@
     "weight": 1
   },
   {
-    "id": 3036,
+    "id": 3035,
     "word": "jibboom",
     "alt": "",
     "bee": "three",
@@ -30360,7 +30350,7 @@
     "weight": 1
   },
   {
-    "id": 3037,
+    "id": 3036,
     "word": "vestigial",
     "alt": "",
     "bee": "three",
@@ -30370,7 +30360,7 @@
     "weight": 1
   },
   {
-    "id": 3038,
+    "id": 3037,
     "word": "Orwellian",
     "alt": "",
     "bee": "three",
@@ -30380,7 +30370,7 @@
     "weight": 1
   },
   {
-    "id": 3039,
+    "id": 3038,
     "word": "gimbaled",
     "alt": "gimballed",
     "bee": "three",
@@ -30390,7 +30380,7 @@
     "weight": 1
   },
   {
-    "id": 3040,
+    "id": 3039,
     "word": "cabaletta",
     "alt": "",
     "bee": "three",
@@ -30400,7 +30390,7 @@
     "weight": 1
   },
   {
-    "id": 3041,
+    "id": 3040,
     "word": "hesped",
     "alt": "",
     "bee": "three",
@@ -30410,7 +30400,7 @@
     "weight": 1
   },
   {
-    "id": 3042,
+    "id": 3041,
     "word": "umami",
     "alt": "",
     "bee": "three",
@@ -30420,7 +30410,7 @@
     "weight": 1
   },
   {
-    "id": 3043,
+    "id": 3042,
     "word": "persiflage",
     "alt": "",
     "bee": "three",
@@ -30430,7 +30420,7 @@
     "weight": 1
   },
   {
-    "id": 3044,
+    "id": 3043,
     "word": "toreador",
     "alt": "",
     "bee": "three",
@@ -30440,7 +30430,7 @@
     "weight": 1
   },
   {
-    "id": 3045,
+    "id": 3044,
     "word": "vermicelli",
     "alt": "",
     "bee": "three",
@@ -30450,7 +30440,7 @@
     "weight": 1
   },
   {
-    "id": 3046,
+    "id": 3045,
     "word": "frangipane",
     "alt": "",
     "bee": "three",
@@ -30460,7 +30450,7 @@
     "weight": 1
   },
   {
-    "id": 3047,
+    "id": 3046,
     "word": "reseau",
     "alt": "",
     "bee": "three",
@@ -30470,7 +30460,7 @@
     "weight": 1
   },
   {
-    "id": 3048,
+    "id": 3047,
     "word": "moulage",
     "alt": "",
     "bee": "three",
@@ -30480,7 +30470,7 @@
     "weight": 1
   },
   {
-    "id": 3049,
+    "id": 3048,
     "word": "interpellate",
     "alt": "",
     "bee": "three",
@@ -30490,7 +30480,7 @@
     "weight": 1
   },
   {
-    "id": 3050,
+    "id": 3049,
     "word": "genuflect",
     "alt": "",
     "bee": "three",
@@ -30500,7 +30490,7 @@
     "weight": 1
   },
   {
-    "id": 3051,
+    "id": 3050,
     "word": "cinerarium",
     "alt": "",
     "bee": "three",
@@ -30510,7 +30500,7 @@
     "weight": 1
   },
   {
-    "id": 3052,
+    "id": 3051,
     "word": "polemic",
     "alt": "",
     "bee": "three",
@@ -30520,7 +30510,7 @@
     "weight": 1
   },
   {
-    "id": 3053,
+    "id": 3052,
     "word": "paladin",
     "alt": "",
     "bee": "three",
@@ -30530,7 +30520,7 @@
     "weight": 1
   },
   {
-    "id": 3054,
+    "id": 3053,
     "word": "totipotency",
     "alt": "",
     "bee": "three",
@@ -30540,7 +30530,7 @@
     "weight": 1
   },
   {
-    "id": 3055,
+    "id": 3054,
     "word": "agnomen",
     "alt": "",
     "bee": "three",
@@ -30550,7 +30540,7 @@
     "weight": 1
   },
   {
-    "id": 3056,
+    "id": 3055,
     "word": "Bauhaus",
     "alt": "",
     "bee": "three",
@@ -30560,7 +30550,7 @@
     "weight": 1
   },
   {
-    "id": 3057,
+    "id": 3056,
     "word": "sacerdotal",
     "alt": "",
     "bee": "three",
@@ -30570,7 +30560,7 @@
     "weight": 1
   },
   {
-    "id": 3058,
+    "id": 3057,
     "word": "skeuomorph",
     "alt": "",
     "bee": "three",
@@ -30580,7 +30570,7 @@
     "weight": 1
   },
   {
-    "id": 3059,
+    "id": 3058,
     "word": "binturong",
     "alt": "",
     "bee": "three",
@@ -30590,7 +30580,7 @@
     "weight": 1
   },
   {
-    "id": 3060,
+    "id": 3059,
     "word": "mamushi",
     "alt": "",
     "bee": "three",
@@ -30600,7 +30590,7 @@
     "weight": 1
   },
   {
-    "id": 3061,
+    "id": 3060,
     "word": "lipophilic",
     "alt": "",
     "bee": "three",
@@ -30610,7 +30600,7 @@
     "weight": 1
   },
   {
-    "id": 3062,
+    "id": 3061,
     "word": "codicil",
     "alt": "",
     "bee": "three",
@@ -30620,7 +30610,7 @@
     "weight": 1
   },
   {
-    "id": 3063,
+    "id": 3062,
     "word": "coulomb",
     "alt": "",
     "bee": "three",
@@ -30630,7 +30620,7 @@
     "weight": 1
   },
   {
-    "id": 3064,
+    "id": 3063,
     "word": "violaceous",
     "alt": "",
     "bee": "three",
@@ -30640,7 +30630,7 @@
     "weight": 1
   },
   {
-    "id": 3065,
+    "id": 3064,
     "word": "Rorschach",
     "alt": "",
     "bee": "three",
@@ -30650,7 +30640,7 @@
     "weight": 1
   },
   {
-    "id": 3066,
+    "id": 3065,
     "word": "arthralgia",
     "alt": "",
     "bee": "three",
@@ -30660,7 +30650,7 @@
     "weight": 1
   },
   {
-    "id": 3067,
+    "id": 3066,
     "word": "desman",
     "alt": "",
     "bee": "three",
@@ -30670,7 +30660,7 @@
     "weight": 1
   },
   {
-    "id": 3068,
+    "id": 3067,
     "word": "jacaranda",
     "alt": "",
     "bee": "three",
@@ -30680,7 +30670,7 @@
     "weight": 1
   },
   {
-    "id": 3069,
+    "id": 3068,
     "word": "huapango",
     "alt": "",
     "bee": "three",
@@ -30690,7 +30680,7 @@
     "weight": 1
   },
   {
-    "id": 3070,
+    "id": 3069,
     "word": "predilection",
     "alt": "",
     "bee": "three",
@@ -30700,7 +30690,7 @@
     "weight": 1
   },
   {
-    "id": 3071,
+    "id": 3070,
     "word": "entomophagy",
     "alt": "",
     "bee": "three",
@@ -30710,7 +30700,7 @@
     "weight": 1
   },
   {
-    "id": 3072,
+    "id": 3071,
     "word": "paronomasia",
     "alt": "",
     "bee": "three",
@@ -30720,7 +30710,7 @@
     "weight": 1
   },
   {
-    "id": 3073,
+    "id": 3072,
     "word": "facsimile",
     "alt": "",
     "bee": "three",
@@ -30730,7 +30720,7 @@
     "weight": 1
   },
   {
-    "id": 3074,
+    "id": 3073,
     "word": "renminbi",
     "alt": "",
     "bee": "three",
@@ -30740,7 +30730,7 @@
     "weight": 1
   },
   {
-    "id": 3075,
+    "id": 3074,
     "word": "interferon",
     "alt": "",
     "bee": "three",
@@ -30750,7 +30740,7 @@
     "weight": 1
   },
   {
-    "id": 3076,
+    "id": 3075,
     "word": "sedulous",
     "alt": "",
     "bee": "three",
@@ -30760,7 +30750,7 @@
     "weight": 1
   },
   {
-    "id": 3077,
+    "id": 3076,
     "word": "velouté",
     "alt": "",
     "bee": "three",
@@ -30770,7 +30760,7 @@
     "weight": 1
   },
   {
-    "id": 3078,
+    "id": 3077,
     "word": "Aesopian",
     "alt": "",
     "bee": "three",
@@ -30780,7 +30770,7 @@
     "weight": 1
   },
   {
-    "id": 3079,
+    "id": 3078,
     "word": "frigate",
     "alt": "",
     "bee": "three",
@@ -30790,7 +30780,7 @@
     "weight": 1
   },
   {
-    "id": 3080,
+    "id": 3079,
     "word": "enoptromancy",
     "alt": "",
     "bee": "three",
@@ -30800,7 +30790,7 @@
     "weight": 1
   },
   {
-    "id": 3081,
+    "id": 3080,
     "word": "satiety",
     "alt": "",
     "bee": "three",
@@ -30810,7 +30800,7 @@
     "weight": 1
   },
   {
-    "id": 3082,
+    "id": 3081,
     "word": "perorate",
     "alt": "",
     "bee": "three",
@@ -30820,7 +30810,7 @@
     "weight": 1
   },
   {
-    "id": 3083,
+    "id": 3082,
     "word": "danseur",
     "alt": "",
     "bee": "three",
@@ -30830,7 +30820,7 @@
     "weight": 1
   },
   {
-    "id": 3084,
+    "id": 3083,
     "word": "chevalier",
     "alt": "",
     "bee": "three",
@@ -30840,7 +30830,7 @@
     "weight": 1
   },
   {
-    "id": 3085,
+    "id": 3084,
     "word": "taurine",
     "alt": "",
     "bee": "three",
@@ -30850,7 +30840,7 @@
     "weight": 1
   },
   {
-    "id": 3086,
+    "id": 3085,
     "word": "hierurgical",
     "alt": "",
     "bee": "three",
@@ -30860,7 +30850,7 @@
     "weight": 1
   },
   {
-    "id": 3087,
+    "id": 3086,
     "word": "melee",
     "alt": "",
     "bee": "three",
@@ -30870,7 +30860,7 @@
     "weight": 1
   },
   {
-    "id": 3088,
+    "id": 3087,
     "word": "emolument",
     "alt": "",
     "bee": "three",
@@ -30880,7 +30870,7 @@
     "weight": 1
   },
   {
-    "id": 3089,
+    "id": 3088,
     "word": "ikebana",
     "alt": "",
     "bee": "three",
@@ -30890,7 +30880,7 @@
     "weight": 1
   },
   {
-    "id": 3090,
+    "id": 3089,
     "word": "exaugural",
     "alt": "",
     "bee": "three",
@@ -30900,7 +30890,7 @@
     "weight": 1
   },
   {
-    "id": 3091,
+    "id": 3090,
     "word": "gaillardia",
     "alt": "",
     "bee": "three",
@@ -30910,7 +30900,7 @@
     "weight": 1
   },
   {
-    "id": 3092,
+    "id": 3091,
     "word": "caryatid",
     "alt": "",
     "bee": "three",
@@ -30920,7 +30910,7 @@
     "weight": 1
   },
   {
-    "id": 3093,
+    "id": 3092,
     "word": "heliacal",
     "alt": "",
     "bee": "three",
@@ -30930,7 +30920,7 @@
     "weight": 1
   },
   {
-    "id": 3094,
+    "id": 3093,
     "word": "schefflera",
     "alt": "",
     "bee": "three",
@@ -30940,7 +30930,7 @@
     "weight": 1
   },
   {
-    "id": 3095,
+    "id": 3094,
     "word": "contrapposto",
     "alt": "",
     "bee": "three",
@@ -30950,7 +30940,7 @@
     "weight": 1
   },
   {
-    "id": 3096,
+    "id": 3095,
     "word": "temblor",
     "alt": "",
     "bee": "three",
@@ -30960,7 +30950,7 @@
     "weight": 1
   },
   {
-    "id": 3097,
+    "id": 3096,
     "word": "insouciance",
     "alt": "",
     "bee": "three",
@@ -30970,7 +30960,7 @@
     "weight": 1
   },
   {
-    "id": 3098,
+    "id": 3097,
     "word": "catarrh",
     "alt": "",
     "bee": "three",
@@ -30980,7 +30970,7 @@
     "weight": 1
   },
   {
-    "id": 3099,
+    "id": 3098,
     "word": "quattrocento",
     "alt": "",
     "bee": "three",
@@ -30990,7 +30980,7 @@
     "weight": 1
   },
   {
-    "id": 3100,
+    "id": 3099,
     "word": "millegrain",
     "alt": "",
     "bee": "three",
@@ -31000,7 +30990,7 @@
     "weight": 1
   },
   {
-    "id": 3101,
+    "id": 3100,
     "word": "canaille",
     "alt": "",
     "bee": "three",
@@ -31010,7 +31000,7 @@
     "weight": 1
   },
   {
-    "id": 3102,
+    "id": 3101,
     "word": "verisimilitude",
     "alt": "",
     "bee": "three",
@@ -31020,7 +31010,7 @@
     "weight": 1
   },
   {
-    "id": 3103,
+    "id": 3102,
     "word": "Keynesian",
     "alt": "",
     "bee": "three",
@@ -31030,7 +31020,7 @@
     "weight": 1
   },
   {
-    "id": 3104,
+    "id": 3103,
     "word": "akaryote",
     "alt": "",
     "bee": "three",
@@ -31040,7 +31030,7 @@
     "weight": 1
   },
   {
-    "id": 3105,
+    "id": 3104,
     "word": "azulejo",
     "alt": "",
     "bee": "three",
@@ -31050,7 +31040,7 @@
     "weight": 1
   },
   {
-    "id": 3106,
+    "id": 3105,
     "word": "hauberk",
     "alt": "",
     "bee": "three",
@@ -31060,7 +31050,7 @@
     "weight": 1
   },
   {
-    "id": 3107,
+    "id": 3106,
     "word": "bouillon",
     "alt": "",
     "bee": "three",
@@ -31070,7 +31060,7 @@
     "weight": 1
   },
   {
-    "id": 3108,
+    "id": 3107,
     "word": "tarpaulin",
     "alt": "",
     "bee": "three",
@@ -31080,7 +31070,7 @@
     "weight": 1
   },
   {
-    "id": 3109,
+    "id": 3108,
     "word": "cephalopod",
     "alt": "",
     "bee": "three",
@@ -31090,7 +31080,7 @@
     "weight": 1
   },
   {
-    "id": 3110,
+    "id": 3109,
     "word": "pulchritude",
     "alt": "",
     "bee": "three",
@@ -31100,7 +31090,7 @@
     "weight": 1
   },
   {
-    "id": 3111,
+    "id": 3110,
     "word": "pekoe",
     "alt": "",
     "bee": "three",
@@ -31110,7 +31100,7 @@
     "weight": 1
   },
   {
-    "id": 3112,
+    "id": 3111,
     "word": "patois",
     "alt": "",
     "bee": "three",
@@ -31120,7 +31110,7 @@
     "weight": 1
   },
   {
-    "id": 3113,
+    "id": 3112,
     "word": "Rubicon",
     "alt": "",
     "bee": "three",
@@ -31130,7 +31120,7 @@
     "weight": 1
   },
   {
-    "id": 3114,
+    "id": 3113,
     "word": "bourgeois",
     "alt": "",
     "bee": "three",
@@ -31140,7 +31130,7 @@
     "weight": 1
   },
   {
-    "id": 3115,
+    "id": 3114,
     "word": "aerophilatelic",
     "alt": "",
     "bee": "three",
@@ -31150,7 +31140,7 @@
     "weight": 1
   },
   {
-    "id": 3116,
+    "id": 3115,
     "word": "ankh",
     "alt": "",
     "bee": "three",
@@ -31160,7 +31150,7 @@
     "weight": 1
   },
   {
-    "id": 3117,
+    "id": 3116,
     "word": "contumelious",
     "alt": "",
     "bee": "three",
@@ -31170,7 +31160,7 @@
     "weight": 1
   },
   {
-    "id": 3118,
+    "id": 3117,
     "word": "vicissitudes",
     "alt": "",
     "bee": "three",
@@ -31180,7 +31170,7 @@
     "weight": 1
   },
   {
-    "id": 3119,
+    "id": 3118,
     "word": "lilliputian",
     "alt": "",
     "bee": "three",
@@ -31190,7 +31180,7 @@
     "weight": 1
   },
   {
-    "id": 3120,
+    "id": 3119,
     "word": "Sbrinz",
     "alt": "",
     "bee": "three",
@@ -31200,7 +31190,7 @@
     "weight": 1
   },
   {
-    "id": 3121,
+    "id": 3120,
     "word": "kathakali",
     "alt": "",
     "bee": "three",
@@ -31210,7 +31200,7 @@
     "weight": 1
   },
   {
-    "id": 3122,
+    "id": 3121,
     "word": "cozen",
     "alt": "",
     "bee": "three",
@@ -31220,7 +31210,7 @@
     "weight": 1
   },
   {
-    "id": 3123,
+    "id": 3122,
     "word": "oxalis",
     "alt": "",
     "bee": "three",
@@ -31230,7 +31220,7 @@
     "weight": 1
   },
   {
-    "id": 3124,
+    "id": 3123,
     "word": "myeloma",
     "alt": "",
     "bee": "three",
@@ -31240,7 +31230,7 @@
     "weight": 1
   },
   {
-    "id": 3125,
+    "id": 3124,
     "word": "lebensraum",
     "alt": "",
     "bee": "three",
@@ -31250,7 +31240,7 @@
     "weight": 1
   },
   {
-    "id": 3126,
+    "id": 3125,
     "word": "mufti",
     "alt": "",
     "bee": "three",
@@ -31260,7 +31250,7 @@
     "weight": 1
   },
   {
-    "id": 3127,
+    "id": 3126,
     "word": "dirigible",
     "alt": "",
     "bee": "three",
@@ -31270,7 +31260,7 @@
     "weight": 1
   },
   {
-    "id": 3128,
+    "id": 3127,
     "word": "surcease",
     "alt": "",
     "bee": "three",
@@ -31280,7 +31270,7 @@
     "weight": 1
   },
   {
-    "id": 3129,
+    "id": 3128,
     "word": "ascetic",
     "alt": "",
     "bee": "three",
@@ -31290,7 +31280,7 @@
     "weight": 1
   },
   {
-    "id": 3130,
+    "id": 3129,
     "word": "oolite",
     "alt": "",
     "bee": "three",
@@ -31300,7 +31290,7 @@
     "weight": 1
   },
   {
-    "id": 3131,
+    "id": 3130,
     "word": "revanche",
     "alt": "",
     "bee": "three",
@@ -31310,7 +31300,7 @@
     "weight": 1
   },
   {
-    "id": 3132,
+    "id": 3131,
     "word": "megrims",
     "alt": "",
     "bee": "three",
@@ -31320,7 +31310,7 @@
     "weight": 1
   },
   {
-    "id": 3133,
+    "id": 3132,
     "word": "podagra",
     "alt": "",
     "bee": "three",
@@ -31330,7 +31320,7 @@
     "weight": 1
   },
   {
-    "id": 3134,
+    "id": 3133,
     "word": "palaver",
     "alt": "",
     "bee": "three",
@@ -31340,7 +31330,7 @@
     "weight": 1
   },
   {
-    "id": 3135,
+    "id": 3134,
     "word": "luthier",
     "alt": "",
     "bee": "three",
@@ -31350,7 +31340,7 @@
     "weight": 1
   },
   {
-    "id": 3136,
+    "id": 3135,
     "word": "yttriferous",
     "alt": "",
     "bee": "three",
@@ -31360,7 +31350,7 @@
     "weight": 1
   },
   {
-    "id": 3137,
+    "id": 3136,
     "word": "vermeil",
     "alt": "",
     "bee": "three",
@@ -31370,7 +31360,7 @@
     "weight": 1
   },
   {
-    "id": 3138,
+    "id": 3137,
     "word": "Ouagadougou",
     "alt": "",
     "bee": "three",
@@ -31380,7 +31370,7 @@
     "weight": 1
   },
   {
-    "id": 3139,
+    "id": 3138,
     "word": "bibliopegist",
     "alt": "",
     "bee": "three",
@@ -31390,7 +31380,7 @@
     "weight": 1
   },
   {
-    "id": 3140,
+    "id": 3139,
     "word": "plagiarism",
     "alt": "",
     "bee": "three",
@@ -31400,7 +31390,7 @@
     "weight": 1
   },
   {
-    "id": 3141,
+    "id": 3140,
     "word": "holobenthic",
     "alt": "",
     "bee": "three",
@@ -31410,7 +31400,7 @@
     "weight": 1
   },
   {
-    "id": 3142,
+    "id": 3141,
     "word": "boutonniere",
     "alt": "",
     "bee": "three",
@@ -31420,7 +31410,7 @@
     "weight": 1
   },
   {
-    "id": 3143,
+    "id": 3142,
     "word": "anodyne",
     "alt": "",
     "bee": "three",
@@ -31430,7 +31420,7 @@
     "weight": 1
   },
   {
-    "id": 3144,
+    "id": 3143,
     "word": "saccharide",
     "alt": "",
     "bee": "three",
@@ -31440,7 +31430,7 @@
     "weight": 1
   },
   {
-    "id": 3145,
+    "id": 3144,
     "word": "boulevardier",
     "alt": "",
     "bee": "three",
@@ -31450,7 +31440,7 @@
     "weight": 1
   },
   {
-    "id": 3146,
+    "id": 3145,
     "word": "quokka",
     "alt": "",
     "bee": "three",
@@ -31460,7 +31450,7 @@
     "weight": 1
   },
   {
-    "id": 3147,
+    "id": 3146,
     "word": "lidocaine",
     "alt": "",
     "bee": "three",
@@ -31470,7 +31460,7 @@
     "weight": 1
   },
   {
-    "id": 3148,
+    "id": 3147,
     "word": "contretemps",
     "alt": "",
     "bee": "three",
@@ -31480,7 +31470,7 @@
     "weight": 1
   },
   {
-    "id": 3149,
+    "id": 3148,
     "word": "a",
     "alt": "",
     "bee": "three",
@@ -31490,7 +31480,7 @@
     "weight": 1
   },
   {
-    "id": 3150,
+    "id": 3149,
     "word": "posteriori",
     "alt": "",
     "bee": "three",
@@ -31500,7 +31490,7 @@
     "weight": 1
   },
   {
-    "id": 3151,
+    "id": 3150,
     "word": "scaberulous",
     "alt": "",
     "bee": "three",
@@ -31510,7 +31500,7 @@
     "weight": 1
   },
   {
-    "id": 3152,
+    "id": 3151,
     "word": "anaglyphy",
     "alt": "",
     "bee": "three",
@@ -31520,7 +31510,7 @@
     "weight": 1
   },
   {
-    "id": 3153,
+    "id": 3152,
     "word": "reconnoiter",
     "alt": "reconnoitre",
     "bee": "three",
@@ -31530,7 +31520,7 @@
     "weight": 1
   },
   {
-    "id": 3154,
+    "id": 3153,
     "word": "realpolitik",
     "alt": "",
     "bee": "three",
@@ -31540,7 +31530,7 @@
     "weight": 1
   },
   {
-    "id": 3155,
+    "id": 3154,
     "word": "colloque",
     "alt": "",
     "bee": "three",
@@ -31550,7 +31540,7 @@
     "weight": 1
   },
   {
-    "id": 3156,
+    "id": 3155,
     "word": "onychorrhexis",
     "alt": "",
     "bee": "three",
@@ -31560,7 +31550,7 @@
     "weight": 1
   },
   {
-    "id": 3157,
+    "id": 3156,
     "word": "paraffin",
     "alt": "",
     "bee": "three",
@@ -31570,7 +31560,7 @@
     "weight": 1
   },
   {
-    "id": 3158,
+    "id": 3157,
     "word": "vigneron",
     "alt": "",
     "bee": "three",
@@ -31580,7 +31570,7 @@
     "weight": 1
   },
   {
-    "id": 3159,
+    "id": 3158,
     "word": "tannined",
     "alt": "",
     "bee": "three",
@@ -31590,7 +31580,7 @@
     "weight": 1
   },
   {
-    "id": 3160,
+    "id": 3159,
     "word": "spiedini",
     "alt": "",
     "bee": "three",
@@ -31600,7 +31590,7 @@
     "weight": 1
   },
   {
-    "id": 3161,
+    "id": 3160,
     "word": "anhinga",
     "alt": "",
     "bee": "three",
@@ -31610,7 +31600,7 @@
     "weight": 1
   },
   {
-    "id": 3162,
+    "id": 3161,
     "word": "jai",
     "alt": "",
     "bee": "three",
@@ -31620,7 +31610,7 @@
     "weight": 1
   },
   {
-    "id": 3163,
+    "id": 3162,
     "word": "alai",
     "alt": "",
     "bee": "three",
@@ -31630,7 +31620,7 @@
     "weight": 1
   },
   {
-    "id": 3164,
+    "id": 3163,
     "word": "Rastafarian",
     "alt": "",
     "bee": "three",
@@ -31640,7 +31630,7 @@
     "weight": 1
   },
   {
-    "id": 3165,
+    "id": 3164,
     "word": "succussion",
     "alt": "",
     "bee": "three",
@@ -31650,7 +31640,7 @@
     "weight": 1
   },
   {
-    "id": 3166,
+    "id": 3165,
     "word": "avifauna",
     "alt": "",
     "bee": "three",
@@ -31660,7 +31650,7 @@
     "weight": 1
   },
   {
-    "id": 3167,
+    "id": 3166,
     "word": "joropo",
     "alt": "",
     "bee": "three",
@@ -31670,7 +31660,7 @@
     "weight": 1
   },
   {
-    "id": 3168,
+    "id": 3167,
     "word": "toxicosis",
     "alt": "",
     "bee": "three",
@@ -31680,7 +31670,7 @@
     "weight": 1
   },
   {
-    "id": 3169,
+    "id": 3168,
     "word": "colporteur",
     "alt": "colporter",
     "bee": "three",
@@ -31690,7 +31680,7 @@
     "weight": 1
   },
   {
-    "id": 3170,
+    "id": 3169,
     "word": "agitprop",
     "alt": "",
     "bee": "three",
@@ -31700,7 +31690,7 @@
     "weight": 1
   },
   {
-    "id": 3171,
+    "id": 3170,
     "word": "Achernar",
     "alt": "",
     "bee": "three",
@@ -31710,7 +31700,7 @@
     "weight": 1
   },
   {
-    "id": 3172,
+    "id": 3171,
     "word": "cassock",
     "alt": "",
     "bee": "three",
@@ -31720,7 +31710,7 @@
     "weight": 1
   },
   {
-    "id": 3173,
+    "id": 3172,
     "word": "meringue",
     "alt": "",
     "bee": "three",
@@ -31730,7 +31720,7 @@
     "weight": 1
   },
   {
-    "id": 3174,
+    "id": 3173,
     "word": "mackinaw",
     "alt": "",
     "bee": "three",
@@ -31740,7 +31730,7 @@
     "weight": 1
   },
   {
-    "id": 3175,
+    "id": 3174,
     "word": "sambal",
     "alt": "",
     "bee": "three",
@@ -31750,7 +31740,7 @@
     "weight": 1
   },
   {
-    "id": 3176,
+    "id": 3175,
     "word": "yuloh",
     "alt": "",
     "bee": "three",
@@ -31760,7 +31750,7 @@
     "weight": 1
   },
   {
-    "id": 3177,
+    "id": 3176,
     "word": "hermeneutics",
     "alt": "",
     "bee": "three",
@@ -31770,7 +31760,7 @@
     "weight": 1
   },
   {
-    "id": 3178,
+    "id": 3177,
     "word": "tikkun",
     "alt": "",
     "bee": "three",
@@ -31780,7 +31770,7 @@
     "weight": 1
   },
   {
-    "id": 3179,
+    "id": 3178,
     "word": "macaque",
     "alt": "",
     "bee": "three",
@@ -31790,7 +31780,7 @@
     "weight": 1
   },
   {
-    "id": 3180,
+    "id": 3179,
     "word": "lassitude",
     "alt": "",
     "bee": "three",
@@ -31800,7 +31790,7 @@
     "weight": 1
   },
   {
-    "id": 3181,
+    "id": 3180,
     "word": "oeuvre",
     "alt": "",
     "bee": "three",
@@ -31810,7 +31800,7 @@
     "weight": 1
   },
   {
-    "id": 3182,
+    "id": 3181,
     "word": "altazimuth",
     "alt": "",
     "bee": "three",
@@ -31820,7 +31810,7 @@
     "weight": 1
   },
   {
-    "id": 3183,
+    "id": 3182,
     "word": "Castilian",
     "alt": "",
     "bee": "three",
@@ -31830,7 +31820,7 @@
     "weight": 1
   },
   {
-    "id": 3184,
+    "id": 3183,
     "word": "trichinosis",
     "alt": "",
     "bee": "three",
@@ -31840,7 +31830,7 @@
     "weight": 1
   },
   {
-    "id": 3185,
+    "id": 3184,
     "word": "ecclesiology",
     "alt": "",
     "bee": "three",
@@ -31850,7 +31840,7 @@
     "weight": 1
   },
   {
-    "id": 3186,
+    "id": 3185,
     "word": "teppanyaki",
     "alt": "",
     "bee": "three",
@@ -31860,7 +31850,7 @@
     "weight": 1
   },
   {
-    "id": 3187,
+    "id": 3186,
     "word": "cicatrize",
     "alt": "",
     "bee": "three",
@@ -31870,7 +31860,7 @@
     "weight": 1
   },
   {
-    "id": 3188,
+    "id": 3187,
     "word": "somnolent",
     "alt": "",
     "bee": "three",
@@ -31880,7 +31870,7 @@
     "weight": 1
   },
   {
-    "id": 3189,
+    "id": 3188,
     "word": "intonaco",
     "alt": "",
     "bee": "three",
@@ -31890,7 +31880,7 @@
     "weight": 1
   },
   {
-    "id": 3190,
+    "id": 3189,
     "word": "realia",
     "alt": "",
     "bee": "three",
@@ -31900,7 +31890,7 @@
     "weight": 1
   },
   {
-    "id": 3191,
+    "id": 3190,
     "word": "grison",
     "alt": "",
     "bee": "three",
@@ -31910,7 +31900,7 @@
     "weight": 1
   },
   {
-    "id": 3192,
+    "id": 3191,
     "word": "phulkari",
     "alt": "",
     "bee": "three",
@@ -31920,7 +31910,7 @@
     "weight": 1
   },
   {
-    "id": 3193,
+    "id": 3192,
     "word": "garrulous",
     "alt": "",
     "bee": "three",
@@ -31930,7 +31920,7 @@
     "weight": 1
   },
   {
-    "id": 3194,
+    "id": 3193,
     "word": "paroxysm",
     "alt": "",
     "bee": "three",
@@ -31940,7 +31930,7 @@
     "weight": 1
   },
   {
-    "id": 3195,
+    "id": 3194,
     "word": "communiqué",
     "alt": "",
     "bee": "three",
@@ -31950,7 +31940,7 @@
     "weight": 1
   },
   {
-    "id": 3196,
+    "id": 3195,
     "word": "Chantilly",
     "alt": "",
     "bee": "three",
@@ -31960,7 +31950,7 @@
     "weight": 1
   },
   {
-    "id": 3197,
+    "id": 3196,
     "word": "jacquard",
     "alt": "",
     "bee": "three",
@@ -31970,7 +31960,7 @@
     "weight": 1
   },
   {
-    "id": 3198,
+    "id": 3197,
     "word": "sorghum",
     "alt": "",
     "bee": "three",
@@ -31980,7 +31970,7 @@
     "weight": 1
   },
   {
-    "id": 3199,
+    "id": 3198,
     "word": "guilloche",
     "alt": "",
     "bee": "three",
@@ -31990,7 +31980,7 @@
     "weight": 1
   },
   {
-    "id": 3200,
+    "id": 3199,
     "word": "appositive",
     "alt": "",
     "bee": "three",
@@ -32000,7 +31990,7 @@
     "weight": 1
   },
   {
-    "id": 3201,
+    "id": 3200,
     "word": "dirndl",
     "alt": "",
     "bee": "three",
@@ -32010,7 +32000,7 @@
     "weight": 1
   },
   {
-    "id": 3202,
+    "id": 3201,
     "word": "latke",
     "alt": "",
     "bee": "three",
@@ -32020,7 +32010,7 @@
     "weight": 1
   },
   {
-    "id": 3203,
+    "id": 3202,
     "word": "martinet",
     "alt": "",
     "bee": "three",
@@ -32030,7 +32020,7 @@
     "weight": 1
   },
   {
-    "id": 3204,
+    "id": 3203,
     "word": "asterion",
     "alt": "",
     "bee": "three",
@@ -32040,7 +32030,7 @@
     "weight": 1
   },
   {
-    "id": 3205,
+    "id": 3204,
     "word": "hypallage",
     "alt": "",
     "bee": "three",
@@ -32050,7 +32040,7 @@
     "weight": 1
   },
   {
-    "id": 3206,
+    "id": 3205,
     "word": "solenoid",
     "alt": "",
     "bee": "three",
@@ -32060,7 +32050,7 @@
     "weight": 1
   },
   {
-    "id": 3207,
+    "id": 3206,
     "word": "veridical",
     "alt": "",
     "bee": "three",
@@ -32070,7 +32060,7 @@
     "weight": 1
   },
   {
-    "id": 3208,
+    "id": 3207,
     "word": "threnody",
     "alt": "",
     "bee": "three",
@@ -32080,7 +32070,7 @@
     "weight": 1
   },
   {
-    "id": 3209,
+    "id": 3208,
     "word": "Jacobean",
     "alt": "",
     "bee": "three",
@@ -32090,7 +32080,7 @@
     "weight": 1
   },
   {
-    "id": 3210,
+    "id": 3209,
     "word": "ballotage",
     "alt": "",
     "bee": "three",
@@ -32100,7 +32090,7 @@
     "weight": 1
   },
   {
-    "id": 3211,
+    "id": 3210,
     "word": "ocotillo",
     "alt": "",
     "bee": "three",
@@ -32110,7 +32100,7 @@
     "weight": 1
   },
   {
-    "id": 3212,
+    "id": 3211,
     "word": "dubitante",
     "alt": "",
     "bee": "three",
@@ -32120,7 +32110,7 @@
     "weight": 1
   },
   {
-    "id": 3213,
+    "id": 3212,
     "word": "disciform",
     "alt": "",
     "bee": "three",
@@ -32130,7 +32120,7 @@
     "weight": 1
   },
   {
-    "id": 3214,
+    "id": 3213,
     "word": "mizuna",
     "alt": "",
     "bee": "three",
@@ -32140,7 +32130,7 @@
     "weight": 1
   },
   {
-    "id": 3215,
+    "id": 3214,
     "word": "trichotillomania",
     "alt": "",
     "bee": "three",
@@ -32150,7 +32140,7 @@
     "weight": 1
   },
   {
-    "id": 3216,
+    "id": 3215,
     "word": "huipil",
     "alt": "",
     "bee": "three",
@@ -32160,7 +32150,7 @@
     "weight": 1
   },
   {
-    "id": 3217,
+    "id": 3216,
     "word": "mustelid",
     "alt": "",
     "bee": "three",
@@ -32170,7 +32160,7 @@
     "weight": 1
   },
   {
-    "id": 3218,
+    "id": 3217,
     "word": "prestidigitation",
     "alt": "",
     "bee": "three",
@@ -32180,7 +32170,7 @@
     "weight": 1
   },
   {
-    "id": 3219,
+    "id": 3218,
     "word": "soupçon",
     "alt": "",
     "bee": "three",
@@ -32190,7 +32180,7 @@
     "weight": 1
   },
   {
-    "id": 3220,
+    "id": 3219,
     "word": "diphtheria",
     "alt": "",
     "bee": "three",
@@ -32200,7 +32190,7 @@
     "weight": 1
   },
   {
-    "id": 3221,
+    "id": 3220,
     "word": "bdelloid",
     "alt": "",
     "bee": "three",
@@ -32210,7 +32200,7 @@
     "weight": 1
   },
   {
-    "id": 3222,
+    "id": 3221,
     "word": "nugatory",
     "alt": "",
     "bee": "three",
@@ -32220,7 +32210,7 @@
     "weight": 1
   },
   {
-    "id": 3223,
+    "id": 3222,
     "word": "commorients",
     "alt": "",
     "bee": "three",
@@ -32230,7 +32220,7 @@
     "weight": 1
   },
   {
-    "id": 3224,
+    "id": 3223,
     "word": "immiscible",
     "alt": "",
     "bee": "three",
@@ -32240,7 +32230,7 @@
     "weight": 1
   },
   {
-    "id": 3225,
+    "id": 3224,
     "word": "toroidal",
     "alt": "",
     "bee": "three",
@@ -32250,7 +32240,7 @@
     "weight": 1
   },
   {
-    "id": 3226,
+    "id": 3225,
     "word": "bialy",
     "alt": "",
     "bee": "three",
@@ -32260,7 +32250,7 @@
     "weight": 1
   },
   {
-    "id": 3227,
+    "id": 3226,
     "word": "appurtenances",
     "alt": "",
     "bee": "three",
@@ -32270,7 +32260,7 @@
     "weight": 1
   },
   {
-    "id": 3228,
+    "id": 3227,
     "word": "corsair",
     "alt": "",
     "bee": "three",
@@ -32280,7 +32270,7 @@
     "weight": 1
   },
   {
-    "id": 3229,
+    "id": 3228,
     "word": "zabaglione",
     "alt": "",
     "bee": "three",
@@ -32290,7 +32280,7 @@
     "weight": 1
   },
   {
-    "id": 3230,
+    "id": 3229,
     "word": "velamen",
     "alt": "",
     "bee": "three",
@@ -32300,7 +32290,7 @@
     "weight": 1
   },
   {
-    "id": 3231,
+    "id": 3230,
     "word": "sporran",
     "alt": "",
     "bee": "three",
@@ -32310,7 +32300,7 @@
     "weight": 1
   },
   {
-    "id": 3232,
+    "id": 3231,
     "word": "clematis",
     "alt": "",
     "bee": "three",
@@ -32320,7 +32310,7 @@
     "weight": 1
   },
   {
-    "id": 3233,
+    "id": 3232,
     "word": "kente",
     "alt": "",
     "bee": "three",
@@ -32330,7 +32320,7 @@
     "weight": 1
   },
   {
-    "id": 3234,
+    "id": 3233,
     "word": "ranine",
     "alt": "",
     "bee": "three",
@@ -32340,7 +32330,7 @@
     "weight": 1
   },
   {
-    "id": 3235,
+    "id": 3234,
     "word": "riparian",
     "alt": "",
     "bee": "three",
@@ -32350,7 +32340,7 @@
     "weight": 1
   },
   {
-    "id": 3236,
+    "id": 3235,
     "word": "accoutrement",
     "alt": "accouterment",
     "bee": "three",
@@ -32360,7 +32350,7 @@
     "weight": 1
   },
   {
-    "id": 3237,
+    "id": 3236,
     "word": "radicchio",
     "alt": "",
     "bee": "three",
@@ -32370,7 +32360,7 @@
     "weight": 1
   },
   {
-    "id": 3238,
+    "id": 3237,
     "word": "dudgeon",
     "alt": "",
     "bee": "three",
@@ -32380,7 +32370,7 @@
     "weight": 1
   },
   {
-    "id": 3239,
+    "id": 3238,
     "word": "nitid",
     "alt": "",
     "bee": "three",
@@ -32390,7 +32380,7 @@
     "weight": 1
   },
   {
-    "id": 3240,
+    "id": 3239,
     "word": "Basenji",
     "alt": "",
     "bee": "three",
@@ -32400,7 +32390,7 @@
     "weight": 1
   },
   {
-    "id": 3241,
+    "id": 3240,
     "word": "concinnate",
     "alt": "",
     "bee": "three",
@@ -32410,7 +32400,7 @@
     "weight": 1
   },
   {
-    "id": 3242,
+    "id": 3241,
     "word": "Stradivarius",
     "alt": "",
     "bee": "three",
@@ -32420,7 +32410,7 @@
     "weight": 1
   },
   {
-    "id": 3243,
+    "id": 3242,
     "word": "synecdoche",
     "alt": "",
     "bee": "three",
@@ -32430,7 +32420,7 @@
     "weight": 1
   },
   {
-    "id": 3244,
+    "id": 3243,
     "word": "tulsi",
     "alt": "",
     "bee": "three",
@@ -32440,7 +32430,7 @@
     "weight": 1
   },
   {
-    "id": 3245,
+    "id": 3244,
     "word": "sebaceous",
     "alt": "",
     "bee": "three",
@@ -32450,7 +32440,7 @@
     "weight": 1
   },
   {
-    "id": 3246,
+    "id": 3245,
     "word": "papeterie",
     "alt": "",
     "bee": "three",
@@ -32460,7 +32450,7 @@
     "weight": 1
   },
   {
-    "id": 3247,
+    "id": 3246,
     "word": "litigious",
     "alt": "",
     "bee": "three",
@@ -32470,7 +32460,7 @@
     "weight": 1
   },
   {
-    "id": 3248,
+    "id": 3247,
     "word": "phytophilous",
     "alt": "",
     "bee": "three",
@@ -32480,7 +32470,7 @@
     "weight": 1
   },
   {
-    "id": 3249,
+    "id": 3248,
     "word": "meunière",
     "alt": "",
     "bee": "three",
@@ -32490,7 +32480,7 @@
     "weight": 1
   },
   {
-    "id": 3250,
+    "id": 3249,
     "word": "hilum",
     "alt": "",
     "bee": "three",
@@ -32500,7 +32490,7 @@
     "weight": 1
   },
   {
-    "id": 3251,
+    "id": 3250,
     "word": "fanfaronade",
     "alt": "",
     "bee": "three",
@@ -32510,7 +32500,7 @@
     "weight": 1
   },
   {
-    "id": 3252,
+    "id": 3251,
     "word": "malachite",
     "alt": "",
     "bee": "three",
@@ -32520,7 +32510,7 @@
     "weight": 1
   },
   {
-    "id": 3253,
+    "id": 3252,
     "word": "urticaria",
     "alt": "",
     "bee": "three",
@@ -32530,7 +32520,7 @@
     "weight": 1
   },
   {
-    "id": 3254,
+    "id": 3253,
     "word": "capsaicin",
     "alt": "",
     "bee": "three",
@@ -32540,7 +32530,7 @@
     "weight": 1
   },
   {
-    "id": 3255,
+    "id": 3254,
     "word": "ptosis",
     "alt": "",
     "bee": "three",
@@ -32550,7 +32540,7 @@
     "weight": 1
   },
   {
-    "id": 3256,
+    "id": 3255,
     "word": "pejerrey",
     "alt": "",
     "bee": "three",
@@ -32560,7 +32550,7 @@
     "weight": 1
   },
   {
-    "id": 3257,
+    "id": 3256,
     "word": "horologist",
     "alt": "",
     "bee": "three",
@@ -32570,7 +32560,7 @@
     "weight": 1
   },
   {
-    "id": 3258,
+    "id": 3257,
     "word": "speleothem",
     "alt": "",
     "bee": "three",
@@ -32580,7 +32570,7 @@
     "weight": 1
   },
   {
-    "id": 3259,
+    "id": 3258,
     "word": "euripus",
     "alt": "",
     "bee": "three",
@@ -32590,7 +32580,7 @@
     "weight": 1
   },
   {
-    "id": 3260,
+    "id": 3259,
     "word": "samarium",
     "alt": "",
     "bee": "three",
@@ -32600,7 +32590,7 @@
     "weight": 1
   },
   {
-    "id": 3261,
+    "id": 3260,
     "word": "variscite",
     "alt": "",
     "bee": "three",
@@ -32610,7 +32600,7 @@
     "weight": 1
   },
   {
-    "id": 3262,
+    "id": 3261,
     "word": "bolide",
     "alt": "",
     "bee": "three",
@@ -32620,7 +32610,7 @@
     "weight": 1
   },
   {
-    "id": 3263,
+    "id": 3262,
     "word": "vervain",
     "alt": "",
     "bee": "three",
@@ -32630,7 +32620,7 @@
     "weight": 1
   },
   {
-    "id": 3264,
+    "id": 3263,
     "word": "chanoyu",
     "alt": "",
     "bee": "three",
@@ -32640,7 +32630,7 @@
     "weight": 1
   },
   {
-    "id": 3265,
+    "id": 3264,
     "word": "hamadryad",
     "alt": "",
     "bee": "three",
@@ -32650,7 +32640,7 @@
     "weight": 1
   },
   {
-    "id": 3266,
+    "id": 3265,
     "word": "calumny",
     "alt": "",
     "bee": "three",
@@ -32660,7 +32650,7 @@
     "weight": 1
   },
   {
-    "id": 3267,
+    "id": 3266,
     "word": "escabeche",
     "alt": "",
     "bee": "three",
@@ -32670,7 +32660,7 @@
     "weight": 1
   },
   {
-    "id": 3268,
+    "id": 3267,
     "word": "ad",
     "alt": "",
     "bee": "three",
@@ -32680,7 +32670,7 @@
     "weight": 1
   },
   {
-    "id": 3269,
+    "id": 3268,
     "word": "hominem",
     "alt": "",
     "bee": "three",
@@ -32690,7 +32680,7 @@
     "weight": 1
   },
   {
-    "id": 3270,
+    "id": 3269,
     "word": "oubliette",
     "alt": "",
     "bee": "three",
@@ -32700,7 +32690,7 @@
     "weight": 1
   },
   {
-    "id": 3271,
+    "id": 3270,
     "word": "béchamel",
     "alt": "",
     "bee": "three",
@@ -32710,7 +32700,7 @@
     "weight": 1
   },
   {
-    "id": 3272,
+    "id": 3271,
     "word": "repoussage",
     "alt": "",
     "bee": "three",
@@ -32720,7 +32710,7 @@
     "weight": 1
   },
   {
-    "id": 3273,
+    "id": 3272,
     "word": "otacoustic",
     "alt": "",
     "bee": "three",
@@ -32730,7 +32720,7 @@
     "weight": 1
   },
   {
-    "id": 3274,
+    "id": 3273,
     "word": "naranjilla",
     "alt": "",
     "bee": "three",
@@ -32740,7 +32730,7 @@
     "weight": 1
   },
   {
-    "id": 3275,
+    "id": 3274,
     "word": "elegiac",
     "alt": "",
     "bee": "three",
@@ -32750,7 +32740,7 @@
     "weight": 1
   },
   {
-    "id": 3276,
+    "id": 3275,
     "word": "pâtissier",
     "alt": "patissier",
     "bee": "three",
@@ -32760,7 +32750,7 @@
     "weight": 1
   },
   {
-    "id": 3277,
+    "id": 3276,
     "word": "Yeatsian",
     "alt": "",
     "bee": "three",
@@ -32770,7 +32760,7 @@
     "weight": 1
   },
   {
-    "id": 3278,
+    "id": 3277,
     "word": "surfeit",
     "alt": "",
     "bee": "three",
@@ -32780,7 +32770,7 @@
     "weight": 1
   },
   {
-    "id": 3279,
+    "id": 3278,
     "word": "limicolous",
     "alt": "",
     "bee": "three",
@@ -32790,7 +32780,7 @@
     "weight": 1
   },
   {
-    "id": 3280,
+    "id": 3279,
     "word": "girandole",
     "alt": "",
     "bee": "three",
@@ -32800,7 +32790,7 @@
     "weight": 1
   },
   {
-    "id": 3281,
+    "id": 3280,
     "word": "googol",
     "alt": "",
     "bee": "three",
@@ -32810,7 +32800,7 @@
     "weight": 1
   },
   {
-    "id": 3282,
+    "id": 3281,
     "word": "étagère",
     "alt": "",
     "bee": "three",
@@ -32820,7 +32810,7 @@
     "weight": 1
   },
   {
-    "id": 3283,
+    "id": 3282,
     "word": "anechoic",
     "alt": "",
     "bee": "three",
@@ -32830,7 +32820,7 @@
     "weight": 1
   },
   {
-    "id": 3284,
+    "id": 3283,
     "word": "leonine",
     "alt": "",
     "bee": "three",
@@ -32840,7 +32830,7 @@
     "weight": 1
   },
   {
-    "id": 3285,
+    "id": 3284,
     "word": "laulau",
     "alt": "",
     "bee": "three",
@@ -32850,7 +32840,7 @@
     "weight": 1
   },
   {
-    "id": 3286,
+    "id": 3285,
     "word": "Gruyère",
     "alt": "",
     "bee": "three",
@@ -32860,7 +32850,7 @@
     "weight": 1
   },
   {
-    "id": 3287,
+    "id": 3286,
     "word": "proprioceptive",
     "alt": "",
     "bee": "three",
@@ -32870,7 +32860,7 @@
     "weight": 1
   },
   {
-    "id": 3288,
+    "id": 3287,
     "word": "oppugn",
     "alt": "",
     "bee": "three",
@@ -32880,7 +32870,7 @@
     "weight": 1
   },
   {
-    "id": 3289,
+    "id": 3288,
     "word": "macropterous",
     "alt": "",
     "bee": "three",
@@ -32890,7 +32880,7 @@
     "weight": 1
   },
   {
-    "id": 3290,
+    "id": 3289,
     "word": "euphonious",
     "alt": "",
     "bee": "three",
@@ -32900,7 +32890,7 @@
     "weight": 1
   },
   {
-    "id": 3291,
+    "id": 3290,
     "word": "retinoscopy",
     "alt": "",
     "bee": "three",
@@ -32910,7 +32900,7 @@
     "weight": 1
   },
   {
-    "id": 3292,
+    "id": 3291,
     "word": "sepulchral",
     "alt": "",
     "bee": "three",
@@ -32920,7 +32910,7 @@
     "weight": 1
   },
   {
-    "id": 3293,
+    "id": 3292,
     "word": "sangfroid",
     "alt": "",
     "bee": "three",
@@ -32930,7 +32920,7 @@
     "weight": 1
   },
   {
-    "id": 3294,
+    "id": 3293,
     "word": "pasilla",
     "alt": "",
     "bee": "three",
@@ -32940,7 +32930,7 @@
     "weight": 1
   },
   {
-    "id": 3295,
+    "id": 3294,
     "word": "maringouin",
     "alt": "",
     "bee": "three",
@@ -32950,7 +32940,7 @@
     "weight": 1
   },
   {
-    "id": 3296,
+    "id": 3295,
     "word": "argot",
     "alt": "",
     "bee": "three",
@@ -32960,7 +32950,7 @@
     "weight": 1
   },
   {
-    "id": 3297,
+    "id": 3296,
     "word": "vicenary",
     "alt": "",
     "bee": "three",
@@ -32970,7 +32960,7 @@
     "weight": 1
   },
   {
-    "id": 3298,
+    "id": 3297,
     "word": "ajimez",
     "alt": "",
     "bee": "three",
@@ -32980,7 +32970,7 @@
     "weight": 1
   },
   {
-    "id": 3299,
+    "id": 3298,
     "word": "pompeii",
     "alt": "",
     "bee": "three",
@@ -32990,7 +32980,7 @@
     "weight": 1
   },
   {
-    "id": 3300,
+    "id": 3299,
     "word": "oviparous",
     "alt": "",
     "bee": "three",
@@ -33000,7 +32990,7 @@
     "weight": 1
   },
   {
-    "id": 3301,
+    "id": 3300,
     "word": "mangonel",
     "alt": "",
     "bee": "three",
@@ -33010,7 +33000,7 @@
     "weight": 1
   },
   {
-    "id": 3302,
+    "id": 3301,
     "word": "coalescence",
     "alt": "",
     "bee": "three",
@@ -33020,7 +33010,7 @@
     "weight": 1
   },
   {
-    "id": 3303,
+    "id": 3302,
     "word": "Plantagenet",
     "alt": "",
     "bee": "three",
@@ -33030,7 +33020,7 @@
     "weight": 1
   },
   {
-    "id": 3304,
+    "id": 3303,
     "word": "bauxite",
     "alt": "",
     "bee": "three",
@@ -33040,7 +33030,7 @@
     "weight": 1
   },
   {
-    "id": 3305,
+    "id": 3304,
     "word": "kakapo",
     "alt": "",
     "bee": "three",
@@ -33050,7 +33040,7 @@
     "weight": 1
   },
   {
-    "id": 3306,
+    "id": 3305,
     "word": "pelagial",
     "alt": "",
     "bee": "three",
@@ -33060,7 +33050,7 @@
     "weight": 1
   },
   {
-    "id": 3307,
+    "id": 3306,
     "word": "ague",
     "alt": "",
     "bee": "three",
@@ -33070,7 +33060,7 @@
     "weight": 1
   },
   {
-    "id": 3308,
+    "id": 3307,
     "word": "largesses",
     "alt": "",
     "bee": "three",
@@ -33080,7 +33070,7 @@
     "weight": 1
   },
   {
-    "id": 3309,
+    "id": 3308,
     "word": "fulgent",
     "alt": "",
     "bee": "three",
@@ -33090,7 +33080,7 @@
     "weight": 1
   },
   {
-    "id": 3310,
+    "id": 3309,
     "word": "olecranon",
     "alt": "",
     "bee": "three",
@@ -33100,7 +33090,7 @@
     "weight": 1
   },
   {
-    "id": 3311,
+    "id": 3310,
     "word": "toreutics",
     "alt": "",
     "bee": "three",
@@ -33110,7 +33100,7 @@
     "weight": 1
   },
   {
-    "id": 3312,
+    "id": 3311,
     "word": "mascarpone",
     "alt": "",
     "bee": "three",
@@ -33120,7 +33110,7 @@
     "weight": 1
   },
   {
-    "id": 3313,
+    "id": 3312,
     "word": "rissole",
     "alt": "",
     "bee": "three",
@@ -33130,7 +33120,7 @@
     "weight": 1
   },
   {
-    "id": 3314,
+    "id": 3313,
     "word": "seneschal",
     "alt": "",
     "bee": "three",
@@ -33140,7 +33130,7 @@
     "weight": 1
   },
   {
-    "id": 3315,
+    "id": 3314,
     "word": "pinniped",
     "alt": "",
     "bee": "three",
@@ -33150,7 +33140,7 @@
     "weight": 1
   },
   {
-    "id": 3316,
+    "id": 3315,
     "word": "wahine",
     "alt": "",
     "bee": "three",
@@ -33160,7 +33150,7 @@
     "weight": 1
   },
   {
-    "id": 3317,
+    "id": 3316,
     "word": "grissino",
     "alt": "",
     "bee": "three",
@@ -33170,7 +33160,7 @@
     "weight": 1
   },
   {
-    "id": 3318,
+    "id": 3317,
     "word": "coterie",
     "alt": "",
     "bee": "three",
@@ -33180,7 +33170,7 @@
     "weight": 1
   },
   {
-    "id": 3319,
+    "id": 3318,
     "word": "sylph",
     "alt": "",
     "bee": "three",
@@ -33190,7 +33180,7 @@
     "weight": 1
   },
   {
-    "id": 3320,
+    "id": 3319,
     "word": "katsura",
     "alt": "",
     "bee": "three",
@@ -33200,7 +33190,7 @@
     "weight": 1
   },
   {
-    "id": 3321,
+    "id": 3320,
     "word": "diastole",
     "alt": "",
     "bee": "three",
@@ -33210,7 +33200,7 @@
     "weight": 1
   },
   {
-    "id": 3322,
+    "id": 3321,
     "word": "mediobrome",
     "alt": "",
     "bee": "three",
@@ -33220,7 +33210,7 @@
     "weight": 1
   },
   {
-    "id": 3323,
+    "id": 3322,
     "word": "demurrage",
     "alt": "",
     "bee": "three",
@@ -33230,7 +33220,7 @@
     "weight": 1
   },
   {
-    "id": 3324,
+    "id": 3323,
     "word": "tristeza",
     "alt": "",
     "bee": "three",
@@ -33240,7 +33230,7 @@
     "weight": 1
   },
   {
-    "id": 3325,
+    "id": 3324,
     "word": "trigeminal",
     "alt": "",
     "bee": "three",
@@ -33250,7 +33240,7 @@
     "weight": 1
   },
   {
-    "id": 3326,
+    "id": 3325,
     "word": "bruja",
     "alt": "",
     "bee": "three",
@@ -33260,7 +33250,7 @@
     "weight": 1
   },
   {
-    "id": 3327,
+    "id": 3326,
     "word": "upsilon",
     "alt": "",
     "bee": "three",
@@ -33270,7 +33260,7 @@
     "weight": 1
   },
   {
-    "id": 3328,
+    "id": 3327,
     "word": "sakura",
     "alt": "",
     "bee": "three",
@@ -33280,7 +33270,7 @@
     "weight": 1
   },
   {
-    "id": 3329,
+    "id": 3328,
     "word": "buccal",
     "alt": "",
     "bee": "three",
@@ -33290,7 +33280,7 @@
     "weight": 1
   },
   {
-    "id": 3330,
+    "id": 3329,
     "word": "zocalo",
     "alt": "",
     "bee": "three",
@@ -33300,7 +33290,7 @@
     "weight": 1
   },
   {
-    "id": 3331,
+    "id": 3330,
     "word": "aficionado",
     "alt": "afficionado",
     "bee": "three",
@@ -33310,7 +33300,7 @@
     "weight": 1
   },
   {
-    "id": 3332,
+    "id": 3331,
     "word": "piscivorous",
     "alt": "",
     "bee": "three",
@@ -33320,7 +33310,7 @@
     "weight": 1
   },
   {
-    "id": 3333,
+    "id": 3332,
     "word": "benison",
     "alt": "",
     "bee": "three",
@@ -33330,7 +33320,7 @@
     "weight": 1
   },
   {
-    "id": 3334,
+    "id": 3333,
     "word": "gagaku",
     "alt": "",
     "bee": "three",
@@ -33340,7 +33330,7 @@
     "weight": 1
   },
   {
-    "id": 3335,
+    "id": 3334,
     "word": "amygdala",
     "alt": "",
     "bee": "three",
@@ -33350,7 +33340,7 @@
     "weight": 1
   },
   {
-    "id": 3336,
+    "id": 3335,
     "word": "scurrilous",
     "alt": "",
     "bee": "three",
@@ -33360,7 +33350,7 @@
     "weight": 1
   },
   {
-    "id": 3337,
+    "id": 3336,
     "word": "flèche",
     "alt": "",
     "bee": "three",
@@ -33370,7 +33360,7 @@
     "weight": 1
   },
   {
-    "id": 3338,
+    "id": 3337,
     "word": "tetrachoric",
     "alt": "",
     "bee": "three",
@@ -33380,7 +33370,7 @@
     "weight": 1
   },
   {
-    "id": 3339,
+    "id": 3338,
     "word": "sforzando",
     "alt": "",
     "bee": "three",
@@ -33390,7 +33380,7 @@
     "weight": 1
   },
   {
-    "id": 3340,
+    "id": 3339,
     "word": "thalassic",
     "alt": "",
     "bee": "three",
@@ -33400,7 +33390,7 @@
     "weight": 1
   },
   {
-    "id": 3341,
+    "id": 3340,
     "word": "frazil",
     "alt": "",
     "bee": "three",
@@ -33410,7 +33400,7 @@
     "weight": 1
   },
   {
-    "id": 3342,
+    "id": 3341,
     "word": "rapprochement",
     "alt": "",
     "bee": "three",
@@ -33420,7 +33410,7 @@
     "weight": 1
   },
   {
-    "id": 3343,
+    "id": 3342,
     "word": "glacis",
     "alt": "",
     "bee": "three",
@@ -33430,7 +33420,7 @@
     "weight": 1
   },
   {
-    "id": 3344,
+    "id": 3343,
     "word": "ahimsa",
     "alt": "",
     "bee": "three",
@@ -33440,7 +33430,7 @@
     "weight": 1
   },
   {
-    "id": 3345,
+    "id": 3344,
     "word": "kanji",
     "alt": "",
     "bee": "three",
@@ -33450,7 +33440,7 @@
     "weight": 1
   },
   {
-    "id": 3346,
+    "id": 3345,
     "word": "weltschmerz",
     "alt": "",
     "bee": "three",
@@ -33460,7 +33450,7 @@
     "weight": 1
   },
   {
-    "id": 3347,
+    "id": 3346,
     "word": "jalousie",
     "alt": "",
     "bee": "three",
@@ -33470,7 +33460,7 @@
     "weight": 1
   },
   {
-    "id": 3348,
+    "id": 3347,
     "word": "ichthyology",
     "alt": "",
     "bee": "three",
@@ -33480,7 +33470,7 @@
     "weight": 1
   },
   {
-    "id": 3349,
+    "id": 3348,
     "word": "pruritus",
     "alt": "",
     "bee": "three",
@@ -33490,7 +33480,7 @@
     "weight": 1
   },
   {
-    "id": 3350,
+    "id": 3349,
     "word": "dactylic",
     "alt": "",
     "bee": "three",
@@ -33500,7 +33490,7 @@
     "weight": 1
   },
   {
-    "id": 3351,
+    "id": 3350,
     "word": "affogato",
     "alt": "",
     "bee": "three",
@@ -33510,7 +33500,7 @@
     "weight": 1
   },
   {
-    "id": 3352,
+    "id": 3351,
     "word": "scrivener",
     "alt": "",
     "bee": "three",
@@ -33520,7 +33510,7 @@
     "weight": 1
   },
   {
-    "id": 3353,
+    "id": 3352,
     "word": "dysrhythmia",
     "alt": "",
     "bee": "three",
@@ -33530,7 +33520,7 @@
     "weight": 1
   },
   {
-    "id": 3354,
+    "id": 3353,
     "word": "dragée",
     "alt": "",
     "bee": "three",
@@ -33540,7 +33530,7 @@
     "weight": 1
   },
   {
-    "id": 3355,
+    "id": 3354,
     "word": "choucroute",
     "alt": "",
     "bee": "three",
@@ -33550,7 +33540,7 @@
     "weight": 1
   },
   {
-    "id": 3356,
+    "id": 3355,
     "word": "hsaing-waing",
     "alt": "",
     "bee": "three",
@@ -33560,7 +33550,7 @@
     "weight": 1
   },
   {
-    "id": 3357,
+    "id": 3356,
     "word": "stevedore",
     "alt": "",
     "bee": "three",
@@ -33570,7 +33560,7 @@
     "weight": 1
   },
   {
-    "id": 3358,
+    "id": 3357,
     "word": "harangue",
     "alt": "",
     "bee": "three",
@@ -33580,7 +33570,7 @@
     "weight": 1
   },
   {
-    "id": 3359,
+    "id": 3358,
     "word": "niveau",
     "alt": "",
     "bee": "three",
@@ -33590,7 +33580,7 @@
     "weight": 1
   },
   {
-    "id": 3360,
+    "id": 3359,
     "word": "rouille",
     "alt": "",
     "bee": "three",
@@ -33600,7 +33590,7 @@
     "weight": 1
   },
   {
-    "id": 3361,
+    "id": 3360,
     "word": "rescissible",
     "alt": "",
     "bee": "three",
@@ -33610,7 +33600,7 @@
     "weight": 1
   },
   {
-    "id": 3362,
+    "id": 3361,
     "word": "Jungian",
     "alt": "",
     "bee": "three",
@@ -33620,7 +33610,7 @@
     "weight": 1
   },
   {
-    "id": 3363,
+    "id": 3362,
     "word": "Groenendael",
     "alt": "",
     "bee": "three",
@@ -33630,7 +33620,7 @@
     "weight": 1
   },
   {
-    "id": 3364,
+    "id": 3363,
     "word": "facile",
     "alt": "",
     "bee": "three",
@@ -33640,7 +33630,7 @@
     "weight": 1
   },
   {
-    "id": 3365,
+    "id": 3364,
     "word": "chrysolite",
     "alt": "",
     "bee": "three",
@@ -33650,7 +33640,7 @@
     "weight": 1
   },
   {
-    "id": 3366,
+    "id": 3365,
     "word": "execrable",
     "alt": "",
     "bee": "three",
@@ -33660,7 +33650,7 @@
     "weight": 1
   },
   {
-    "id": 3367,
+    "id": 3366,
     "word": "hangul",
     "alt": "",
     "bee": "three",
@@ -33670,7 +33660,7 @@
     "weight": 1
   },
   {
-    "id": 3368,
+    "id": 3367,
     "word": "cartouches",
     "alt": "",
     "bee": "three",
@@ -33680,7 +33670,7 @@
     "weight": 1
   },
   {
-    "id": 3369,
+    "id": 3368,
     "word": "Nicoise",
     "alt": "Niçoise",
     "bee": "three",
@@ -33690,7 +33680,7 @@
     "weight": 1
   },
   {
-    "id": 3370,
+    "id": 3369,
     "word": "julienne",
     "alt": "",
     "bee": "three",
@@ -33700,7 +33690,7 @@
     "weight": 1
   },
   {
-    "id": 3371,
+    "id": 3370,
     "word": "moiety",
     "alt": "",
     "bee": "three",
@@ -33710,7 +33700,7 @@
     "weight": 1
   },
   {
-    "id": 3372,
+    "id": 3371,
     "word": "pastitsio",
     "alt": "",
     "bee": "three",
@@ -33720,7 +33710,7 @@
     "weight": 1
   },
   {
-    "id": 3373,
+    "id": 3372,
     "word": "modiste",
     "alt": "",
     "bee": "three",
@@ -33730,7 +33720,7 @@
     "weight": 1
   },
   {
-    "id": 3374,
+    "id": 3373,
     "word": "deuterium",
     "alt": "",
     "bee": "three",
@@ -33740,7 +33730,7 @@
     "weight": 1
   },
   {
-    "id": 3375,
+    "id": 3374,
     "word": "Icarian",
     "alt": "",
     "bee": "three",
@@ -33750,7 +33740,7 @@
     "weight": 1
   },
   {
-    "id": 3376,
+    "id": 3375,
     "word": "pappardelle",
     "alt": "",
     "bee": "three",
@@ -33760,7 +33750,7 @@
     "weight": 1
   },
   {
-    "id": 3377,
+    "id": 3376,
     "word": "Sahel",
     "alt": "",
     "bee": "three",
@@ -33770,7 +33760,7 @@
     "weight": 1
   },
   {
-    "id": 3378,
+    "id": 3377,
     "word": "bibelot",
     "alt": "",
     "bee": "three",
@@ -33780,7 +33770,7 @@
     "weight": 1
   },
   {
-    "id": 3379,
+    "id": 3378,
     "word": "telegnosis",
     "alt": "",
     "bee": "three",
@@ -33790,7 +33780,7 @@
     "weight": 1
   },
   {
-    "id": 3380,
+    "id": 3379,
     "word": "loupe",
     "alt": "",
     "bee": "three",
@@ -33800,7 +33790,7 @@
     "weight": 1
   },
   {
-    "id": 3381,
+    "id": 3380,
     "word": "oleiculture",
     "alt": "",
     "bee": "three",
@@ -33810,7 +33800,7 @@
     "weight": 1
   },
   {
-    "id": 3382,
+    "id": 3381,
     "word": "loess",
     "alt": "löss",
     "bee": "three",
@@ -33820,7 +33810,7 @@
     "weight": 1
   },
   {
-    "id": 3383,
+    "id": 3382,
     "word": "ruelle",
     "alt": "",
     "bee": "three",
@@ -33830,7 +33820,7 @@
     "weight": 1
   },
   {
-    "id": 3384,
+    "id": 3383,
     "word": "Ushuaia",
     "alt": "",
     "bee": "three",
@@ -33840,7 +33830,7 @@
     "weight": 1
   },
   {
-    "id": 3385,
+    "id": 3384,
     "word": "redingote",
     "alt": "",
     "bee": "three",
@@ -33850,7 +33840,7 @@
     "weight": 1
   },
   {
-    "id": 3386,
+    "id": 3385,
     "word": "adscititious",
     "alt": "",
     "bee": "three",
@@ -33860,7 +33850,7 @@
     "weight": 1
   },
   {
-    "id": 3387,
+    "id": 3386,
     "word": "hummock",
     "alt": "",
     "bee": "three",
@@ -33870,7 +33860,7 @@
     "weight": 1
   },
   {
-    "id": 3388,
+    "id": 3387,
     "word": "internecine",
     "alt": "",
     "bee": "three",
@@ -33880,7 +33870,7 @@
     "weight": 1
   },
   {
-    "id": 3389,
+    "id": 3388,
     "word": "duxelles",
     "alt": "",
     "bee": "three",
@@ -33890,7 +33880,7 @@
     "weight": 1
   },
   {
-    "id": 3390,
+    "id": 3389,
     "word": "mesial",
     "alt": "",
     "bee": "three",
@@ -33900,7 +33890,7 @@
     "weight": 1
   },
   {
-    "id": 3391,
+    "id": 3390,
     "word": "Feldenkrais",
     "alt": "",
     "bee": "three",
@@ -33910,7 +33900,7 @@
     "weight": 1
   },
   {
-    "id": 3392,
+    "id": 3391,
     "word": "bailiwick",
     "alt": "",
     "bee": "three",
@@ -33920,7 +33910,7 @@
     "weight": 1
   },
   {
-    "id": 3393,
+    "id": 3392,
     "word": "bozzetto",
     "alt": "",
     "bee": "three",
@@ -33930,7 +33920,7 @@
     "weight": 1
   },
   {
-    "id": 3394,
+    "id": 3393,
     "word": "coiffure",
     "alt": "",
     "bee": "three",
@@ -33940,7 +33930,7 @@
     "weight": 1
   },
   {
-    "id": 3395,
+    "id": 3394,
     "word": "repartee",
     "alt": "",
     "bee": "three",
@@ -33950,7 +33940,7 @@
     "weight": 1
   },
   {
-    "id": 3396,
+    "id": 3395,
     "word": "chimera",
     "alt": "chimaera",
     "bee": "three",
@@ -33960,7 +33950,7 @@
     "weight": 1
   },
   {
-    "id": 3397,
+    "id": 3396,
     "word": "avgolemono",
     "alt": "",
     "bee": "three",
@@ -33970,7 +33960,7 @@
     "weight": 1
   },
   {
-    "id": 3398,
+    "id": 3397,
     "word": "exiguous",
     "alt": "",
     "bee": "three",
@@ -33980,7 +33970,7 @@
     "weight": 1
   },
   {
-    "id": 3399,
+    "id": 3398,
     "word": "presentient",
     "alt": "",
     "bee": "three",
@@ -33990,7 +33980,7 @@
     "weight": 1
   },
   {
-    "id": 3400,
+    "id": 3399,
     "word": "renvoi",
     "alt": "",
     "bee": "three",
@@ -34000,7 +33990,7 @@
     "weight": 1
   },
   {
-    "id": 3401,
+    "id": 3400,
     "word": "kichel",
     "alt": "",
     "bee": "three",
@@ -34010,7 +34000,7 @@
     "weight": 1
   },
   {
-    "id": 3402,
+    "id": 3401,
     "word": "semaphore",
     "alt": "",
     "bee": "three",
@@ -34020,7 +34010,7 @@
     "weight": 1
   },
   {
-    "id": 3403,
+    "id": 3402,
     "word": "gambol",
     "alt": "",
     "bee": "three",
@@ -34030,7 +34020,7 @@
     "weight": 1
   },
   {
-    "id": 3404,
+    "id": 3403,
     "word": "angiitis",
     "alt": "",
     "bee": "three",
@@ -34040,7 +34030,7 @@
     "weight": 1
   },
   {
-    "id": 3405,
+    "id": 3404,
     "word": "Teutonic",
     "alt": "",
     "bee": "three",
@@ -34050,7 +34040,7 @@
     "weight": 1
   },
   {
-    "id": 3406,
+    "id": 3405,
     "word": "Conestoga",
     "alt": "",
     "bee": "three",
@@ -34060,7 +34050,7 @@
     "weight": 1
   },
   {
-    "id": 3407,
+    "id": 3406,
     "word": "zeitgeist",
     "alt": "",
     "bee": "three",
@@ -34070,7 +34060,7 @@
     "weight": 1
   },
   {
-    "id": 3408,
+    "id": 3407,
     "word": "heinousness",
     "alt": "",
     "bee": "three",
@@ -34080,7 +34070,7 @@
     "weight": 1
   },
   {
-    "id": 3409,
+    "id": 3408,
     "word": "nacelle",
     "alt": "",
     "bee": "three",
@@ -34090,7 +34080,7 @@
     "weight": 1
   },
   {
-    "id": 3410,
+    "id": 3409,
     "word": "rupicolous",
     "alt": "",
     "bee": "three",
@@ -34100,7 +34090,7 @@
     "weight": 1
   },
   {
-    "id": 3411,
+    "id": 3410,
     "word": "Pythagorean",
     "alt": "",
     "bee": "three",
@@ -34110,7 +34100,7 @@
     "weight": 1
   },
   {
-    "id": 3412,
+    "id": 3411,
     "word": "kepi",
     "alt": "",
     "bee": "three",
@@ -34120,7 +34110,7 @@
     "weight": 1
   },
   {
-    "id": 3413,
+    "id": 3412,
     "word": "bulgur",
     "alt": "bulghur",
     "bee": "three",
@@ -34130,7 +34120,7 @@
     "weight": 1
   },
   {
-    "id": 3414,
+    "id": 3413,
     "word": "ushabti",
     "alt": "",
     "bee": "three",
@@ -34140,7 +34130,7 @@
     "weight": 1
   },
   {
-    "id": 3415,
+    "id": 3414,
     "word": "puchero",
     "alt": "",
     "bee": "three",
@@ -34150,7 +34140,7 @@
     "weight": 1
   },
   {
-    "id": 3416,
+    "id": 3415,
     "word": "nival",
     "alt": "",
     "bee": "three",
@@ -34160,7 +34150,7 @@
     "weight": 1
   },
   {
-    "id": 3417,
+    "id": 3416,
     "word": "ascites",
     "alt": "",
     "bee": "three",
@@ -34170,7 +34160,7 @@
     "weight": 1
   },
   {
-    "id": 3418,
+    "id": 3417,
     "word": "Véronique",
     "alt": "Veronique",
     "bee": "three",
@@ -34180,7 +34170,7 @@
     "weight": 1
   },
   {
-    "id": 3419,
+    "id": 3418,
     "word": "planetesimal",
     "alt": "",
     "bee": "three",
@@ -34190,7 +34180,7 @@
     "weight": 1
   },
   {
-    "id": 3420,
+    "id": 3419,
     "word": "taoiseach",
     "alt": "",
     "bee": "three",
@@ -34200,7 +34190,7 @@
     "weight": 1
   },
   {
-    "id": 3421,
+    "id": 3420,
     "word": "obeisant",
     "alt": "",
     "bee": "three",
@@ -34210,7 +34200,7 @@
     "weight": 1
   },
   {
-    "id": 3422,
+    "id": 3421,
     "word": "whippoorwill",
     "alt": "",
     "bee": "three",
@@ -34220,7 +34210,7 @@
     "weight": 1
   },
   {
-    "id": 3423,
+    "id": 3422,
     "word": "Ficus",
     "alt": "",
     "bee": "three",
@@ -34230,7 +34220,7 @@
     "weight": 1
   },
   {
-    "id": 3424,
+    "id": 3423,
     "word": "agelicism",
     "alt": "",
     "bee": "three",
@@ -34240,7 +34230,7 @@
     "weight": 1
   },
   {
-    "id": 3425,
+    "id": 3424,
     "word": "subrident",
     "alt": "",
     "bee": "three",
@@ -34250,7 +34240,7 @@
     "weight": 1
   },
   {
-    "id": 3426,
+    "id": 3425,
     "word": "ethylene",
     "alt": "",
     "bee": "three",
@@ -34260,7 +34250,7 @@
     "weight": 1
   },
   {
-    "id": 3427,
+    "id": 3426,
     "word": "flaneur",
     "alt": "",
     "bee": "three",
@@ -34270,7 +34260,7 @@
     "weight": 1
   },
   {
-    "id": 3428,
+    "id": 3427,
     "word": "Ponzi",
     "alt": "",
     "bee": "three",
@@ -34280,7 +34270,7 @@
     "weight": 1
   },
   {
-    "id": 3429,
+    "id": 3428,
     "word": "teneramente",
     "alt": "",
     "bee": "three",
@@ -34290,7 +34280,7 @@
     "weight": 1
   },
   {
-    "id": 3430,
+    "id": 3429,
     "word": "styptic",
     "alt": "",
     "bee": "three",
@@ -34300,7 +34290,7 @@
     "weight": 1
   },
   {
-    "id": 3431,
+    "id": 3430,
     "word": "sopapilla",
     "alt": "",
     "bee": "three",
@@ -34310,7 +34300,7 @@
     "weight": 1
   },
   {
-    "id": 3432,
+    "id": 3431,
     "word": "nictitate",
     "alt": "",
     "bee": "three",
@@ -34320,7 +34310,7 @@
     "weight": 1
   },
   {
-    "id": 3433,
+    "id": 3432,
     "word": "boutade",
     "alt": "",
     "bee": "three",
@@ -34330,7 +34320,7 @@
     "weight": 1
   },
   {
-    "id": 3434,
+    "id": 3433,
     "word": "towhee",
     "alt": "",
     "bee": "three",
@@ -34340,7 +34330,7 @@
     "weight": 1
   },
   {
-    "id": 3435,
+    "id": 3434,
     "word": "escritoire",
     "alt": "",
     "bee": "three",
@@ -34350,7 +34340,7 @@
     "weight": 1
   },
   {
-    "id": 3436,
+    "id": 3435,
     "word": "affenpinscher",
     "alt": "",
     "bee": "three",
@@ -34360,7 +34350,7 @@
     "weight": 1
   },
   {
-    "id": 3437,
+    "id": 3436,
     "word": "gudgeon",
     "alt": "",
     "bee": "three",
@@ -34370,7 +34360,7 @@
     "weight": 1
   },
   {
-    "id": 3438,
+    "id": 3437,
     "word": "beaumontage",
     "alt": "",
     "bee": "three",
@@ -34380,7 +34370,7 @@
     "weight": 1
   },
   {
-    "id": 3439,
+    "id": 3438,
     "word": "galoot",
     "alt": "",
     "bee": "three",
@@ -34390,7 +34380,7 @@
     "weight": 1
   },
   {
-    "id": 3440,
+    "id": 3439,
     "word": "desiccate",
     "alt": "",
     "bee": "three",
@@ -34400,7 +34390,7 @@
     "weight": 1
   },
   {
-    "id": 3441,
+    "id": 3440,
     "word": "aporia",
     "alt": "",
     "bee": "three",
@@ -34410,7 +34400,7 @@
     "weight": 1
   },
   {
-    "id": 3442,
+    "id": 3441,
     "word": "moraine",
     "alt": "",
     "bee": "three",
@@ -34420,7 +34410,7 @@
     "weight": 1
   },
   {
-    "id": 3443,
+    "id": 3442,
     "word": "hirsute",
     "alt": "",
     "bee": "three",
@@ -34430,7 +34420,7 @@
     "weight": 1
   },
   {
-    "id": 3444,
+    "id": 3443,
     "word": "shubunkin",
     "alt": "",
     "bee": "three",
@@ -34440,7 +34430,7 @@
     "weight": 1
   },
   {
-    "id": 3445,
+    "id": 3444,
     "word": "hepatectomy",
     "alt": "",
     "bee": "three",
@@ -34450,7 +34440,7 @@
     "weight": 1
   },
   {
-    "id": 3446,
+    "id": 3445,
     "word": "bloviate",
     "alt": "",
     "bee": "three",
@@ -34460,7 +34450,7 @@
     "weight": 1
   },
   {
-    "id": 3447,
+    "id": 3446,
     "word": "seine",
     "alt": "",
     "bee": "three",
@@ -34470,7 +34460,7 @@
     "weight": 1
   },
   {
-    "id": 3448,
+    "id": 3447,
     "word": "galapago",
     "alt": "",
     "bee": "three",
@@ -34480,7 +34470,7 @@
     "weight": 1
   },
   {
-    "id": 3449,
+    "id": 3448,
     "word": "au",
     "alt": "",
     "bee": "three",
@@ -34490,7 +34480,7 @@
     "weight": 1
   },
   {
-    "id": 3450,
+    "id": 3449,
     "word": "courant",
     "alt": "",
     "bee": "three",
@@ -34500,7 +34490,7 @@
     "weight": 1
   },
   {
-    "id": 3451,
+    "id": 3450,
     "word": "crepuscular",
     "alt": "",
     "bee": "three",
@@ -34510,7 +34500,7 @@
     "weight": 1
   },
   {
-    "id": 3452,
+    "id": 3451,
     "word": "theca",
     "alt": "",
     "bee": "three",
@@ -34520,7 +34510,7 @@
     "weight": 1
   },
   {
-    "id": 3453,
+    "id": 3452,
     "word": "croustade",
     "alt": "",
     "bee": "three",
@@ -34530,7 +34520,7 @@
     "weight": 1
   },
   {
-    "id": 3454,
+    "id": 3453,
     "word": "kipuka",
     "alt": "",
     "bee": "three",
@@ -34540,7 +34530,7 @@
     "weight": 1
   },
   {
-    "id": 3455,
+    "id": 3454,
     "word": "noumenon",
     "alt": "",
     "bee": "three",
@@ -34550,7 +34540,7 @@
     "weight": 1
   },
   {
-    "id": 3456,
+    "id": 3455,
     "word": "chicanery",
     "alt": "",
     "bee": "three",
@@ -34560,7 +34550,7 @@
     "weight": 1
   },
   {
-    "id": 3457,
+    "id": 3456,
     "word": "vilipend",
     "alt": "",
     "bee": "three",
@@ -34570,7 +34560,7 @@
     "weight": 1
   },
   {
-    "id": 3458,
+    "id": 3457,
     "word": "vitiate",
     "alt": "",
     "bee": "three",
@@ -34580,7 +34570,7 @@
     "weight": 1
   },
   {
-    "id": 3459,
+    "id": 3458,
     "word": "spodumene",
     "alt": "",
     "bee": "three",
@@ -34590,7 +34580,7 @@
     "weight": 1
   },
   {
-    "id": 3460,
+    "id": 3459,
     "word": "leberwurst",
     "alt": "",
     "bee": "three",
@@ -34600,7 +34590,7 @@
     "weight": 1
   },
   {
-    "id": 3461,
+    "id": 3460,
     "word": "daguerreotype",
     "alt": "",
     "bee": "three",
@@ -34610,7 +34600,7 @@
     "weight": 1
   },
   {
-    "id": 3462,
+    "id": 3461,
     "word": "yakitori",
     "alt": "",
     "bee": "three",
@@ -34620,7 +34610,7 @@
     "weight": 1
   },
   {
-    "id": 3463,
+    "id": 3462,
     "word": "pejorate",
     "alt": "",
     "bee": "three",
@@ -34630,7 +34620,7 @@
     "weight": 1
   },
   {
-    "id": 3464,
+    "id": 3463,
     "word": "Aitutakian",
     "alt": "",
     "bee": "three",
@@ -34640,7 +34630,7 @@
     "weight": 1
   },
   {
-    "id": 3465,
+    "id": 3464,
     "word": "parterre",
     "alt": "",
     "bee": "three",
@@ -34650,7 +34640,7 @@
     "weight": 1
   },
   {
-    "id": 3466,
+    "id": 3465,
     "word": "rondeau",
     "alt": "",
     "bee": "three",
@@ -34660,7 +34650,7 @@
     "weight": 1
   },
   {
-    "id": 3467,
+    "id": 3466,
     "word": "atlatl",
     "alt": "",
     "bee": "three",
@@ -34670,7 +34660,7 @@
     "weight": 1
   },
   {
-    "id": 3468,
+    "id": 3467,
     "word": "allochroous",
     "alt": "",
     "bee": "three",
@@ -34680,7 +34670,7 @@
     "weight": 1
   },
   {
-    "id": 3469,
+    "id": 3468,
     "word": "ennui",
     "alt": "",
     "bee": "three",
@@ -34690,7 +34680,7 @@
     "weight": 1
   },
   {
-    "id": 3470,
+    "id": 3469,
     "word": "caisson",
     "alt": "",
     "bee": "three",
@@ -34700,7 +34690,7 @@
     "weight": 1
   },
   {
-    "id": 3471,
+    "id": 3470,
     "word": "cheongsam",
     "alt": "",
     "bee": "three",
@@ -34710,7 +34700,7 @@
     "weight": 1
   },
   {
-    "id": 3472,
+    "id": 3471,
     "word": "graticule",
     "alt": "",
     "bee": "three",
@@ -34720,7 +34710,7 @@
     "weight": 1
   },
   {
-    "id": 3473,
+    "id": 3472,
     "word": "gyascutus",
     "alt": "",
     "bee": "three",
@@ -34730,7 +34720,7 @@
     "weight": 1
   },
   {
-    "id": 3474,
+    "id": 3473,
     "word": "cygnet",
     "alt": "",
     "bee": "three",
@@ -34740,7 +34730,7 @@
     "weight": 1
   },
   {
-    "id": 3475,
+    "id": 3474,
     "word": "supercilious",
     "alt": "",
     "bee": "three",
@@ -34750,7 +34740,7 @@
     "weight": 1
   },
   {
-    "id": 3476,
+    "id": 3475,
     "word": "dysphasia",
     "alt": "",
     "bee": "three",
@@ -34760,7 +34750,7 @@
     "weight": 1
   },
   {
-    "id": 3477,
+    "id": 3476,
     "word": "kugel",
     "alt": "",
     "bee": "three",
@@ -34770,7 +34760,7 @@
     "weight": 1
   },
   {
-    "id": 3478,
+    "id": 3477,
     "word": "topazolite",
     "alt": "",
     "bee": "three",
@@ -34780,7 +34770,7 @@
     "weight": 1
   },
   {
-    "id": 3479,
+    "id": 3478,
     "word": "trompe-l’oeil",
     "alt": "",
     "bee": "three",
@@ -34790,7 +34780,7 @@
     "weight": 1
   },
   {
-    "id": 3480,
+    "id": 3479,
     "word": "ailette",
     "alt": "",
     "bee": "three",
@@ -34800,7 +34790,7 @@
     "weight": 1
   },
   {
-    "id": 3481,
+    "id": 3480,
     "word": "fetticus",
     "alt": "",
     "bee": "three",
@@ -34810,7 +34800,7 @@
     "weight": 1
   },
   {
-    "id": 3482,
+    "id": 3481,
     "word": "rocaille",
     "alt": "",
     "bee": "three",
@@ -34820,7 +34810,7 @@
     "weight": 1
   },
   {
-    "id": 3483,
+    "id": 3482,
     "word": "couverture",
     "alt": "",
     "bee": "three",
@@ -34830,7 +34820,7 @@
     "weight": 1
   },
   {
-    "id": 3484,
+    "id": 3483,
     "word": "lemniscus",
     "alt": "",
     "bee": "three",
@@ -34840,7 +34830,7 @@
     "weight": 1
   },
   {
-    "id": 3485,
+    "id": 3484,
     "word": "ad",
     "alt": "",
     "bee": "three",
@@ -34850,7 +34840,7 @@
     "weight": 1
   },
   {
-    "id": 3486,
+    "id": 3485,
     "word": "nauseam",
     "alt": "",
     "bee": "three",
@@ -34860,7 +34850,7 @@
     "weight": 1
   },
   {
-    "id": 3487,
+    "id": 3486,
     "word": "ganache",
     "alt": "",
     "bee": "three",
@@ -34870,7 +34860,7 @@
     "weight": 1
   },
   {
-    "id": 3488,
+    "id": 3487,
     "word": "sauger",
     "alt": "",
     "bee": "three",
@@ -34880,7 +34870,7 @@
     "weight": 1
   },
   {
-    "id": 3489,
+    "id": 3488,
     "word": "kanban",
     "alt": "",
     "bee": "three",
@@ -34890,7 +34880,7 @@
     "weight": 1
   },
   {
-    "id": 3490,
+    "id": 3489,
     "word": "toccata",
     "alt": "",
     "bee": "three",
@@ -34900,7 +34890,7 @@
     "weight": 1
   },
   {
-    "id": 3491,
+    "id": 3490,
     "word": "pertinacity",
     "alt": "",
     "bee": "three",
@@ -34910,7 +34900,7 @@
     "weight": 1
   },
   {
-    "id": 3492,
+    "id": 3491,
     "word": "gasthaus",
     "alt": "",
     "bee": "three",
@@ -34920,7 +34910,7 @@
     "weight": 1
   },
   {
-    "id": 3493,
+    "id": 3492,
     "word": "transmontane",
     "alt": "",
     "bee": "three",
@@ -34930,7 +34920,7 @@
     "weight": 1
   },
   {
-    "id": 3494,
+    "id": 3493,
     "word": "laterigrade",
     "alt": "",
     "bee": "three",
@@ -34940,7 +34930,7 @@
     "weight": 1
   },
   {
-    "id": 3495,
+    "id": 3494,
     "word": "hyssop",
     "alt": "",
     "bee": "three",
@@ -34950,7 +34940,7 @@
     "weight": 1
   },
   {
-    "id": 3496,
+    "id": 3495,
     "word": "naumachia",
     "alt": "",
     "bee": "three",
@@ -34960,7 +34950,7 @@
     "weight": 1
   },
   {
-    "id": 3497,
+    "id": 3496,
     "word": "focaccia",
     "alt": "",
     "bee": "three",
@@ -34970,7 +34960,7 @@
     "weight": 1
   },
   {
-    "id": 3498,
+    "id": 3497,
     "word": "pahoehoe",
     "alt": "",
     "bee": "three",
@@ -34980,7 +34970,7 @@
     "weight": 1
   },
   {
-    "id": 3499,
+    "id": 3498,
     "word": "Kjeldahl",
     "alt": "",
     "bee": "three",
@@ -34990,7 +34980,7 @@
     "weight": 1
   },
   {
-    "id": 3500,
+    "id": 3499,
     "word": "rubefacient",
     "alt": "",
     "bee": "three",
@@ -35000,7 +34990,7 @@
     "weight": 1
   },
   {
-    "id": 3501,
+    "id": 3500,
     "word": "halcyon",
     "alt": "",
     "bee": "three",
@@ -35010,7 +35000,7 @@
     "weight": 1
   },
   {
-    "id": 3502,
+    "id": 3501,
     "word": "corrigenda",
     "alt": "",
     "bee": "three",
@@ -35020,7 +35010,7 @@
     "weight": 1
   },
   {
-    "id": 3503,
+    "id": 3502,
     "word": "Zanni",
     "alt": "",
     "bee": "three",
@@ -35030,7 +35020,7 @@
     "weight": 1
   },
   {
-    "id": 3504,
+    "id": 3503,
     "word": "nonage",
     "alt": "",
     "bee": "three",
@@ -35040,7 +35030,7 @@
     "weight": 1
   },
   {
-    "id": 3505,
+    "id": 3504,
     "word": "beurre",
     "alt": "",
     "bee": "three",
@@ -35050,7 +35040,7 @@
     "weight": 1
   },
   {
-    "id": 3506,
+    "id": 3505,
     "word": "jicama",
     "alt": "",
     "bee": "three",
@@ -35060,7 +35050,7 @@
     "weight": 1
   },
   {
-    "id": 3507,
+    "id": 3506,
     "word": "sturnine",
     "alt": "",
     "bee": "three",
@@ -35070,7 +35060,7 @@
     "weight": 1
   },
   {
-    "id": 3508,
+    "id": 3507,
     "word": "octonocular",
     "alt": "",
     "bee": "three",
@@ -35080,7 +35070,7 @@
     "weight": 1
   },
   {
-    "id": 3509,
+    "id": 3508,
     "word": "parallax",
     "alt": "",
     "bee": "three",
@@ -35090,7 +35080,7 @@
     "weight": 1
   },
   {
-    "id": 3510,
+    "id": 3509,
     "word": "antenatus",
     "alt": "",
     "bee": "three",
@@ -35100,7 +35090,7 @@
     "weight": 1
   },
   {
-    "id": 3511,
+    "id": 3510,
     "word": "trouvaille",
     "alt": "",
     "bee": "three",
@@ -35110,7 +35100,7 @@
     "weight": 1
   },
   {
-    "id": 3512,
+    "id": 3511,
     "word": "glazier",
     "alt": "",
     "bee": "three",
@@ -35120,7 +35110,7 @@
     "weight": 1
   },
   {
-    "id": 3513,
+    "id": 3512,
     "word": "kinesiology",
     "alt": "",
     "bee": "three",
@@ -35130,7 +35120,7 @@
     "weight": 1
   },
   {
-    "id": 3514,
+    "id": 3513,
     "word": "exogenous",
     "alt": "",
     "bee": "three",
@@ -35140,7 +35130,7 @@
     "weight": 1
   },
   {
-    "id": 3515,
+    "id": 3514,
     "word": "aniseikonia",
     "alt": "",
     "bee": "three",
@@ -35150,7 +35140,7 @@
     "weight": 1
   },
   {
-    "id": 3516,
+    "id": 3515,
     "word": "guayabera",
     "alt": "",
     "bee": "three",
@@ -35160,7 +35150,7 @@
     "weight": 1
   },
   {
-    "id": 3517,
+    "id": 3516,
     "word": "realgar",
     "alt": "",
     "bee": "three",
@@ -35170,7 +35160,7 @@
     "weight": 1
   },
   {
-    "id": 3518,
+    "id": 3517,
     "word": "anaphylaxis",
     "alt": "",
     "bee": "three",
@@ -35180,7 +35170,7 @@
     "weight": 1
   },
   {
-    "id": 3519,
+    "id": 3518,
     "word": "bobolink",
     "alt": "",
     "bee": "three",
@@ -35190,7 +35180,7 @@
     "weight": 1
   },
   {
-    "id": 3520,
+    "id": 3519,
     "word": "diluent",
     "alt": "",
     "bee": "three",
@@ -35200,7 +35190,7 @@
     "weight": 1
   },
   {
-    "id": 3521,
+    "id": 3520,
     "word": "urushiol",
     "alt": "",
     "bee": "three",
@@ -35210,7 +35200,7 @@
     "weight": 1
   },
   {
-    "id": 3522,
+    "id": 3521,
     "word": "andouille",
     "alt": "",
     "bee": "three",
@@ -35220,7 +35210,7 @@
     "weight": 1
   },
   {
-    "id": 3523,
+    "id": 3522,
     "word": "otiose",
     "alt": "",
     "bee": "three",
@@ -35230,7 +35220,7 @@
     "weight": 1
   },
   {
-    "id": 3524,
+    "id": 3523,
     "word": "megacephalic",
     "alt": "",
     "bee": "three",
@@ -35240,7 +35230,7 @@
     "weight": 1
   },
   {
-    "id": 3525,
+    "id": 3524,
     "word": "souchong",
     "alt": "",
     "bee": "three",
@@ -35250,7 +35240,7 @@
     "weight": 1
   },
   {
-    "id": 3526,
+    "id": 3525,
     "word": "poltroon",
     "alt": "",
     "bee": "three",
@@ -35260,7 +35250,7 @@
     "weight": 1
   },
   {
-    "id": 3527,
+    "id": 3526,
     "word": "Freudian",
     "alt": "",
     "bee": "three",
@@ -35270,7 +35260,7 @@
     "weight": 1
   },
   {
-    "id": 3528,
+    "id": 3527,
     "word": "floruit",
     "alt": "",
     "bee": "three",
@@ -35280,7 +35270,7 @@
     "weight": 1
   },
   {
-    "id": 3529,
+    "id": 3528,
     "word": "Bunyanesque",
     "alt": "",
     "bee": "three",
@@ -35290,7 +35280,7 @@
     "weight": 1
   },
   {
-    "id": 3530,
+    "id": 3529,
     "word": "exsect",
     "alt": "",
     "bee": "three",
@@ -35300,7 +35290,7 @@
     "weight": 1
   },
   {
-    "id": 3531,
+    "id": 3530,
     "word": "champignon",
     "alt": "",
     "bee": "three",
@@ -35310,7 +35300,7 @@
     "weight": 1
   },
   {
-    "id": 3532,
+    "id": 3531,
     "word": "bahuvrihi",
     "alt": "",
     "bee": "three",
@@ -35320,7 +35310,7 @@
     "weight": 1
   },
   {
-    "id": 3533,
+    "id": 3532,
     "word": "panjandrum",
     "alt": "",
     "bee": "three",
@@ -35330,7 +35320,7 @@
     "weight": 1
   },
   {
-    "id": 3534,
+    "id": 3533,
     "word": "catachresis",
     "alt": "",
     "bee": "three",
@@ -35340,7 +35330,7 @@
     "weight": 1
   },
   {
-    "id": 3535,
+    "id": 3534,
     "word": "tiffin",
     "alt": "",
     "bee": "three",
@@ -35350,7 +35340,7 @@
     "weight": 1
   },
   {
-    "id": 3536,
+    "id": 3535,
     "word": "colcannon",
     "alt": "",
     "bee": "three",
@@ -35360,7 +35350,7 @@
     "weight": 1
   },
   {
-    "id": 3537,
+    "id": 3536,
     "word": "tournedos",
     "alt": "",
     "bee": "three",
@@ -35370,7 +35360,7 @@
     "weight": 1
   },
   {
-    "id": 3538,
+    "id": 3537,
     "word": "ormolu",
     "alt": "",
     "bee": "three",
@@ -35380,7 +35370,7 @@
     "weight": 1
   },
   {
-    "id": 3539,
+    "id": 3538,
     "word": "blottesque",
     "alt": "",
     "bee": "three",
@@ -35390,7 +35380,7 @@
     "weight": 1
   },
   {
-    "id": 3540,
+    "id": 3539,
     "word": "consommé",
     "alt": "consomme",
     "bee": "three",
@@ -35400,7 +35390,7 @@
     "weight": 1
   },
   {
-    "id": 3541,
+    "id": 3540,
     "word": "ullage",
     "alt": "",
     "bee": "three",
@@ -35410,7 +35400,7 @@
     "weight": 1
   },
   {
-    "id": 3542,
+    "id": 3541,
     "word": "zortzico",
     "alt": "",
     "bee": "three",
@@ -35420,7 +35410,7 @@
     "weight": 1
   },
   {
-    "id": 3543,
+    "id": 3542,
     "word": "teratism",
     "alt": "",
     "bee": "three",
@@ -35430,7 +35420,7 @@
     "weight": 1
   },
   {
-    "id": 3544,
+    "id": 3543,
     "word": "flagellum",
     "alt": "",
     "bee": "three",
@@ -35440,7 +35430,7 @@
     "weight": 1
   },
   {
-    "id": 3545,
+    "id": 3544,
     "word": "panegyric",
     "alt": "",
     "bee": "three",
@@ -35450,7 +35440,7 @@
     "weight": 1
   },
   {
-    "id": 3546,
+    "id": 3545,
     "word": "hoi-polloi",
     "alt": "",
     "bee": "three",
@@ -35460,7 +35450,7 @@
     "weight": 1
   },
   {
-    "id": 3547,
+    "id": 3546,
     "word": "sirenian",
     "alt": "",
     "bee": "three",
@@ -35470,7 +35460,7 @@
     "weight": 1
   },
   {
-    "id": 3548,
+    "id": 3547,
     "word": "nescience",
     "alt": "",
     "bee": "three",
@@ -35480,7 +35470,7 @@
     "weight": 1
   },
   {
-    "id": 3549,
+    "id": 3548,
     "word": "blatherskite",
     "alt": "",
     "bee": "three",
@@ -35490,7 +35480,7 @@
     "weight": 1
   },
   {
-    "id": 3550,
+    "id": 3549,
     "word": "consigliere",
     "alt": "",
     "bee": "three",
@@ -35500,7 +35490,7 @@
     "weight": 1
   },
   {
-    "id": 3551,
+    "id": 3550,
     "word": "adiabatic",
     "alt": "",
     "bee": "three",
@@ -35510,7 +35500,7 @@
     "weight": 1
   },
   {
-    "id": 3552,
+    "id": 3551,
     "word": "camembert",
     "alt": "",
     "bee": "three",
@@ -35520,7 +35510,7 @@
     "weight": 1
   },
   {
-    "id": 3553,
+    "id": 3552,
     "word": "ecchymosis",
     "alt": "",
     "bee": "three",
@@ -35530,7 +35520,7 @@
     "weight": 1
   },
   {
-    "id": 3554,
+    "id": 3553,
     "word": "oppidan",
     "alt": "",
     "bee": "three",
@@ -35540,7 +35530,7 @@
     "weight": 1
   },
   {
-    "id": 3555,
+    "id": 3554,
     "word": "decastich",
     "alt": "",
     "bee": "three",
@@ -35550,7 +35540,7 @@
     "weight": 1
   },
   {
-    "id": 3556,
+    "id": 3555,
     "word": "Naugahyde",
     "alt": "",
     "bee": "three",
@@ -35560,7 +35550,7 @@
     "weight": 1
   },
   {
-    "id": 3557,
+    "id": 3556,
     "word": "lefse",
     "alt": "",
     "bee": "three",
@@ -35570,7 +35560,7 @@
     "weight": 1
   },
   {
-    "id": 3558,
+    "id": 3557,
     "word": "beccafico",
     "alt": "",
     "bee": "three",
@@ -35580,7 +35570,7 @@
     "weight": 1
   },
   {
-    "id": 3559,
+    "id": 3558,
     "word": "amphistylar",
     "alt": "",
     "bee": "three",
@@ -35590,7 +35580,7 @@
     "weight": 1
   },
   {
-    "id": 3560,
+    "id": 3559,
     "word": "saturnine",
     "alt": "",
     "bee": "three",
@@ -35600,7 +35590,7 @@
     "weight": 1
   },
   {
-    "id": 3561,
+    "id": 3560,
     "word": "zaibatsu",
     "alt": "",
     "bee": "three",
@@ -35610,7 +35600,7 @@
     "weight": 1
   },
   {
-    "id": 3562,
+    "id": 3561,
     "word": "titian",
     "alt": "",
     "bee": "three",
@@ -35620,7 +35610,7 @@
     "weight": 1
   },
   {
-    "id": 3563,
+    "id": 3562,
     "word": "tokonoma",
     "alt": "",
     "bee": "three",
@@ -35630,7 +35620,7 @@
     "weight": 1
   },
   {
-    "id": 3564,
+    "id": 3563,
     "word": "unguiculate",
     "alt": "",
     "bee": "three",
@@ -35640,7 +35630,7 @@
     "weight": 1
   },
   {
-    "id": 3565,
+    "id": 3564,
     "word": "amaryllis",
     "alt": "",
     "bee": "three",
@@ -35650,7 +35640,7 @@
     "weight": 1
   },
   {
-    "id": 3566,
+    "id": 3565,
     "word": "reveille",
     "alt": "",
     "bee": "three",
@@ -35660,7 +35650,7 @@
     "weight": 1
   },
   {
-    "id": 3567,
+    "id": 3566,
     "word": "regnal",
     "alt": "",
     "bee": "three",
@@ -35670,7 +35660,7 @@
     "weight": 1
   },
   {
-    "id": 3568,
+    "id": 3567,
     "word": "attaché",
     "alt": "",
     "bee": "three",
@@ -35680,7 +35670,7 @@
     "weight": 1
   },
   {
-    "id": 3569,
+    "id": 3568,
     "word": "rafflesia",
     "alt": "",
     "bee": "three",
@@ -35690,7 +35680,7 @@
     "weight": 1
   },
   {
-    "id": 3570,
+    "id": 3569,
     "word": "ranunculus",
     "alt": "",
     "bee": "three",
@@ -35700,7 +35690,7 @@
     "weight": 1
   },
   {
-    "id": 3571,
+    "id": 3570,
     "word": "pistou",
     "alt": "",
     "bee": "three",
@@ -35710,7 +35700,7 @@
     "weight": 1
   },
   {
-    "id": 3572,
+    "id": 3571,
     "word": "scintillation",
     "alt": "",
     "bee": "three",
@@ -35720,7 +35710,7 @@
     "weight": 1
   },
   {
-    "id": 3573,
+    "id": 3572,
     "word": "Bolognese",
     "alt": "",
     "bee": "three",
@@ -35730,7 +35720,7 @@
     "weight": 1
   },
   {
-    "id": 3574,
+    "id": 3573,
     "word": "farrago",
     "alt": "",
     "bee": "three",
@@ -35740,7 +35730,7 @@
     "weight": 1
   },
   {
-    "id": 3575,
+    "id": 3574,
     "word": "coup-de-grace",
     "alt": "",
     "bee": "three",
@@ -35750,7 +35740,7 @@
     "weight": 1
   },
   {
-    "id": 3576,
+    "id": 3575,
     "word": "tourelle",
     "alt": "",
     "bee": "three",
@@ -35760,7 +35750,7 @@
     "weight": 1
   },
   {
-    "id": 3577,
+    "id": 3576,
     "word": "notturno",
     "alt": "",
     "bee": "three",
@@ -35770,7 +35760,7 @@
     "weight": 1
   },
   {
-    "id": 3578,
+    "id": 3577,
     "word": "ginglymus",
     "alt": "",
     "bee": "three",
@@ -35780,7 +35770,7 @@
     "weight": 1
   },
   {
-    "id": 3579,
+    "id": 3578,
     "word": "hemorrhage",
     "alt": "",
     "bee": "three",
@@ -35790,7 +35780,7 @@
     "weight": 1
   },
   {
-    "id": 3580,
+    "id": 3579,
     "word": "tapetum",
     "alt": "",
     "bee": "three",
@@ -35800,7 +35790,7 @@
     "weight": 1
   },
   {
-    "id": 3581,
+    "id": 3580,
     "word": "golem",
     "alt": "",
     "bee": "three",
@@ -35810,7 +35800,7 @@
     "weight": 1
   },
   {
-    "id": 3582,
+    "id": 3581,
     "word": "krewe",
     "alt": "",
     "bee": "three",
@@ -35820,7 +35810,7 @@
     "weight": 1
   },
   {
-    "id": 3583,
+    "id": 3582,
     "word": "toque",
     "alt": "",
     "bee": "three",
@@ -35830,7 +35820,7 @@
     "weight": 1
   },
   {
-    "id": 3584,
+    "id": 3583,
     "word": "avuncular",
     "alt": "",
     "bee": "three",
@@ -35840,7 +35830,7 @@
     "weight": 1
   },
   {
-    "id": 3585,
+    "id": 3584,
     "word": "habiliments",
     "alt": "",
     "bee": "three",
@@ -35850,7 +35840,7 @@
     "weight": 1
   },
   {
-    "id": 3586,
+    "id": 3585,
     "word": "rubato",
     "alt": "",
     "bee": "three",
@@ -35860,7 +35850,7 @@
     "weight": 1
   },
   {
-    "id": 3587,
+    "id": 3586,
     "word": "gentilitial",
     "alt": "",
     "bee": "three",
@@ -35870,7 +35860,7 @@
     "weight": 1
   },
   {
-    "id": 3588,
+    "id": 3587,
     "word": "obnebulate",
     "alt": "",
     "bee": "three",
@@ -35880,7 +35870,7 @@
     "weight": 1
   },
   {
-    "id": 3589,
+    "id": 3588,
     "word": "allonym",
     "alt": "",
     "bee": "three",
@@ -35890,7 +35880,7 @@
     "weight": 1
   },
   {
-    "id": 3590,
+    "id": 3589,
     "word": "croquembouche",
     "alt": "",
     "bee": "three",
@@ -35900,7 +35890,7 @@
     "weight": 1
   },
   {
-    "id": 3591,
+    "id": 3590,
     "word": "kobold",
     "alt": "",
     "bee": "three",
@@ -35910,7 +35900,7 @@
     "weight": 1
   },
   {
-    "id": 3592,
+    "id": 3591,
     "word": "mendicity",
     "alt": "",
     "bee": "three",
@@ -35920,7 +35910,7 @@
     "weight": 1
   },
   {
-    "id": 3593,
+    "id": 3592,
     "word": "castellated",
     "alt": "",
     "bee": "three",
@@ -35930,7 +35920,7 @@
     "weight": 1
   },
   {
-    "id": 3594,
+    "id": 3593,
     "word": "toponymic",
     "alt": "",
     "bee": "three",
@@ -35940,7 +35930,7 @@
     "weight": 1
   },
   {
-    "id": 3595,
+    "id": 3594,
     "word": "boudin",
     "alt": "",
     "bee": "three",
@@ -35950,7 +35940,7 @@
     "weight": 1
   },
   {
-    "id": 3596,
+    "id": 3595,
     "word": "bucatini",
     "alt": "",
     "bee": "three",
@@ -35960,7 +35950,7 @@
     "weight": 1
   },
   {
-    "id": 3597,
+    "id": 3596,
     "word": "reboation",
     "alt": "",
     "bee": "three",
@@ -35970,7 +35960,7 @@
     "weight": 1
   },
   {
-    "id": 3598,
+    "id": 3597,
     "word": "haupia",
     "alt": "",
     "bee": "three",
@@ -35980,7 +35970,7 @@
     "weight": 1
   },
   {
-    "id": 3599,
+    "id": 3598,
     "word": "Keplerian",
     "alt": "",
     "bee": "three",
@@ -35990,7 +35980,7 @@
     "weight": 1
   },
   {
-    "id": 3600,
+    "id": 3599,
     "word": "codswallop",
     "alt": "",
     "bee": "three",
@@ -36000,7 +35990,7 @@
     "weight": 1
   },
   {
-    "id": 3601,
+    "id": 3600,
     "word": "hauteur",
     "alt": "",
     "bee": "three",
@@ -36010,7 +36000,7 @@
     "weight": 1
   },
   {
-    "id": 3602,
+    "id": 3601,
     "word": "camarilla",
     "alt": "",
     "bee": "three",
@@ -36020,7 +36010,7 @@
     "weight": 1
   },
   {
-    "id": 3603,
+    "id": 3602,
     "word": "nidicolous",
     "alt": "",
     "bee": "three",
@@ -36030,7 +36020,7 @@
     "weight": 1
   },
   {
-    "id": 3604,
+    "id": 3603,
     "word": "oxyacetylene",
     "alt": "",
     "bee": "three",
@@ -36040,7 +36030,7 @@
     "weight": 1
   },
   {
-    "id": 3605,
+    "id": 3604,
     "word": "queue",
     "alt": "",
     "bee": "three",
@@ -36050,7 +36040,7 @@
     "weight": 1
   },
   {
-    "id": 3606,
+    "id": 3605,
     "word": "hellebore",
     "alt": "",
     "bee": "three",
@@ -36060,7 +36050,7 @@
     "weight": 1
   },
   {
-    "id": 3607,
+    "id": 3606,
     "word": "transhumance",
     "alt": "",
     "bee": "three",
@@ -36070,7 +36060,7 @@
     "weight": 1
   },
   {
-    "id": 3608,
+    "id": 3607,
     "word": "phloem",
     "alt": "",
     "bee": "three",
@@ -36080,7 +36070,7 @@
     "weight": 1
   },
   {
-    "id": 3609,
+    "id": 3608,
     "word": "lacustrine",
     "alt": "",
     "bee": "three",
@@ -36090,7 +36080,7 @@
     "weight": 1
   },
   {
-    "id": 3610,
+    "id": 3609,
     "word": "ageusia",
     "alt": "",
     "bee": "three",
@@ -36100,7 +36090,7 @@
     "weight": 1
   },
   {
-    "id": 3611,
+    "id": 3610,
     "word": "pillor",
     "alt": "",
     "bee": "three",
@@ -36110,7 +36100,7 @@
     "weight": 1
   },
   {
-    "id": 3612,
+    "id": 3611,
     "word": "deleterious",
     "alt": "",
     "bee": "three",
@@ -36120,7 +36110,7 @@
     "weight": 1
   },
   {
-    "id": 3613,
+    "id": 3612,
     "word": "ikat",
     "alt": "",
     "bee": "three",
@@ -36130,7 +36120,7 @@
     "weight": 1
   },
   {
-    "id": 3614,
+    "id": 3613,
     "word": "pylorus",
     "alt": "",
     "bee": "three",
@@ -36140,7 +36130,7 @@
     "weight": 1
   },
   {
-    "id": 3615,
+    "id": 3614,
     "word": "erythroblast",
     "alt": "",
     "bee": "three",
@@ -36150,7 +36140,7 @@
     "weight": 1
   },
   {
-    "id": 3616,
+    "id": 3615,
     "word": "maillot",
     "alt": "",
     "bee": "three",
@@ -36160,7 +36150,7 @@
     "weight": 1
   },
   {
-    "id": 3617,
+    "id": 3616,
     "word": "epenthesis",
     "alt": "",
     "bee": "three",
@@ -36170,7 +36160,7 @@
     "weight": 1
   },
   {
-    "id": 3618,
+    "id": 3617,
     "word": "hinoki",
     "alt": "",
     "bee": "three",
@@ -36180,7 +36170,7 @@
     "weight": 1
   },
   {
-    "id": 3619,
+    "id": 3618,
     "word": "nonpareil",
     "alt": "",
     "bee": "three",
@@ -36190,7 +36180,7 @@
     "weight": 1
   },
   {
-    "id": 3620,
+    "id": 3619,
     "word": "nyctinasty",
     "alt": "",
     "bee": "three",
@@ -36200,7 +36190,7 @@
     "weight": 1
   },
   {
-    "id": 3621,
+    "id": 3620,
     "word": "pointelle",
     "alt": "",
     "bee": "three",
@@ -36210,7 +36200,7 @@
     "weight": 1
   },
   {
-    "id": 3622,
+    "id": 3621,
     "word": "vinaigrette",
     "alt": "",
     "bee": "three",
@@ -36220,7 +36210,7 @@
     "weight": 1
   },
   {
-    "id": 3623,
+    "id": 3622,
     "word": "tinnient",
     "alt": "",
     "bee": "three",
@@ -36230,7 +36220,7 @@
     "weight": 1
   },
   {
-    "id": 3624,
+    "id": 3623,
     "word": "aioli",
     "alt": "",
     "bee": "three",
@@ -36240,7 +36230,7 @@
     "weight": 1
   },
   {
-    "id": 3625,
+    "id": 3624,
     "word": "pochoir",
     "alt": "",
     "bee": "three",
@@ -36250,7 +36240,7 @@
     "weight": 1
   },
   {
-    "id": 3626,
+    "id": 3625,
     "word": "glyceraldehyde",
     "alt": "",
     "bee": "three",
@@ -36260,7 +36250,7 @@
     "weight": 1
   },
   {
-    "id": 3627,
+    "id": 3626,
     "word": "hagiographer",
     "alt": "",
     "bee": "three",
@@ -36270,7 +36260,7 @@
     "weight": 1
   },
   {
-    "id": 3628,
+    "id": 3627,
     "word": "syncope",
     "alt": "",
     "bee": "three",
@@ -36280,7 +36270,7 @@
     "weight": 1
   },
   {
-    "id": 3629,
+    "id": 3628,
     "word": "icosahedron",
     "alt": "",
     "bee": "three",
@@ -36290,7 +36280,7 @@
     "weight": 1
   },
   {
-    "id": 3630,
+    "id": 3629,
     "word": "goanna",
     "alt": "",
     "bee": "three",
@@ -36300,7 +36290,7 @@
     "weight": 1
   },
   {
-    "id": 3631,
+    "id": 3630,
     "word": "wassail",
     "alt": "",
     "bee": "three",
@@ -36310,7 +36300,7 @@
     "weight": 1
   },
   {
-    "id": 3632,
+    "id": 3631,
     "word": "ammonite",
     "alt": "",
     "bee": "three",
@@ -36320,7 +36310,7 @@
     "weight": 1
   },
   {
-    "id": 3633,
+    "id": 3632,
     "word": "tanager",
     "alt": "",
     "bee": "three",
@@ -36330,7 +36320,7 @@
     "weight": 1
   },
   {
-    "id": 3634,
+    "id": 3633,
     "word": "pneumatocyst",
     "alt": "",
     "bee": "three",
@@ -36340,7 +36330,7 @@
     "weight": 1
   },
   {
-    "id": 3635,
+    "id": 3634,
     "word": "fortissimo",
     "alt": "",
     "bee": "three",
@@ -36350,7 +36340,7 @@
     "weight": 1
   },
   {
-    "id": 3636,
+    "id": 3635,
     "word": "portmanteau",
     "alt": "",
     "bee": "three",
@@ -36360,7 +36350,7 @@
     "weight": 1
   },
   {
-    "id": 3637,
+    "id": 3636,
     "word": "coaxation",
     "alt": "",
     "bee": "three",
@@ -36370,7 +36360,7 @@
     "weight": 1
   },
   {
-    "id": 3638,
+    "id": 3637,
     "word": "ardoise",
     "alt": "",
     "bee": "three",
@@ -36380,7 +36370,7 @@
     "weight": 1
   },
   {
-    "id": 3639,
+    "id": 3638,
     "word": "farouche",
     "alt": "",
     "bee": "three",
@@ -36390,7 +36380,7 @@
     "weight": 1
   },
   {
-    "id": 3640,
+    "id": 3639,
     "word": "farfalle",
     "alt": "",
     "bee": "three",
@@ -36400,7 +36390,7 @@
     "weight": 1
   },
   {
-    "id": 3641,
+    "id": 3640,
     "word": "ogival",
     "alt": "",
     "bee": "three",
@@ -36410,7 +36400,7 @@
     "weight": 1
   },
   {
-    "id": 3642,
+    "id": 3641,
     "word": "stretto",
     "alt": "",
     "bee": "three",
@@ -36420,7 +36410,7 @@
     "weight": 1
   },
   {
-    "id": 3643,
+    "id": 3642,
     "word": "coccygeal",
     "alt": "",
     "bee": "three",
@@ -36430,7 +36420,7 @@
     "weight": 1
   },
   {
-    "id": 3644,
+    "id": 3643,
     "word": "Diplodocus",
     "alt": "",
     "bee": "three",
@@ -36440,7 +36430,7 @@
     "weight": 1
   },
   {
-    "id": 3645,
+    "id": 3644,
     "word": "tachyon",
     "alt": "",
     "bee": "three",
@@ -36450,7 +36440,7 @@
     "weight": 1
   },
   {
-    "id": 3646,
+    "id": 3645,
     "word": "piccata",
     "alt": "",
     "bee": "three",
@@ -36460,7 +36450,7 @@
     "weight": 1
   },
   {
-    "id": 3647,
+    "id": 3646,
     "word": "isagoge",
     "alt": "",
     "bee": "three",
@@ -36470,7 +36460,7 @@
     "weight": 1
   },
   {
-    "id": 3648,
+    "id": 3647,
     "word": "élan",
     "alt": "",
     "bee": "three",
@@ -36480,7 +36470,7 @@
     "weight": 1
   },
   {
-    "id": 3649,
+    "id": 3648,
     "word": "breviloquence",
     "alt": "",
     "bee": "three",
@@ -36490,7 +36480,7 @@
     "weight": 1
   },
   {
-    "id": 3650,
+    "id": 3649,
     "word": "kalimba",
     "alt": "",
     "bee": "three",
@@ -36500,7 +36490,7 @@
     "weight": 1
   },
   {
-    "id": 3651,
+    "id": 3650,
     "word": "illative",
     "alt": "",
     "bee": "three",
@@ -36510,7 +36500,7 @@
     "weight": 1
   },
   {
-    "id": 3652,
+    "id": 3651,
     "word": "betony",
     "alt": "",
     "bee": "three",
@@ -36520,7 +36510,7 @@
     "weight": 1
   },
   {
-    "id": 3653,
+    "id": 3652,
     "word": "bêtise",
     "alt": "",
     "bee": "three",
@@ -36530,7 +36520,7 @@
     "weight": 1
   },
   {
-    "id": 3654,
+    "id": 3653,
     "word": "transience",
     "alt": "",
     "bee": "three",
@@ -36540,7 +36530,7 @@
     "weight": 1
   },
   {
-    "id": 3655,
+    "id": 3654,
     "word": "frison",
     "alt": "",
     "bee": "three",
@@ -36550,7 +36540,7 @@
     "weight": 1
   },
   {
-    "id": 3656,
+    "id": 3655,
     "word": "flavedo",
     "alt": "",
     "bee": "three",
@@ -36560,7 +36550,7 @@
     "weight": 1
   },
   {
-    "id": 3657,
+    "id": 3656,
     "word": "maquillage",
     "alt": "",
     "bee": "three",
@@ -36570,7 +36560,7 @@
     "weight": 1
   },
   {
-    "id": 3658,
+    "id": 3657,
     "word": "mortadella",
     "alt": "",
     "bee": "three",
@@ -36580,7 +36570,7 @@
     "weight": 1
   },
   {
-    "id": 3659,
+    "id": 3658,
     "word": "stanchion",
     "alt": "",
     "bee": "three",
@@ -36590,7 +36580,7 @@
     "weight": 1
   },
   {
-    "id": 3660,
+    "id": 3659,
     "word": "spirulina",
     "alt": "",
     "bee": "three",
@@ -36600,7 +36590,7 @@
     "weight": 1
   },
   {
-    "id": 3661,
+    "id": 3660,
     "word": "eleemosynary",
     "alt": "",
     "bee": "three",
@@ -36610,7 +36600,7 @@
     "weight": 1
   },
   {
-    "id": 3662,
+    "id": 3661,
     "word": "force-majeure",
     "alt": "",
     "bee": "three",
@@ -36620,7 +36610,7 @@
     "weight": 1
   },
   {
-    "id": 3663,
+    "id": 3662,
     "word": "ossicle",
     "alt": "",
     "bee": "three",
@@ -36630,7 +36620,7 @@
     "weight": 1
   },
   {
-    "id": 3664,
+    "id": 3663,
     "word": "anemone",
     "alt": "",
     "bee": "three",
@@ -36640,7 +36630,7 @@
     "weight": 1
   },
   {
-    "id": 3665,
+    "id": 3664,
     "word": "alpargata",
     "alt": "",
     "bee": "three",
@@ -36650,7 +36640,7 @@
     "weight": 1
   },
   {
-    "id": 3666,
+    "id": 3665,
     "word": "disembogue",
     "alt": "",
     "bee": "three",
@@ -36660,7 +36650,7 @@
     "weight": 1
   },
   {
-    "id": 3667,
+    "id": 3666,
     "word": "luculent",
     "alt": "",
     "bee": "three",
@@ -36670,7 +36660,7 @@
     "weight": 1
   },
   {
-    "id": 3668,
+    "id": 3667,
     "word": "expatiate",
     "alt": "",
     "bee": "three",
@@ -36680,7 +36670,7 @@
     "weight": 1
   },
   {
-    "id": 3669,
+    "id": 3668,
     "word": "xerogel",
     "alt": "",
     "bee": "three",
@@ -36690,7 +36680,7 @@
     "weight": 1
   },
   {
-    "id": 3670,
+    "id": 3669,
     "word": "vizierial",
     "alt": "",
     "bee": "three",
@@ -36700,7 +36690,7 @@
     "weight": 1
   },
   {
-    "id": 3671,
+    "id": 3670,
     "word": "crescive",
     "alt": "",
     "bee": "three",
@@ -36710,7 +36700,7 @@
     "weight": 1
   },
   {
-    "id": 3672,
+    "id": 3671,
     "word": "tryptophan",
     "alt": "",
     "bee": "three",
@@ -36720,7 +36710,7 @@
     "weight": 1
   },
   {
-    "id": 3673,
+    "id": 3672,
     "word": "neophyte",
     "alt": "",
     "bee": "three",
@@ -36730,7 +36720,7 @@
     "weight": 1
   },
   {
-    "id": 3674,
+    "id": 3673,
     "word": "buffa",
     "alt": "",
     "bee": "three",
@@ -36740,7 +36730,7 @@
     "weight": 1
   },
   {
-    "id": 3675,
+    "id": 3674,
     "word": "clavichord",
     "alt": "",
     "bee": "three",
@@ -36750,7 +36740,7 @@
     "weight": 1
   },
   {
-    "id": 3676,
+    "id": 3675,
     "word": "de-rigueur",
     "alt": "",
     "bee": "three",
@@ -36760,7 +36750,7 @@
     "weight": 1
   },
   {
-    "id": 3677,
+    "id": 3676,
     "word": "secant",
     "alt": "",
     "bee": "three",
@@ -36770,7 +36760,7 @@
     "weight": 1
   },
   {
-    "id": 3678,
+    "id": 3677,
     "word": "comanchero",
     "alt": "",
     "bee": "three",
@@ -36780,7 +36770,7 @@
     "weight": 1
   },
   {
-    "id": 3679,
+    "id": 3678,
     "word": "meiosis",
     "alt": "",
     "bee": "three",
@@ -36790,7 +36780,7 @@
     "weight": 1
   },
   {
-    "id": 3680,
+    "id": 3679,
     "word": "gules",
     "alt": "",
     "bee": "three",
@@ -36800,7 +36790,7 @@
     "weight": 1
   },
   {
-    "id": 3681,
+    "id": 3680,
     "word": "nimiety",
     "alt": "",
     "bee": "three",
@@ -36810,7 +36800,7 @@
     "weight": 1
   },
   {
-    "id": 3682,
+    "id": 3681,
     "word": "lokelani",
     "alt": "",
     "bee": "three",
@@ -36820,7 +36810,7 @@
     "weight": 1
   },
   {
-    "id": 3683,
+    "id": 3682,
     "word": "psoriasis",
     "alt": "",
     "bee": "three",
@@ -36830,7 +36820,7 @@
     "weight": 1
   },
   {
-    "id": 3684,
+    "id": 3683,
     "word": "bavardage",
     "alt": "",
     "bee": "three",
@@ -36840,7 +36830,7 @@
     "weight": 1
   },
   {
-    "id": 3685,
+    "id": 3684,
     "word": "coulibiac",
     "alt": "",
     "bee": "three",
@@ -36850,7 +36840,7 @@
     "weight": 1
   },
   {
-    "id": 3686,
+    "id": 3685,
     "word": "xyloglyphy",
     "alt": "",
     "bee": "three",
@@ -36860,7 +36850,7 @@
     "weight": 1
   },
   {
-    "id": 3687,
+    "id": 3686,
     "word": "Aramaic",
     "alt": "",
     "bee": "three",
@@ -36870,7 +36860,7 @@
     "weight": 1
   },
   {
-    "id": 3688,
+    "id": 3687,
     "word": "anathema",
     "alt": "",
     "bee": "three",
@@ -36880,7 +36870,7 @@
     "weight": 1
   },
   {
-    "id": 3689,
+    "id": 3688,
     "word": "basilica",
     "alt": "",
     "bee": "three",
@@ -36890,7 +36880,7 @@
     "weight": 1
   },
   {
-    "id": 3690,
+    "id": 3689,
     "word": "rajpramukh",
     "alt": "",
     "bee": "three",
@@ -36900,7 +36890,7 @@
     "weight": 1
   },
   {
-    "id": 3691,
+    "id": 3690,
     "word": "Chalcolithic",
     "alt": "",
     "bee": "three",
@@ -36910,7 +36900,7 @@
     "weight": 1
   },
   {
-    "id": 3692,
+    "id": 3691,
     "word": "rinceau",
     "alt": "",
     "bee": "three",
@@ -36920,7 +36910,7 @@
     "weight": 1
   },
   {
-    "id": 3693,
+    "id": 3692,
     "word": "filar",
     "alt": "",
     "bee": "three",
@@ -36930,7 +36920,7 @@
     "weight": 1
   },
   {
-    "id": 3694,
+    "id": 3693,
     "word": "bhangra",
     "alt": "",
     "bee": "three",
@@ -36940,7 +36930,7 @@
     "weight": 1
   },
   {
-    "id": 3695,
+    "id": 3694,
     "word": "risorgimento",
     "alt": "",
     "bee": "three",
@@ -36950,7 +36940,7 @@
     "weight": 1
   },
   {
-    "id": 3696,
+    "id": 3695,
     "word": "agalma",
     "alt": "",
     "bee": "three",
@@ -36960,7 +36950,7 @@
     "weight": 1
   },
   {
-    "id": 3697,
+    "id": 3696,
     "word": "analgesia",
     "alt": "",
     "bee": "three",
@@ -36970,7 +36960,7 @@
     "weight": 1
   },
   {
-    "id": 3698,
+    "id": 3697,
     "word": "dengue",
     "alt": "",
     "bee": "three",
@@ -36980,7 +36970,7 @@
     "weight": 1
   },
   {
-    "id": 3699,
+    "id": 3698,
     "word": "cantatrice",
     "alt": "",
     "bee": "three",
@@ -36990,7 +36980,7 @@
     "weight": 1
   },
   {
-    "id": 3700,
+    "id": 3699,
     "word": "emollient",
     "alt": "",
     "bee": "three",
@@ -37000,7 +36990,7 @@
     "weight": 1
   },
   {
-    "id": 3701,
+    "id": 3700,
     "word": "parquet",
     "alt": "",
     "bee": "three",
@@ -37010,7 +37000,7 @@
     "weight": 1
   },
   {
-    "id": 3702,
+    "id": 3701,
     "word": "dhurrie",
     "alt": "",
     "bee": "three",
@@ -37020,7 +37010,7 @@
     "weight": 1
   },
   {
-    "id": 3703,
+    "id": 3702,
     "word": "lapidary",
     "alt": "",
     "bee": "three",
@@ -37030,7 +37020,7 @@
     "weight": 1
   },
   {
-    "id": 3704,
+    "id": 3703,
     "word": "cachexia",
     "alt": "",
     "bee": "three",
@@ -37040,7 +37030,7 @@
     "weight": 1
   },
   {
-    "id": 3705,
+    "id": 3704,
     "word": "connoisseur",
     "alt": "",
     "bee": "three",
@@ -37050,7 +37040,7 @@
     "weight": 1
   },
   {
-    "id": 3706,
+    "id": 3705,
     "word": "ferruginous",
     "alt": "",
     "bee": "three",
@@ -37060,7 +37050,7 @@
     "weight": 1
   },
   {
-    "id": 3707,
+    "id": 3706,
     "word": "gendarme",
     "alt": "",
     "bee": "three",
@@ -37070,7 +37060,7 @@
     "weight": 1
   },
   {
-    "id": 3708,
+    "id": 3707,
     "word": "demulcent",
     "alt": "",
     "bee": "three",
@@ -37080,7 +37070,7 @@
     "weight": 1
   },
   {
-    "id": 3709,
+    "id": 3708,
     "word": "goosander",
     "alt": "",
     "bee": "three",
@@ -37090,7 +37080,7 @@
     "weight": 1
   },
   {
-    "id": 3710,
+    "id": 3709,
     "word": "kwashiorkor",
     "alt": "",
     "bee": "three",
@@ -37100,7 +37090,7 @@
     "weight": 1
   },
   {
-    "id": 3711,
+    "id": 3710,
     "word": "lecithin",
     "alt": "",
     "bee": "three",
@@ -37110,7 +37100,7 @@
     "weight": 1
   },
   {
-    "id": 3712,
+    "id": 3711,
     "word": "cetology",
     "alt": "",
     "bee": "three",
@@ -37120,7 +37110,7 @@
     "weight": 1
   },
   {
-    "id": 3713,
+    "id": 3712,
     "word": "plenipotentiary",
     "alt": "",
     "bee": "three",
@@ -37130,7 +37120,7 @@
     "weight": 1
   },
   {
-    "id": 3714,
+    "id": 3713,
     "word": "foudroyant",
     "alt": "",
     "bee": "three",
@@ -37140,7 +37130,7 @@
     "weight": 1
   },
   {
-    "id": 3715,
+    "id": 3714,
     "word": "sesquipedalian",
     "alt": "",
     "bee": "three",
@@ -37150,7 +37140,7 @@
     "weight": 1
   },
   {
-    "id": 3716,
+    "id": 3715,
     "word": "expugnable",
     "alt": "",
     "bee": "three",
@@ -37160,7 +37150,7 @@
     "weight": 1
   },
   {
-    "id": 3717,
+    "id": 3716,
     "word": "profligacy",
     "alt": "",
     "bee": "three",
@@ -37170,7 +37160,7 @@
     "weight": 1
   },
   {
-    "id": 3718,
+    "id": 3717,
     "word": "yosenabe",
     "alt": "",
     "bee": "three",
@@ -37180,7 +37170,7 @@
     "weight": 1
   },
   {
-    "id": 3719,
+    "id": 3718,
     "word": "funori",
     "alt": "",
     "bee": "three",
@@ -37190,7 +37180,7 @@
     "weight": 1
   },
   {
-    "id": 3720,
+    "id": 3719,
     "word": "piloncillo",
     "alt": "",
     "bee": "three",
@@ -37200,7 +37190,7 @@
     "weight": 1
   },
   {
-    "id": 3721,
+    "id": 3720,
     "word": "xiphias",
     "alt": "",
     "bee": "three",
@@ -37210,7 +37200,7 @@
     "weight": 1
   },
   {
-    "id": 3722,
+    "id": 3721,
     "word": "étouffée",
     "alt": "etouffee",
     "bee": "three",
@@ -37220,7 +37210,7 @@
     "weight": 1
   },
   {
-    "id": 3723,
+    "id": 3722,
     "word": "degauss",
     "alt": "",
     "bee": "three",
@@ -37230,7 +37220,7 @@
     "weight": 1
   },
   {
-    "id": 3724,
+    "id": 3723,
     "word": "tussock",
     "alt": "",
     "bee": "three",
@@ -37240,7 +37230,7 @@
     "weight": 1
   },
   {
-    "id": 3725,
+    "id": 3724,
     "word": "lanolated",
     "alt": "",
     "bee": "three",
@@ -37250,7 +37240,7 @@
     "weight": 1
   },
   {
-    "id": 3726,
+    "id": 3725,
     "word": "linnet",
     "alt": "",
     "bee": "three",
@@ -37260,7 +37250,7 @@
     "weight": 1
   },
   {
-    "id": 3727,
+    "id": 3726,
     "word": "embouchure",
     "alt": "",
     "bee": "three",
@@ -37270,7 +37260,7 @@
     "weight": 1
   },
   {
-    "id": 3728,
+    "id": 3727,
     "word": "plangency",
     "alt": "",
     "bee": "three",
@@ -37280,7 +37270,7 @@
     "weight": 1
   },
   {
-    "id": 3729,
+    "id": 3728,
     "word": "apocryphal",
     "alt": "",
     "bee": "three",
@@ -37290,7 +37280,7 @@
     "weight": 1
   },
   {
-    "id": 3730,
+    "id": 3729,
     "word": "tamarack",
     "alt": "",
     "bee": "three",
@@ -37300,7 +37290,7 @@
     "weight": 1
   },
   {
-    "id": 3731,
+    "id": 3730,
     "word": "puerilely",
     "alt": "",
     "bee": "three",
@@ -37310,7 +37300,7 @@
     "weight": 1
   },
   {
-    "id": 3732,
+    "id": 3731,
     "word": "obloquy",
     "alt": "",
     "bee": "three",
@@ -37320,7 +37310,7 @@
     "weight": 1
   },
   {
-    "id": 3733,
+    "id": 3732,
     "word": "dhole",
     "alt": "",
     "bee": "three",
@@ -37330,7 +37320,7 @@
     "weight": 1
   },
   {
-    "id": 3734,
+    "id": 3733,
     "word": "budgerigar",
     "alt": "budgereegah",
     "bee": "three",
@@ -37340,7 +37330,7 @@
     "weight": 1
   },
   {
-    "id": 3735,
+    "id": 3734,
     "word": "budgereegah",
     "alt": "budgerygah",
     "bee": "three",
@@ -37350,7 +37340,7 @@
     "weight": 1
   },
   {
-    "id": 3736,
+    "id": 3735,
     "word": "outré",
     "alt": "",
     "bee": "three",
@@ -37360,7 +37350,7 @@
     "weight": 1
   },
   {
-    "id": 3737,
+    "id": 3736,
     "word": "ululate",
     "alt": "",
     "bee": "three",
@@ -37370,7 +37360,7 @@
     "weight": 1
   },
   {
-    "id": 3738,
+    "id": 3737,
     "word": "sororal",
     "alt": "",
     "bee": "three",
@@ -37380,7 +37370,7 @@
     "weight": 1
   },
   {
-    "id": 3739,
+    "id": 3738,
     "word": "epideictic",
     "alt": "",
     "bee": "three",
@@ -37390,7 +37380,7 @@
     "weight": 1
   },
   {
-    "id": 3740,
+    "id": 3739,
     "word": "embolus",
     "alt": "",
     "bee": "three",
@@ -37400,7 +37390,7 @@
     "weight": 1
   },
   {
-    "id": 3741,
+    "id": 3740,
     "word": "caveola",
     "alt": "",
     "bee": "three",
@@ -37410,7 +37400,7 @@
     "weight": 1
   },
   {
-    "id": 3742,
+    "id": 3741,
     "word": "farina",
     "alt": "",
     "bee": "three",
@@ -37420,7 +37410,7 @@
     "weight": 1
   },
   {
-    "id": 3743,
+    "id": 3742,
     "word": "heuristic",
     "alt": "",
     "bee": "three",
@@ -37430,7 +37420,7 @@
     "weight": 1
   },
   {
-    "id": 3744,
+    "id": 3743,
     "word": "nudibranch",
     "alt": "",
     "bee": "three",
@@ -37440,7 +37430,7 @@
     "weight": 1
   },
   {
-    "id": 3745,
+    "id": 3744,
     "word": "triquetra",
     "alt": "",
     "bee": "three",
@@ -37450,7 +37440,7 @@
     "weight": 1
   },
   {
-    "id": 3746,
+    "id": 3745,
     "word": "paramahamsa",
     "alt": "",
     "bee": "three",
@@ -37460,7 +37450,7 @@
     "weight": 1
   },
   {
-    "id": 3747,
+    "id": 3746,
     "word": "duello",
     "alt": "",
     "bee": "three",
@@ -37470,7 +37460,7 @@
     "weight": 1
   },
   {
-    "id": 3748,
+    "id": 3747,
     "word": "fjeld",
     "alt": "",
     "bee": "three",
@@ -37480,7 +37470,7 @@
     "weight": 1
   },
   {
-    "id": 3749,
+    "id": 3748,
     "word": "tomography",
     "alt": "",
     "bee": "three",
@@ -37490,7 +37480,7 @@
     "weight": 1
   },
   {
-    "id": 3750,
+    "id": 3749,
     "word": "effleurage",
     "alt": "",
     "bee": "three",
@@ -37500,7 +37490,7 @@
     "weight": 1
   },
   {
-    "id": 3751,
+    "id": 3750,
     "word": "chastushka",
     "alt": "",
     "bee": "three",
@@ -37510,7 +37500,7 @@
     "weight": 1
   },
   {
-    "id": 3752,
+    "id": 3751,
     "word": "bergère",
     "alt": "",
     "bee": "three",
@@ -37520,7 +37510,7 @@
     "weight": 1
   },
   {
-    "id": 3753,
+    "id": 3752,
     "word": "Erewhonian",
     "alt": "",
     "bee": "three",
@@ -37530,7 +37520,7 @@
     "weight": 1
   },
   {
-    "id": 3754,
+    "id": 3753,
     "word": "rhyton",
     "alt": "",
     "bee": "three",
@@ -37540,7 +37530,7 @@
     "weight": 1
   },
   {
-    "id": 3755,
+    "id": 3754,
     "word": "orogeny",
     "alt": "",
     "bee": "three",
@@ -37550,7 +37540,7 @@
     "weight": 1
   },
   {
-    "id": 3756,
+    "id": 3755,
     "word": "Pepysian",
     "alt": "",
     "bee": "three",
@@ -37560,7 +37550,7 @@
     "weight": 1
   },
   {
-    "id": 3757,
+    "id": 3756,
     "word": "esplanade",
     "alt": "",
     "bee": "three",
@@ -37570,7 +37560,7 @@
     "weight": 1
   },
   {
-    "id": 3758,
+    "id": 3757,
     "word": "gesellschaft",
     "alt": "",
     "bee": "three",
@@ -37580,7 +37570,7 @@
     "weight": 1
   },
   {
-    "id": 3759,
+    "id": 3758,
     "word": "tamari",
     "alt": "",
     "bee": "three",
@@ -37590,7 +37580,7 @@
     "weight": 1
   },
   {
-    "id": 3760,
+    "id": 3759,
     "word": "arenaceous",
     "alt": "",
     "bee": "three",
@@ -37600,7 +37590,7 @@
     "weight": 1
   },
   {
-    "id": 3761,
+    "id": 3760,
     "word": "panettone",
     "alt": "",
     "bee": "three",
@@ -37610,7 +37600,7 @@
     "weight": 1
   },
   {
-    "id": 3762,
+    "id": 3761,
     "word": "tmesis",
     "alt": "",
     "bee": "three",
@@ -37620,7 +37610,7 @@
     "weight": 1
   },
   {
-    "id": 3763,
+    "id": 3762,
     "word": "clerihew",
     "alt": "",
     "bee": "three",
@@ -37630,7 +37620,7 @@
     "weight": 1
   },
   {
-    "id": 3764,
+    "id": 3763,
     "word": "tsukupin",
     "alt": "",
     "bee": "three",
@@ -37640,7 +37630,7 @@
     "weight": 1
   },
   {
-    "id": 3765,
+    "id": 3764,
     "word": "katakana",
     "alt": "",
     "bee": "three",
@@ -37650,7 +37640,7 @@
     "weight": 1
   },
   {
-    "id": 3766,
+    "id": 3765,
     "word": "Parmentier",
     "alt": "",
     "bee": "three",
@@ -37660,7 +37650,7 @@
     "weight": 1
   },
   {
-    "id": 3767,
+    "id": 3766,
     "word": "rugose",
     "alt": "",
     "bee": "three",
@@ -37670,7 +37660,7 @@
     "weight": 1
   },
   {
-    "id": 3768,
+    "id": 3767,
     "word": "brume",
     "alt": "",
     "bee": "three",
@@ -37680,7 +37670,7 @@
     "weight": 1
   },
   {
-    "id": 3769,
+    "id": 3768,
     "word": "hiortdahlite",
     "alt": "",
     "bee": "three",
@@ -37690,7 +37680,7 @@
     "weight": 1
   },
   {
-    "id": 3770,
+    "id": 3769,
     "word": "extravasate",
     "alt": "",
     "bee": "three",
@@ -37700,7 +37690,7 @@
     "weight": 1
   },
   {
-    "id": 3771,
+    "id": 3770,
     "word": "incunabula",
     "alt": "",
     "bee": "three",
@@ -37710,7 +37700,7 @@
     "weight": 1
   },
   {
-    "id": 3772,
+    "id": 3771,
     "word": "cordillera",
     "alt": "",
     "bee": "three",
@@ -37720,7 +37710,7 @@
     "weight": 1
   },
   {
-    "id": 3773,
+    "id": 3772,
     "word": "zazen",
     "alt": "",
     "bee": "three",
@@ -37730,7 +37720,7 @@
     "weight": 1
   },
   {
-    "id": 3774,
+    "id": 3773,
     "word": "cabochon",
     "alt": "",
     "bee": "three",
@@ -37740,7 +37730,7 @@
     "weight": 1
   },
   {
-    "id": 3775,
+    "id": 3774,
     "word": "après",
     "alt": "",
     "bee": "three",
@@ -37750,7 +37740,7 @@
     "weight": 1
   },
   {
-    "id": 3776,
+    "id": 3775,
     "word": "zydeco",
     "alt": "",
     "bee": "three",
@@ -37760,7 +37750,7 @@
     "weight": 1
   },
   {
-    "id": 3777,
+    "id": 3776,
     "word": "consanguine",
     "alt": "",
     "bee": "three",
@@ -37770,7 +37760,7 @@
     "weight": 1
   },
   {
-    "id": 3778,
+    "id": 3777,
     "word": "bibimbap",
     "alt": "",
     "bee": "three",
@@ -37780,7 +37770,7 @@
     "weight": 1
   },
   {
-    "id": 3779,
+    "id": 3778,
     "word": "aquiclude",
     "alt": "",
     "bee": "three",
@@ -37790,7 +37780,7 @@
     "weight": 1
   },
   {
-    "id": 3780,
+    "id": 3779,
     "word": "demitasse",
     "alt": "",
     "bee": "three",
@@ -37800,7 +37790,7 @@
     "weight": 1
   },
   {
-    "id": 3781,
+    "id": 3780,
     "word": "tomalley",
     "alt": "",
     "bee": "three",
@@ -37810,7 +37800,7 @@
     "weight": 1
   },
   {
-    "id": 3782,
+    "id": 3781,
     "word": "bouffant",
     "alt": "",
     "bee": "three",
@@ -37820,7 +37810,7 @@
     "weight": 1
   },
   {
-    "id": 3783,
+    "id": 3782,
     "word": "bas-relief",
     "alt": "",
     "bee": "three",
@@ -37830,7 +37820,7 @@
     "weight": 1
   },
   {
-    "id": 3784,
+    "id": 3783,
     "word": "rhizome",
     "alt": "",
     "bee": "three",
@@ -37840,7 +37830,7 @@
     "weight": 1
   },
   {
-    "id": 3785,
+    "id": 3784,
     "word": "Wensleydale",
     "alt": "",
     "bee": "three",
@@ -37850,7 +37840,7 @@
     "weight": 1
   },
   {
-    "id": 3786,
+    "id": 3785,
     "word": "erubescent",
     "alt": "",
     "bee": "three",
@@ -37860,7 +37850,7 @@
     "weight": 1
   },
   {
-    "id": 3787,
+    "id": 3786,
     "word": "estovers",
     "alt": "",
     "bee": "three",
@@ -37870,7 +37860,7 @@
     "weight": 1
   },
   {
-    "id": 3788,
+    "id": 3787,
     "word": "rembrandt",
     "alt": "",
     "bee": "three",
@@ -37880,7 +37870,7 @@
     "weight": 1
   },
   {
-    "id": 3789,
+    "id": 3788,
     "word": "bonspiel",
     "alt": "",
     "bee": "three",
@@ -37890,7 +37880,7 @@
     "weight": 1
   },
   {
-    "id": 3790,
+    "id": 3789,
     "word": "hackamore",
     "alt": "",
     "bee": "three",
@@ -37900,7 +37890,7 @@
     "weight": 1
   },
   {
-    "id": 3791,
+    "id": 3790,
     "word": "blancmange",
     "alt": "",
     "bee": "three",
@@ -37910,7 +37900,7 @@
     "weight": 1
   },
   {
-    "id": 3792,
+    "id": 3791,
     "word": "simulacrum",
     "alt": "",
     "bee": "three",
@@ -37920,7 +37910,7 @@
     "weight": 1
   },
   {
-    "id": 3793,
+    "id": 3792,
     "word": "cnidarian",
     "alt": "",
     "bee": "three",
@@ -37930,7 +37920,7 @@
     "weight": 1
   },
   {
-    "id": 3794,
+    "id": 3793,
     "word": "capotasto",
     "alt": "",
     "bee": "three",
@@ -37940,7 +37930,7 @@
     "weight": 1
   },
   {
-    "id": 3795,
+    "id": 3794,
     "word": "Panagia",
     "alt": "",
     "bee": "three",
@@ -37950,7 +37940,7 @@
     "weight": 1
   },
   {
-    "id": 3796,
+    "id": 3795,
     "word": "nockerl",
     "alt": "",
     "bee": "three",
@@ -37960,7 +37950,7 @@
     "weight": 1
   },
   {
-    "id": 3797,
+    "id": 3796,
     "word": "rhabdoid",
     "alt": "",
     "bee": "three",
@@ -37970,7 +37960,7 @@
     "weight": 1
   },
   {
-    "id": 3798,
+    "id": 3797,
     "word": "apodyterium",
     "alt": "",
     "bee": "three",
@@ -37980,7 +37970,7 @@
     "weight": 1
   },
   {
-    "id": 3799,
+    "id": 3798,
     "word": "apoplexy",
     "alt": "",
     "bee": "three",
@@ -37990,7 +37980,7 @@
     "weight": 1
   },
   {
-    "id": 3800,
+    "id": 3799,
     "word": "verdure",
     "alt": "",
     "bee": "three",
@@ -38000,7 +37990,7 @@
     "weight": 1
   },
   {
-    "id": 3801,
+    "id": 3800,
     "word": "fait-accompli",
     "alt": "",
     "bee": "three",
@@ -38010,7 +38000,7 @@
     "weight": 1
   },
   {
-    "id": 3802,
+    "id": 3801,
     "word": "dreikanter",
     "alt": "",
     "bee": "three",
@@ -38020,7 +38010,7 @@
     "weight": 1
   },
   {
-    "id": 3803,
+    "id": 3802,
     "word": "penicillin",
     "alt": "",
     "bee": "three",
@@ -38030,7 +38020,7 @@
     "weight": 1
   },
   {
-    "id": 3804,
+    "id": 3803,
     "word": "pendeloque",
     "alt": "",
     "bee": "three",
@@ -38040,7 +38030,7 @@
     "weight": 1
   },
   {
-    "id": 3805,
+    "id": 3804,
     "word": "beelzebub",
     "alt": "",
     "bee": "three",
@@ -38050,7 +38040,7 @@
     "weight": 1
   },
   {
-    "id": 3806,
+    "id": 3805,
     "word": "rhinorrhagia",
     "alt": "",
     "bee": "three",
@@ -38060,7 +38050,7 @@
     "weight": 1
   },
   {
-    "id": 3807,
+    "id": 3806,
     "word": "foley",
     "alt": "",
     "bee": "three",
@@ -38070,7 +38060,7 @@
     "weight": 1
   },
   {
-    "id": 3808,
+    "id": 3807,
     "word": "syzygy",
     "alt": "",
     "bee": "three",
@@ -38080,7 +38070,7 @@
     "weight": 1
   },
   {
-    "id": 3809,
+    "id": 3808,
     "word": "Beethovenian",
     "alt": "",
     "bee": "three",
@@ -38090,7 +38080,7 @@
     "weight": 1
   },
   {
-    "id": 3810,
+    "id": 3809,
     "word": "tatterdemalion",
     "alt": "",
     "bee": "three",
@@ -38100,7 +38090,7 @@
     "weight": 1
   },
   {
-    "id": 3811,
+    "id": 3810,
     "word": "susurrus",
     "alt": "",
     "bee": "three",
@@ -38110,7 +38100,7 @@
     "weight": 1
   },
   {
-    "id": 3812,
+    "id": 3811,
     "word": "bienvenue",
     "alt": "bienvenu",
     "bee": "three",
@@ -38120,7 +38110,7 @@
     "weight": 1
   },
   {
-    "id": 3813,
+    "id": 3812,
     "word": "potwalloper",
     "alt": "",
     "bee": "three",
@@ -38130,7 +38120,7 @@
     "weight": 1
   },
   {
-    "id": 3814,
+    "id": 3813,
     "word": "kaffeeklatsch",
     "alt": "",
     "bee": "three",
@@ -38140,7 +38130,7 @@
     "weight": 1
   },
   {
-    "id": 3815,
+    "id": 3814,
     "word": "peregrination",
     "alt": "",
     "bee": "three",
@@ -38150,7 +38140,7 @@
     "weight": 1
   },
   {
-    "id": 3816,
+    "id": 3815,
     "word": "paraquat",
     "alt": "",
     "bee": "three",
@@ -38160,7 +38150,7 @@
     "weight": 1
   },
   {
-    "id": 3817,
+    "id": 3816,
     "word": "prana",
     "alt": "",
     "bee": "three",
@@ -38170,7 +38160,7 @@
     "weight": 1
   },
   {
-    "id": 3818,
+    "id": 3817,
     "word": "sinciput",
     "alt": "",
     "bee": "three",
@@ -38180,7 +38170,7 @@
     "weight": 1
   },
   {
-    "id": 3819,
+    "id": 3818,
     "word": "abattoir",
     "alt": "",
     "bee": "three",
@@ -38190,7 +38180,7 @@
     "weight": 1
   },
   {
-    "id": 3820,
+    "id": 3819,
     "word": "glossopetrae",
     "alt": "",
     "bee": "three",
@@ -38200,7 +38190,7 @@
     "weight": 1
   },
   {
-    "id": 3821,
+    "id": 3820,
     "word": "diktat",
     "alt": "",
     "bee": "three",
@@ -38210,7 +38200,7 @@
     "weight": 1
   },
   {
-    "id": 3822,
+    "id": 3821,
     "word": "llanero",
     "alt": "",
     "bee": "three",
@@ -38220,7 +38210,7 @@
     "weight": 1
   },
   {
-    "id": 3823,
+    "id": 3822,
     "word": "Machiavellian",
     "alt": "",
     "bee": "three",
@@ -38230,7 +38220,7 @@
     "weight": 1
   },
   {
-    "id": 3824,
+    "id": 3823,
     "word": "glaucomatous",
     "alt": "",
     "bee": "three",
@@ -38240,7 +38230,7 @@
     "weight": 1
   },
   {
-    "id": 3825,
+    "id": 3824,
     "word": "haori",
     "alt": "",
     "bee": "three",
@@ -38250,7 +38240,7 @@
     "weight": 1
   },
   {
-    "id": 3826,
+    "id": 3825,
     "word": "rheostat",
     "alt": "",
     "bee": "three",
@@ -38260,7 +38250,7 @@
     "weight": 1
   },
   {
-    "id": 3827,
+    "id": 3826,
     "word": "hariolation",
     "alt": "",
     "bee": "three",
@@ -38270,7 +38260,7 @@
     "weight": 1
   },
   {
-    "id": 3828,
+    "id": 3827,
     "word": "thylacine",
     "alt": "",
     "bee": "three",
@@ -38280,7 +38270,7 @@
     "weight": 1
   },
   {
-    "id": 3829,
+    "id": 3828,
     "word": "cenote",
     "alt": "",
     "bee": "three",
@@ -38290,7 +38280,7 @@
     "weight": 1
   },
   {
-    "id": 3830,
+    "id": 3829,
     "word": "griffonage",
     "alt": "",
     "bee": "three",
@@ -38300,7 +38290,7 @@
     "weight": 1
   },
   {
-    "id": 3831,
+    "id": 3830,
     "word": "fossiliferous",
     "alt": "",
     "bee": "three",
@@ -38310,7 +38300,7 @@
     "weight": 1
   },
   {
-    "id": 3832,
+    "id": 3831,
     "word": "calefacient",
     "alt": "",
     "bee": "three",
@@ -38320,7 +38310,7 @@
     "weight": 1
   },
   {
-    "id": 3833,
+    "id": 3832,
     "word": "obdurate",
     "alt": "",
     "bee": "three",
@@ -38330,7 +38320,7 @@
     "weight": 1
   },
   {
-    "id": 3834,
+    "id": 3833,
     "word": "nunchaku",
     "alt": "",
     "bee": "three",
@@ -38340,7 +38330,7 @@
     "weight": 1
   },
   {
-    "id": 3835,
+    "id": 3834,
     "word": "senryu",
     "alt": "",
     "bee": "three",
@@ -38350,7 +38340,7 @@
     "weight": 1
   },
   {
-    "id": 3836,
+    "id": 3835,
     "word": "cormorant",
     "alt": "",
     "bee": "three",
@@ -38360,7 +38350,7 @@
     "weight": 1
   },
   {
-    "id": 3837,
+    "id": 3836,
     "word": "gnomon",
     "alt": "",
     "bee": "three",
@@ -38370,7 +38360,7 @@
     "weight": 1
   },
   {
-    "id": 3838,
+    "id": 3837,
     "word": "pinetum",
     "alt": "",
     "bee": "three",
@@ -38380,7 +38370,7 @@
     "weight": 1
   },
   {
-    "id": 3839,
+    "id": 3838,
     "word": "brucellosis",
     "alt": "",
     "bee": "three",
@@ -38390,7 +38380,7 @@
     "weight": 1
   },
   {
-    "id": 3840,
+    "id": 3839,
     "word": "wasteweir",
     "alt": "",
     "bee": "three",
@@ -38400,7 +38390,7 @@
     "weight": 1
   },
   {
-    "id": 3841,
+    "id": 3840,
     "word": "diamanté",
     "alt": "",
     "bee": "three",
@@ -38410,7 +38400,7 @@
     "weight": 1
   },
   {
-    "id": 3842,
+    "id": 3841,
     "word": "sphygmometer",
     "alt": "",
     "bee": "three",
@@ -38420,7 +38410,7 @@
     "weight": 1
   },
   {
-    "id": 3843,
+    "id": 3842,
     "word": "kibitzer",
     "alt": "kibbitzer",
     "bee": "three",
@@ -38430,7 +38420,7 @@
     "weight": 1
   },
   {
-    "id": 3844,
+    "id": 3843,
     "word": "auteur",
     "alt": "",
     "bee": "three",
@@ -38440,7 +38430,7 @@
     "weight": 1
   },
   {
-    "id": 3845,
+    "id": 3844,
     "word": "labefaction",
     "alt": "",
     "bee": "three",
@@ -38450,7 +38440,7 @@
     "weight": 1
   },
   {
-    "id": 3846,
+    "id": 3845,
     "word": "ibidem",
     "alt": "",
     "bee": "three",
@@ -38460,7 +38450,7 @@
     "weight": 1
   },
   {
-    "id": 3847,
+    "id": 3846,
     "word": "estival",
     "alt": "aestival",
     "bee": "three",
@@ -38470,7 +38460,7 @@
     "weight": 1
   },
   {
-    "id": 3848,
+    "id": 3847,
     "word": "loup-garou",
     "alt": "",
     "bee": "three",
@@ -38480,7 +38470,7 @@
     "weight": 1
   },
   {
-    "id": 3849,
+    "id": 3848,
     "word": "empennage",
     "alt": "",
     "bee": "three",
@@ -38490,7 +38480,7 @@
     "weight": 1
   },
   {
-    "id": 3850,
+    "id": 3849,
     "word": "lysozyme",
     "alt": "",
     "bee": "three",
@@ -38500,7 +38490,7 @@
     "weight": 1
   },
   {
-    "id": 3851,
+    "id": 3850,
     "word": "grimthorpe",
     "alt": "",
     "bee": "three",
@@ -38510,7 +38500,7 @@
     "weight": 1
   },
   {
-    "id": 3852,
+    "id": 3851,
     "word": "thaumaturge",
     "alt": "",
     "bee": "three",
@@ -38520,7 +38510,7 @@
     "weight": 1
   },
   {
-    "id": 3853,
+    "id": 3852,
     "word": "pinioned",
     "alt": "",
     "bee": "three",
@@ -38530,7 +38520,7 @@
     "weight": 1
   },
   {
-    "id": 3854,
+    "id": 3853,
     "word": "fouetté",
     "alt": "",
     "bee": "three",
@@ -38540,7 +38530,7 @@
     "weight": 1
   },
   {
-    "id": 3855,
+    "id": 3854,
     "word": "venenate",
     "alt": "",
     "bee": "three",
@@ -38550,7 +38540,7 @@
     "weight": 1
   },
   {
-    "id": 3856,
+    "id": 3855,
     "word": "badinage",
     "alt": "",
     "bee": "three",
@@ -38560,7 +38550,7 @@
     "weight": 1
   },
   {
-    "id": 3857,
+    "id": 3856,
     "word": "saccadic",
     "alt": "",
     "bee": "three",
@@ -38570,7 +38560,7 @@
     "weight": 1
   },
   {
-    "id": 3858,
+    "id": 3857,
     "word": "mignonette",
     "alt": "",
     "bee": "three",
@@ -38580,7 +38570,7 @@
     "weight": 1
   },
   {
-    "id": 3859,
+    "id": 3858,
     "word": "coadjutor",
     "alt": "",
     "bee": "three",
@@ -38590,7 +38580,7 @@
     "weight": 1
   },
   {
-    "id": 3860,
+    "id": 3859,
     "word": "chiffonade",
     "alt": "",
     "bee": "three",
@@ -38600,7 +38590,7 @@
     "weight": 1
   },
   {
-    "id": 3861,
+    "id": 3860,
     "word": "haricot",
     "alt": "",
     "bee": "three",
@@ -38610,7 +38600,7 @@
     "weight": 1
   },
   {
-    "id": 3862,
+    "id": 3861,
     "word": "Luddite",
     "alt": "",
     "bee": "three",
@@ -38620,7 +38610,7 @@
     "weight": 1
   },
   {
-    "id": 3863,
+    "id": 3862,
     "word": "wickiup",
     "alt": "",
     "bee": "three",
@@ -38630,7 +38620,7 @@
     "weight": 1
   },
   {
-    "id": 3864,
+    "id": 3863,
     "word": "nisse",
     "alt": "",
     "bee": "three",
@@ -38640,7 +38630,7 @@
     "weight": 1
   },
   {
-    "id": 3865,
+    "id": 3864,
     "word": "impugn",
     "alt": "",
     "bee": "three",
@@ -38650,7 +38640,7 @@
     "weight": 1
   },
   {
-    "id": 3866,
+    "id": 3865,
     "word": "brouillon",
     "alt": "",
     "bee": "three",
@@ -38660,7 +38650,7 @@
     "weight": 1
   },
   {
-    "id": 3867,
+    "id": 3866,
     "word": "derecho",
     "alt": "",
     "bee": "three",
@@ -38670,7 +38660,7 @@
     "weight": 1
   },
   {
-    "id": 3868,
+    "id": 3867,
     "word": "solipsist",
     "alt": "",
     "bee": "three",
@@ -38680,7 +38670,7 @@
     "weight": 1
   },
   {
-    "id": 3869,
+    "id": 3868,
     "word": "sinophile",
     "alt": "",
     "bee": "three",
@@ -38690,7 +38680,7 @@
     "weight": 1
   },
   {
-    "id": 3870,
+    "id": 3869,
     "word": "harmattan",
     "alt": "",
     "bee": "three",
@@ -38700,7 +38690,7 @@
     "weight": 1
   },
   {
-    "id": 3871,
+    "id": 3870,
     "word": "incarnadine",
     "alt": "encarnadine",
     "bee": "three",
@@ -38710,7 +38700,7 @@
     "weight": 1
   },
   {
-    "id": 3872,
+    "id": 3871,
     "word": "dulcinea",
     "alt": "",
     "bee": "three",
@@ -38720,7 +38710,7 @@
     "weight": 1
   },
   {
-    "id": 3873,
+    "id": 3872,
     "word": "nainsook",
     "alt": "",
     "bee": "three",
@@ -38730,7 +38720,7 @@
     "weight": 1
   },
   {
-    "id": 3874,
+    "id": 3873,
     "word": "querida",
     "alt": "",
     "bee": "three",
@@ -38740,7 +38730,7 @@
     "weight": 1
   },
   {
-    "id": 3875,
+    "id": 3874,
     "word": "paillard",
     "alt": "",
     "bee": "three",
@@ -38750,7 +38740,7 @@
     "weight": 1
   },
   {
-    "id": 3876,
+    "id": 3875,
     "word": "gazoz",
     "alt": "",
     "bee": "three",
@@ -38760,7 +38750,7 @@
     "weight": 1
   },
   {
-    "id": 3877,
+    "id": 3876,
     "word": "Glaswegian",
     "alt": "",
     "bee": "three",
@@ -38770,7 +38760,7 @@
     "weight": 1
   },
   {
-    "id": 3878,
+    "id": 3877,
     "word": "stannum",
     "alt": "",
     "bee": "three",
@@ -38780,7 +38770,7 @@
     "weight": 1
   },
   {
-    "id": 3879,
+    "id": 3878,
     "word": "putsch",
     "alt": "",
     "bee": "three",
@@ -38790,7 +38780,7 @@
     "weight": 1
   },
   {
-    "id": 3880,
+    "id": 3879,
     "word": "tralatitious",
     "alt": "",
     "bee": "three",
@@ -38800,7 +38790,7 @@
     "weight": 1
   },
   {
-    "id": 3881,
+    "id": 3880,
     "word": "denouement",
     "alt": "",
     "bee": "three",
@@ -38810,7 +38800,7 @@
     "weight": 1
   },
   {
-    "id": 3882,
+    "id": 3881,
     "word": "hortatory",
     "alt": "",
     "bee": "three",
@@ -38820,7 +38810,7 @@
     "weight": 1
   },
   {
-    "id": 3883,
+    "id": 3882,
     "word": "maquette",
     "alt": "",
     "bee": "three",
@@ -38830,7 +38820,7 @@
     "weight": 1
   },
   {
-    "id": 3884,
+    "id": 3883,
     "word": "obliviscence",
     "alt": "",
     "bee": "three",
@@ -38840,7 +38830,7 @@
     "weight": 1
   },
   {
-    "id": 3885,
+    "id": 3884,
     "word": "autophagy",
     "alt": "",
     "bee": "three",
@@ -38850,7 +38840,7 @@
     "weight": 1
   },
   {
-    "id": 3886,
+    "id": 3885,
     "word": "Airedale",
     "alt": "",
     "bee": "three",
@@ -38860,7 +38850,7 @@
     "weight": 1
   },
   {
-    "id": 3887,
+    "id": 3886,
     "word": "potager",
     "alt": "",
     "bee": "three",
@@ -38870,7 +38860,7 @@
     "weight": 1
   },
   {
-    "id": 3888,
+    "id": 3887,
     "word": "malleolus",
     "alt": "",
     "bee": "three",
@@ -38880,7 +38870,7 @@
     "weight": 1
   },
   {
-    "id": 3889,
+    "id": 3888,
     "word": "***",
     "alt": "",
     "bee": "three",
@@ -38890,7 +38880,7 @@
     "weight": 1
   },
   {
-    "id": 3890,
+    "id": 3889,
     "word": "marcel",
     "alt": "",
     "bee": "three",
@@ -38900,7 +38890,7 @@
     "weight": 1
   },
   {
-    "id": 3891,
+    "id": 3890,
     "word": "croquignole",
     "alt": "",
     "bee": "three",
@@ -38910,7 +38900,7 @@
     "weight": 1
   },
   {
-    "id": 3892,
+    "id": 3891,
     "word": "dolmen",
     "alt": "",
     "bee": "three",
@@ -38920,7 +38910,7 @@
     "weight": 1
   },
   {
-    "id": 3893,
+    "id": 3892,
     "word": "griot",
     "alt": "",
     "bee": "three",
@@ -38930,7 +38920,7 @@
     "weight": 1
   },
   {
-    "id": 3894,
+    "id": 3893,
     "word": "vexillologist",
     "alt": "",
     "bee": "three",
@@ -38940,7 +38930,7 @@
     "weight": 1
   },
   {
-    "id": 3895,
+    "id": 3894,
     "word": "halala",
     "alt": "halalah",
     "bee": "three",
@@ -38950,7 +38940,7 @@
     "weight": 1
   },
   {
-    "id": 3896,
+    "id": 3895,
     "word": "corybantic",
     "alt": "",
     "bee": "three",
@@ -38960,7 +38950,7 @@
     "weight": 1
   },
   {
-    "id": 3897,
+    "id": 3896,
     "word": "chasuble",
     "alt": "",
     "bee": "three",
@@ -38970,7 +38960,7 @@
     "weight": 1
   },
   {
-    "id": 3898,
+    "id": 3897,
     "word": "furuncle",
     "alt": "",
     "bee": "three",
@@ -38980,7 +38970,7 @@
     "weight": 1
   },
   {
-    "id": 3899,
+    "id": 3898,
     "word": "pongee",
     "alt": "",
     "bee": "three",
@@ -38990,7 +38980,7 @@
     "weight": 1
   },
   {
-    "id": 3900,
+    "id": 3899,
     "word": "acoel",
     "alt": "",
     "bee": "three",
@@ -39000,7 +38990,7 @@
     "weight": 1
   },
   {
-    "id": 3901,
+    "id": 3900,
     "word": "acral",
     "alt": "",
     "bee": "three",
@@ -39010,7 +39000,7 @@
     "weight": 1
   },
   {
-    "id": 3902,
+    "id": 3901,
     "word": "Koine",
     "alt": "",
     "bee": "three",
@@ -39020,7 +39010,7 @@
     "weight": 1
   },
   {
-    "id": 3903,
+    "id": 3902,
     "word": "weka",
     "alt": "",
     "bee": "three",
@@ -39030,7 +39020,7 @@
     "weight": 1
   },
   {
-    "id": 3904,
+    "id": 3903,
     "word": "haplography",
     "alt": "",
     "bee": "three",
@@ -39040,7 +39030,7 @@
     "weight": 1
   },
   {
-    "id": 3905,
+    "id": 3904,
     "word": "Tchefuncte",
     "alt": "",
     "bee": "three",
@@ -39050,7 +39040,7 @@
     "weight": 1
   },
   {
-    "id": 3906,
+    "id": 3905,
     "word": "becquerel",
     "alt": "",
     "bee": "three",
@@ -39060,7 +39050,7 @@
     "weight": 1
   },
   {
-    "id": 3907,
+    "id": 3906,
     "word": "darnel",
     "alt": "",
     "bee": "three",
@@ -39070,7 +39060,7 @@
     "weight": 1
   },
   {
-    "id": 3908,
+    "id": 3907,
     "word": "giallolino",
     "alt": "",
     "bee": "three",
@@ -39080,7 +39070,7 @@
     "weight": 1
   },
   {
-    "id": 3909,
+    "id": 3908,
     "word": "krausen",
     "alt": "",
     "bee": "three",
@@ -39090,7 +39080,7 @@
     "weight": 1
   },
   {
-    "id": 3910,
+    "id": 3909,
     "word": "Castalia",
     "alt": "",
     "bee": "three",
@@ -39100,7 +39090,7 @@
     "weight": 1
   },
   {
-    "id": 3911,
+    "id": 3910,
     "word": "nahcolite",
     "alt": "",
     "bee": "three",
@@ -39110,7 +39100,7 @@
     "weight": 1
   },
   {
-    "id": 3912,
+    "id": 3911,
     "word": "telamon",
     "alt": "",
     "bee": "three",
@@ -39120,7 +39110,7 @@
     "weight": 1
   },
   {
-    "id": 3913,
+    "id": 3912,
     "word": "uraeus",
     "alt": "",
     "bee": "three",
@@ -39130,7 +39120,7 @@
     "weight": 1
   },
   {
-    "id": 3914,
+    "id": 3913,
     "word": "teledu",
     "alt": "",
     "bee": "three",
@@ -39140,7 +39130,7 @@
     "weight": 1
   },
   {
-    "id": 3915,
+    "id": 3914,
     "word": "gattine",
     "alt": "",
     "bee": "three",
@@ -39150,7 +39140,7 @@
     "weight": 1
   },
   {
-    "id": 3916,
+    "id": 3915,
     "word": "mele",
     "alt": "",
     "bee": "three",
@@ -39160,7 +39150,7 @@
     "weight": 1
   },
   {
-    "id": 3917,
+    "id": 3916,
     "word": "Marathi",
     "alt": "",
     "bee": "three",
@@ -39170,7 +39160,7 @@
     "weight": 1
   },
   {
-    "id": 3918,
+    "id": 3917,
     "word": "nuciform",
     "alt": "",
     "bee": "three",
@@ -39180,7 +39170,7 @@
     "weight": 1
   },
   {
-    "id": 3919,
+    "id": 3918,
     "word": "grandrelle",
     "alt": "",
     "bee": "three",
@@ -39190,7 +39180,7 @@
     "weight": 1
   },
   {
-    "id": 3920,
+    "id": 3919,
     "word": "bordereaux",
     "alt": "",
     "bee": "three",
@@ -39200,7 +39190,7 @@
     "weight": 1
   },
   {
-    "id": 3921,
+    "id": 3920,
     "word": "rambla",
     "alt": "",
     "bee": "three",
@@ -39210,7 +39200,7 @@
     "weight": 1
   },
   {
-    "id": 3922,
+    "id": 3921,
     "word": "tullibee",
     "alt": "",
     "bee": "three",
@@ -39220,7 +39210,7 @@
     "weight": 1
   },
   {
-    "id": 3923,
+    "id": 3922,
     "word": "guichet",
     "alt": "",
     "bee": "three",
@@ -39230,7 +39220,7 @@
     "weight": 1
   },
   {
-    "id": 3924,
+    "id": 3923,
     "word": "Guarnerius",
     "alt": "",
     "bee": "three",
@@ -39240,7 +39230,7 @@
     "weight": 1
   },
   {
-    "id": 3925,
+    "id": 3924,
     "word": "unakite",
     "alt": "",
     "bee": "three",
@@ -39250,7 +39240,7 @@
     "weight": 1
   },
   {
-    "id": 3926,
+    "id": 3925,
     "word": "azotea",
     "alt": "",
     "bee": "three",
@@ -39260,7 +39250,7 @@
     "weight": 1
   },
   {
-    "id": 3927,
+    "id": 3926,
     "word": "gabbro",
     "alt": "",
     "bee": "three",
@@ -39270,7 +39260,7 @@
     "weight": 1
   },
   {
-    "id": 3928,
+    "id": 3927,
     "word": "gegenschein",
     "alt": "",
     "bee": "three",
@@ -39280,7 +39270,7 @@
     "weight": 1
   },
   {
-    "id": 3929,
+    "id": 3928,
     "word": "hebdomadal",
     "alt": "",
     "bee": "three",
@@ -39290,7 +39280,7 @@
     "weight": 1
   },
   {
-    "id": 3930,
+    "id": 3929,
     "word": "gypsophila",
     "alt": "",
     "bee": "three",
@@ -39300,7 +39290,7 @@
     "weight": 1
   },
   {
-    "id": 3931,
+    "id": 3930,
     "word": "koh-i-noor",
     "alt": "",
     "bee": "three",
@@ -39310,7 +39300,7 @@
     "weight": 1
   },
   {
-    "id": 3932,
+    "id": 3931,
     "word": "nocive",
     "alt": "",
     "bee": "three",
@@ -39320,7 +39310,7 @@
     "weight": 1
   },
   {
-    "id": 3933,
+    "id": 3932,
     "word": "cataphora",
     "alt": "",
     "bee": "three",
@@ -39330,7 +39320,7 @@
     "weight": 1
   },
   {
-    "id": 3934,
+    "id": 3933,
     "word": "blastema",
     "alt": "",
     "bee": "three",
@@ -39340,7 +39330,7 @@
     "weight": 1
   },
   {
-    "id": 3935,
+    "id": 3934,
     "word": "trochee",
     "alt": "",
     "bee": "three",
@@ -39350,7 +39340,7 @@
     "weight": 1
   },
   {
-    "id": 3936,
+    "id": 3935,
     "word": "diapason",
     "alt": "",
     "bee": "three",
@@ -39360,7 +39350,7 @@
     "weight": 1
   },
   {
-    "id": 3937,
+    "id": 3936,
     "word": "deliquesce",
     "alt": "",
     "bee": "three",
@@ -39370,7 +39360,7 @@
     "weight": 1
   },
   {
-    "id": 3938,
+    "id": 3937,
     "word": "aperçu",
     "alt": "",
     "bee": "three",
@@ -39380,7 +39370,7 @@
     "weight": 1
   },
   {
-    "id": 3939,
+    "id": 3938,
     "word": "cioppino",
     "alt": "",
     "bee": "three",
@@ -39390,7 +39380,7 @@
     "weight": 1
   },
   {
-    "id": 3940,
+    "id": 3939,
     "word": "inglenook",
     "alt": "",
     "bee": "three",
@@ -39400,7 +39390,7 @@
     "weight": 1
   },
   {
-    "id": 3941,
+    "id": 3940,
     "word": "efflux",
     "alt": "",
     "bee": "three",
@@ -39410,7 +39400,7 @@
     "weight": 1
   },
   {
-    "id": 3942,
+    "id": 3941,
     "word": "frugivore",
     "alt": "",
     "bee": "three",
@@ -39420,7 +39410,7 @@
     "weight": 1
   },
   {
-    "id": 3943,
+    "id": 3942,
     "word": "lobscouse",
     "alt": "",
     "bee": "three",
@@ -39430,7 +39420,7 @@
     "weight": 1
   },
   {
-    "id": 3944,
+    "id": 3943,
     "word": "senecio",
     "alt": "",
     "bee": "three",
@@ -39440,7 +39430,7 @@
     "weight": 1
   },
   {
-    "id": 3945,
+    "id": 3944,
     "word": "jasmone",
     "alt": "",
     "bee": "three",
@@ -39450,7 +39440,7 @@
     "weight": 1
   },
   {
-    "id": 3946,
+    "id": 3945,
     "word": "hawok",
     "alt": "",
     "bee": "three",
@@ -39460,7 +39450,7 @@
     "weight": 1
   },
   {
-    "id": 3947,
+    "id": 3946,
     "word": "fructiferous",
     "alt": "",
     "bee": "three",
@@ -39470,7 +39460,7 @@
     "weight": 1
   },
   {
-    "id": 3948,
+    "id": 3947,
     "word": "martinoe",
     "alt": "",
     "bee": "three",
@@ -39480,7 +39470,7 @@
     "weight": 1
   },
   {
-    "id": 3949,
+    "id": 3948,
     "word": "lierre",
     "alt": "",
     "bee": "three",
@@ -39490,7 +39480,7 @@
     "weight": 1
   },
   {
-    "id": 3950,
+    "id": 3949,
     "word": "porwigle",
     "alt": "",
     "bee": "three",
@@ -39500,7 +39490,7 @@
     "weight": 1
   },
   {
-    "id": 3951,
+    "id": 3950,
     "word": "portugais",
     "alt": "",
     "bee": "three",
@@ -39510,7 +39500,7 @@
     "weight": 1
   },
   {
-    "id": 3952,
+    "id": 3951,
     "word": "ligas",
     "alt": "",
     "bee": "three",
@@ -39520,7 +39510,7 @@
     "weight": 1
   },
   {
-    "id": 3953,
+    "id": 3952,
     "word": "Osloite",
     "alt": "",
     "bee": "three",
@@ -39530,7 +39520,7 @@
     "weight": 1
   },
   {
-    "id": 3954,
+    "id": 3953,
     "word": "sciolistic",
     "alt": "",
     "bee": "three",
@@ -39540,7 +39530,7 @@
     "weight": 1
   },
   {
-    "id": 3955,
+    "id": 3954,
     "word": "seraya",
     "alt": "",
     "bee": "three",
@@ -39550,7 +39540,7 @@
     "weight": 1
   },
   {
-    "id": 3956,
+    "id": 3955,
     "word": "janthina",
     "alt": "",
     "bee": "three",
@@ -39560,7 +39550,7 @@
     "weight": 1
   },
   {
-    "id": 3957,
+    "id": 3956,
     "word": "Skeltonic",
     "alt": "",
     "bee": "three",
@@ -39570,7 +39560,7 @@
     "weight": 1
   },
   {
-    "id": 3958,
+    "id": 3957,
     "word": "balata",
     "alt": "",
     "bee": "three",
@@ -39580,7 +39570,7 @@
     "weight": 1
   },
   {
-    "id": 3959,
+    "id": 3958,
     "word": "balbriggan",
     "alt": "",
     "bee": "three",
@@ -39590,7 +39580,7 @@
     "weight": 1
   },
   {
-    "id": 3960,
+    "id": 3959,
     "word": "affeer",
     "alt": "",
     "bee": "three",
@@ -39600,7 +39590,7 @@
     "weight": 1
   },
   {
-    "id": 3961,
+    "id": 3960,
     "word": "pomology",
     "alt": "",
     "bee": "three",
@@ -39610,7 +39600,7 @@
     "weight": 1
   },
   {
-    "id": 3962,
+    "id": 3961,
     "word": "Svengali",
     "alt": "",
     "bee": "three",
@@ -39620,7 +39610,7 @@
     "weight": 1
   },
   {
-    "id": 3963,
+    "id": 3962,
     "word": "escheator",
     "alt": "",
     "bee": "three",
@@ -39630,7 +39620,7 @@
     "weight": 1
   },
   {
-    "id": 3964,
+    "id": 3963,
     "word": "dogana",
     "alt": "",
     "bee": "three",
@@ -39640,7 +39630,7 @@
     "weight": 1
   },
   {
-    "id": 3965,
+    "id": 3964,
     "word": "toorie",
     "alt": "",
     "bee": "three",
@@ -39650,7 +39640,7 @@
     "weight": 1
   },
   {
-    "id": 3966,
+    "id": 3965,
     "word": "exchequer",
     "alt": "",
     "bee": "three",
@@ -39660,7 +39650,7 @@
     "weight": 1
   },
   {
-    "id": 3967,
+    "id": 3966,
     "word": "habeas",
     "alt": "",
     "bee": "three",
@@ -39670,7 +39660,7 @@
     "weight": 1
   },
   {
-    "id": 3968,
+    "id": 3967,
     "word": "corpus",
     "alt": "",
     "bee": "three",
@@ -39680,7 +39670,7 @@
     "weight": 1
   },
   {
-    "id": 3969,
+    "id": 3968,
     "word": "kerril",
     "alt": "",
     "bee": "three",
@@ -39690,7 +39680,7 @@
     "weight": 1
   },
   {
-    "id": 3970,
+    "id": 3969,
     "word": "pudibund",
     "alt": "",
     "bee": "three",
@@ -39700,7 +39690,7 @@
     "weight": 1
   },
   {
-    "id": 3971,
+    "id": 3970,
     "word": "toril",
     "alt": "",
     "bee": "three",
@@ -39710,7 +39700,7 @@
     "weight": 1
   },
   {
-    "id": 3972,
+    "id": 3971,
     "word": "ryas",
     "alt": "",
     "bee": "three",
@@ -39720,7 +39710,7 @@
     "weight": 1
   },
   {
-    "id": 3973,
+    "id": 3972,
     "word": "terai",
     "alt": "",
     "bee": "three",
@@ -39730,7 +39720,7 @@
     "weight": 1
   },
   {
-    "id": 3974,
+    "id": 3973,
     "word": "gabarit",
     "alt": "",
     "bee": "three",
@@ -39740,7 +39730,7 @@
     "weight": 1
   },
   {
-    "id": 3975,
+    "id": 3974,
     "word": "guerite",
     "alt": "",
     "bee": "three",
@@ -39750,7 +39740,7 @@
     "weight": 1
   },
   {
-    "id": 3976,
+    "id": 3975,
     "word": "gallivat",
     "alt": "",
     "bee": "three",
@@ -39760,7 +39750,7 @@
     "weight": 1
   },
   {
-    "id": 3977,
+    "id": 3976,
     "word": "charcuterie",
     "alt": "",
     "bee": "three",
@@ -39770,7 +39760,7 @@
     "weight": 1
   },
   {
-    "id": 3978,
+    "id": 3977,
     "word": "zugzwang",
     "alt": "",
     "bee": "three",
@@ -39780,7 +39770,7 @@
     "weight": 1
   },
   {
-    "id": 3979,
+    "id": 3978,
     "word": "triskelion",
     "alt": "",
     "bee": "three",
@@ -39790,7 +39780,7 @@
     "weight": 1
   },
   {
-    "id": 3980,
+    "id": 3979,
     "word": "crokinole",
     "alt": "",
     "bee": "three",
@@ -39800,7 +39790,7 @@
     "weight": 1
   },
   {
-    "id": 3981,
+    "id": 3980,
     "word": "anicca",
     "alt": "",
     "bee": "three",
@@ -39810,7 +39800,7 @@
     "weight": 1
   },
   {
-    "id": 3982,
+    "id": 3981,
     "word": "batamote",
     "alt": "",
     "bee": "three",
@@ -39820,7 +39810,7 @@
     "weight": 1
   },
   {
-    "id": 3983,
+    "id": 3982,
     "word": "yabbies",
     "alt": "",
     "bee": "three",
@@ -39830,7 +39820,7 @@
     "weight": 1
   },
   {
-    "id": 3984,
+    "id": 3983,
     "word": "salmagundi",
     "alt": "salmagundy",
     "bee": "three",
@@ -39840,7 +39830,7 @@
     "weight": 1
   },
   {
-    "id": 3985,
+    "id": 3984,
     "word": "hutia",
     "alt": "jutia",
     "bee": "three",
@@ -39850,7 +39840,7 @@
     "weight": 1
   },
   {
-    "id": 3986,
+    "id": 3985,
     "word": "Deseret",
     "alt": "",
     "bee": "three",
@@ -39860,7 +39850,7 @@
     "weight": 1
   },
   {
-    "id": 3987,
+    "id": 3986,
     "word": "Djibouti",
     "alt": "",
     "bee": "three",
@@ -39870,7 +39860,7 @@
     "weight": 1
   },
   {
-    "id": 3988,
+    "id": 3987,
     "word": "Tegucigalpa",
     "alt": "",
     "bee": "three",
@@ -39880,7 +39870,7 @@
     "weight": 1
   },
   {
-    "id": 3989,
+    "id": 3988,
     "word": "Llullaillaco",
     "alt": "",
     "bee": "three",
@@ -39890,7 +39880,7 @@
     "weight": 1
   },
   {
-    "id": 3990,
+    "id": 3989,
     "word": "Pyxis",
     "alt": "",
     "bee": "three",
