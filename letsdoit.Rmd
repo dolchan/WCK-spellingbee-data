@@ -8,119 +8,7 @@ library(tidyverse)
 ```
 
 ```{r}
-# read files, all lines
-con <- file(description = "2021-words-of-champions.txt")
-all_lines <- readLines(con, n = -1L)
-close(con)
-```
-
-```{r}
-# locations
-n_end_3bee <- length(all_lines)
-
-dummy <- grep("+ one-bee", all_lines, fixed = T)
-n_start_1bee_study <- dummy[1]
-n_start_1bee_champions <- dummy[2]
-
-dummy <- grep("++ two-bee", all_lines, fixed = T)
-n_start_2bee_study <- dummy[1]
-n_start_2bee_champions <- dummy[2]
-
-dummy <- grep("+++ three-bee", all_lines, fixed = T)
-n_start_3bee_study <- dummy[1]
-n_start_3bee_champions <- dummy[2]
-```
-
-```{r}
-# collating
-remove_empty <- function(x) {
-  x[sapply(x, function(t) nchar(trimws(t, which="both"))) > 0]
-}
-one_bee_study <- paste0(all_lines[(n_start_1bee_study+1):(n_start_1bee_champions-1)], collapse = " ")
-one_bee_study <- remove_empty(unlist(strsplit(one_bee_study, split = " ")))
-one_bee_champions <- paste0(all_lines[(n_start_1bee_champions+1):(n_start_2bee_study-1)], collapse = " ")
-one_bee_champions <- remove_empty(unlist(strsplit(one_bee_champions, split = " ")))
-
-two_bee_study <- paste0(all_lines[(n_start_2bee_study+1):(n_start_2bee_champions-1)], collapse = " ")
-two_bee_study <- remove_empty(unlist(strsplit(two_bee_study, split = " ")))
-two_bee_champions <- paste0(all_lines[(n_start_2bee_champions+1):(n_start_3bee_study-1)], collapse = " ")
-two_bee_champions <- remove_empty(unlist(strsplit(two_bee_champions, split = " ")))
-
-three_bee_study <- paste0(all_lines[(n_start_3bee_study+1):(n_start_3bee_champions-1)], collapse = " ")
-three_bee_study <- remove_empty(unlist(strsplit(three_bee_study, split = " ")))
-three_bee_champions <- paste0(all_lines[(n_start_3bee_champions+1):(n_end_3bee)], collapse = " ")
-three_bee_champions <- remove_empty(unlist(strsplit(three_bee_champions, split = " ")))
-```
-
-```{r}
-remove_stars <- function(x) {
-  gsub("[*]+", "", x)
-}
-
-process_OR <- function(x) {
-  W1 <- x
-  W2 <- rep("", length(x))
-#  W3 <- rep("", length(x))
-  
-  OR_loc <- grep("OR", x)
-  if(length(OR_loc) > 0) {
-    w1 <- x[OR_loc-1]
-    w2 <- x[OR_loc+1]
-    # w3 <- rep("Alt", length(OR_loc))
-    # for (ii in 1:length(OR_loc)) {
-    #   if (grepl("**", w1[ii], fixed = T)) {
-    #     w1[ii] <- sub("**", "", w1[ii], fixed = T)
-    #   } else {
-    #     if (grepl("*", w2[ii], fixed = T))
-    #       w3[ii] <- "British"
-    #     else
-    #       w3[ii] <- "No preference"
-    #   }
-    # }
-
-    W1[OR_loc] <- remove_stars(w1)
-    W2[OR_loc] <- remove_stars(w2)
-    # W3[OR_loc] <- w3
-    
-    W1 <- W1[-c(OR_loc-1, OR_loc+1)]
-    W2 <- W2[-c(OR_loc-1, OR_loc+1)]
-    # W3 <- W3[-c(OR_loc-1, OR_loc+1)]
-  } 
-  
-  # data.frame(preferred = W1, alt = W2, type = W3)
-  data.frame(word = W1, alt = W2)
-}
-
-one_bee_study <- cbind(process_OR(one_bee_study), bee = "one", group = "study")
-one_bee_champions <- cbind(process_OR(one_bee_champions), bee = "one", group = "champions")
-two_bee_study <- cbind(process_OR(two_bee_study), bee = "two", group = "study")
-two_bee_champions <- cbind(process_OR(two_bee_champions), bee = "two", group = "champions")
-three_bee_study <- cbind(process_OR(three_bee_study), bee = "three", group = "study")
-three_bee_champions <- cbind(process_OR(three_bee_champions), bee = "three", group = "champions")
-
-words_of_champions <- rbind(one_bee_study,
-                            one_bee_champions,
-                            two_bee_study,
-                            two_bee_champions,
-                            three_bee_study,
-                            three_bee_champions)
-```
-
-```{r}
-words_of_champions <-
-  cbind(id = 1:nrow(words_of_champions),
-        words_of_champions,
-        nTried = 0,
-        nMistakes = 0,
-        weight = 1)
-```
-
-```{r}
-words_of_champions
-```
-
-```{r}
-write.csv(words_of_champions, file = "words_of_champions_2021.csv")
+words_of_champions <- read.csv(file = "words_of_champions_2022.csv")
 ```
 
 ```{r}
@@ -178,7 +66,7 @@ words_of_extreme_xtra %>%
 words_of_extreme_xtra$id <- 1:nrow(words_of_extreme_xtra)
 words_of_extreme_xtra$nTried <- 0
 words_of_extreme_xtra$nMistakes <- 0
-words_of_extreme_xtra$weight <- 0
+words_of_extreme_xtra$weight <- 1
 ```
 
 
@@ -187,6 +75,6 @@ library(jsonlite)
 ```
 
 ```{r}
-write_json(words_of_extreme_xtra, path = "words_of_extreme_2021.json", pretty = TRUE)
+write_json(words_of_extreme_xtra, path = "words_of_extreme_2022.json", pretty = TRUE)
 ```
 
