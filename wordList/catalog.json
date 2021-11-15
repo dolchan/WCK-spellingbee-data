@@ -1,0 +1,18 @@
+[
+	{
+		"name":	"Words of Champions 2021",
+		"file": "words_of_champions_2021.json"
+	},
+	{
+		"name":	"Words of Champions 2022",
+		"file": "words_of_champions_2022.json"		
+	},
+	{
+		"name":	"Words of Extreme 2021",
+		"file": "words_of_extreme_2021.json"
+	},
+	{
+		"name":	"Words of Extreme 2022",
+		"file": "words_of_extreme_2022.json"		
+	}
+]

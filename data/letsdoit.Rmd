@@ -76,5 +76,6 @@ library(jsonlite)
 
 ```{r}
 write_json(words_of_extreme_xtra, path = "words_of_extreme_2022.json", pretty = TRUE)
+write_json(words_of_extreme_xtra, path = "words_of_extreme.json", pretty = TRUE)
 ```
 
