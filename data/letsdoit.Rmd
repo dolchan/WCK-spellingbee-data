@@ -20,8 +20,11 @@ read_word_list <- function(filename) {
   x <- x[sapply(x, str_length) > 0]
   
   new_word_loc <- grep("***", x, fixed = TRUE)[1]
-  
-  alt_loc <- grep("OR", x)
+  if (is.na(new_word_loc)) {
+    new_word_loc <- length(x) + 1
+  }
+
+  alt_loc <- grep("-OR-", x)
   
   alt_words <- x[alt_loc]
 
@@ -33,13 +36,13 @@ read_word_list <- function(filename) {
       t() %>% 
       data.frame()
     colnames(alt_words_df) <- c("word", "alt")
+    
+    x <- bind_rows(tibble(word = x[-alt_loc], alt = ""),
+                   tibble(alt_words_df))
   } else {
-    alt_words_df <- NULL
+    x <- tibble(word = x, alt = "")
   }
-  
-  x <- bind_rows(tibble(word = x[-alt_loc], alt = ""),
-                 tibble(alt_words_df))
-  
+
   x <- cbind(x, new_word = 1)
   x$new_word[1:(new_word_loc-1)] <- 0
   
@@ -54,7 +57,7 @@ word_list_2022_files <-
     onebee_champions = "2022-word-list-onebee-champions.txt",
     twobee_study = "2022-word-list-twobee-study.txt",
     twobee_champions = "2022-word-list-twobee-champions.txt",
-    threebee_champions = "2022-word-list-threebee-study.txt",
+    threebee_study = "2022-word-list-threebee-study.txt",
     threebee_champions = "2022-word-list-threebee-champions.txt"
   )
 ```
@@ -64,9 +67,17 @@ word_list_2022_files <-
 word_list_2022 <-
   lapply(word_list_2022_files,
          read_word_list) %>%
-  bind_rows(.id = "ID") %>%
-  mutate(level = sub("^.+_", "", ID),
-         group = sub("_.+$", "", ID))
+  bind_rows(.id = "id") %>%
+  mutate(bee = sub("bee", "", sub("_.+$", "", id)),
+         group = sub("^.+_", "", id)) %>%
+  mutate(nTried = 0, nMistakes = 0, weight = 1)
+
+word_list_2022$id <- 1:nrow(word_list_2022)
+```
+
+
+```{r}
+words_of_champions <- word_list_2022
 ```
 
 ```{r}
@@ -82,6 +93,8 @@ level2bee_names <- c(unique(words_of_extreme$level))
 level2bee <- c("two", "two", "one", "three")
 
 names(level2bee) <- level2bee_names
+
+level2bee
 ```
 
 
@@ -109,22 +122,28 @@ words_of_extreme %>%
 ```{r}
 words_of_extreme %>% 
   filter(!(word %in% words_of_champions$word)) ->
-  words_of_extreme_xtra
+  words_of_extreme
 ```
 
 ```{r}
-words_of_extreme_xtra %>% 
+words_of_extreme %>% 
   select(word, group, bee) %>%
   full_join(words_of_champions, ., by = c("word", "bee", "group")) %>%
-  mutate(alt = ifelse(is.na(alt), "", alt)) ->
-  words_of_extreme_xtra
+  replace_na(list(new_word = 0, alt = "")) ->
+  words_of_extreme
 ```
 
 ```{r}
-words_of_extreme_xtra$id <- 1:nrow(words_of_extreme_xtra)
-words_of_extreme_xtra$nTried <- 0
-words_of_extreme_xtra$nMistakes <- 0
-words_of_extreme_xtra$weight <- 1
+words_of_extreme$id <- 1:nrow(words_of_extreme)
+words_of_extreme$nTried <- 0
+words_of_extreme$nMistakes <- 0
+words_of_extreme$weight <- 1
+```
+
+
+```{r}
+write_csv(words_of_champions, file = "words_of_champions_2022.csv")
+write_csv(words_of_extreme, file = "words_of_extreme_2022.csv")
 ```
 
 
@@ -133,7 +152,32 @@ library(jsonlite)
 ```
 
 ```{r}
-write_json(words_of_extreme_xtra, path = "words_of_extreme_2022.json", pretty = TRUE)
-write_json(words_of_extreme_xtra, path = "words_of_extreme.json", pretty = TRUE)
+write_json(words_of_champions, path = "words_of_champions_2022.json", pretty = TRUE)
+write_json(words_of_champions, path = "words_of_champions.json", pretty = TRUE)
+```
+
+
+```{r}
+write_json(words_of_extreme, path = "words_of_extreme_2022.json", pretty = TRUE)
+write_json(words_of_extreme, path = "words_of_extreme.json", pretty = TRUE)
+```
+
+```{r}
+old_woc_filename <- "words_of_champions_2021.json"
+archived_dir <- "../archived"
+read_json(file.path(archived_dir, old_woc_filename)) %>%
+  bind_rows() %>%
+  mutate(new_word = 0) %>%
+  write_json(path = old_woc_filename, pretty = TRUE)
+```
+
+
+```{r}
+old_woc_filename <- "words_of_extreme_2021.json"
+archived_dir <- "../archived"
+read_json(file.path(archived_dir, old_woc_filename)) %>%
+  bind_rows() %>%
+  mutate(new_word = 0) %>%
+  write_json(path = old_woc_filename, pretty = TRUE)
 ```
 
