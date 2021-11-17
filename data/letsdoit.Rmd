@@ -8,7 +8,65 @@ library(tidyverse)
 ```
 
 ```{r}
-words_of_champions <- read.csv(file = "words_of_champions_2022.csv")
+#words_of_champions <- read.csv(file = "words_of_champions_2022.csv")
+```
+
+
+```{r}
+read_word_list <- function(filename) {
+  x <- readLines(filename)
+  if (length(grep("--", x)) > 0)
+    x <- x[-(1:grep("--", x))]
+  x <- x[sapply(x, str_length) > 0]
+  
+  new_word_loc <- grep("***", x, fixed = TRUE)[1]
+  
+  alt_loc <- grep("OR", x)
+  
+  alt_words <- x[alt_loc]
+
+  if (sum(grepl("-OR-", alt_words)) > 0) {
+    alt_words_df <-
+      str_split(alt_words, "-OR-") %>% 
+      unlist() %>%
+      matrix(nrow = 2) %>%
+      t() %>% 
+      data.frame()
+    colnames(alt_words_df) <- c("word", "alt")
+  } else {
+    alt_words_df <- NULL
+  }
+  
+  x <- bind_rows(tibble(word = x[-alt_loc], alt = ""),
+                 tibble(alt_words_df))
+  
+  x <- cbind(x, new_word = 1)
+  x$new_word[1:(new_word_loc-1)] <- 0
+  
+  x
+}
+```
+
+```{r}
+word_list_2022_files <-
+  c(
+    onebee_study = "2022-word-list-onebee-study.txt",
+    onebee_champions = "2022-word-list-onebee-champions.txt",
+    twobee_study = "2022-word-list-twobee-study.txt",
+    twobee_champions = "2022-word-list-twobee-champions.txt",
+    threebee_champions = "2022-word-list-threebee-study.txt",
+    threebee_champions = "2022-word-list-threebee-champions.txt"
+  )
+```
+
+
+```{r}
+word_list_2022 <-
+  lapply(word_list_2022_files,
+         read_word_list) %>%
+  bind_rows(.id = "ID") %>%
+  mutate(level = sub("^.+_", "", ID),
+         group = sub("_.+$", "", ID))
 ```
 
 ```{r}
