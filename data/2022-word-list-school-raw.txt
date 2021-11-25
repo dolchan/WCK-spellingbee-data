@@ -91,11 +91,9 @@ china
 frames
 shoe
 slide
-gutter
-search
+gutter search
 
-pretty
-salad
+pretty salad
 
 goggles
 
@@ -119,11 +117,9 @@ slow
 
 son
 
-silk
-duckling
+silk duckling
 
-rage
-well
+rage well
 
 gone
 
@@ -195,11 +191,9 @@ blindfolded
 
 clobbered
 
-rattled
-throat
+rattled throat
 
-scuba
-absent
+scuba absent
 
 savor-OR-savour
 
@@ -209,8 +203,7 @@ masthead
 
 Leghorn
 
-crockery
-Neptune
+crockery Neptune
 
 lavished
 
@@ -230,31 +223,25 @@ weird
 
 mutual
 
-alibi
-devious
+alibi devious
 
-flaxen
-biome
+flaxen biome
 
-cardigan
-withered
+cardigan withered
 
 Lincoln
 
 tartan
 
-wretched
-expanse
+wretched expanse
 
-contessa
-wreaked
+contessa wreaked
 
 sudoku
 
 exerts
 
-reflexology
-fetlocks
+reflexology fetlocks
 
 pulverized-OR-pulverised
 
@@ -264,21 +251,17 @@ ordinary
 
 kitchen
 
-surface
-indent
+surface indent
 
-basically
-relative
+basically relative
 
-indie
-hull
+indie hull
 
 trickster
 
 texture
 
-hedgehog
-wardrobe
+hedgehog wardrobe
 
 vibrant
 
@@ -290,8 +273,7 @@ notification
 
 archduke
 
-Juneteenth
-loneliness
+Juneteenth loneliness
 
 dedicated
 
@@ -323,19 +305,15 @@ surveyed
 
 contorted
 
-chai
-acutely
+chai acutely
 
 renowned
 
-dutifully
-arid
+dutifully arid
 
 intentionally
 
-ranchero
-mystified
-
+ranchero mystified 
 
 demeanor-OR-demeanour
 
@@ -369,14 +347,11 @@ Jamestown
 
 exception
 
-ogre
-dingoes
+ogre dingoes
 
-parsnips
-caverns
+parsnips caverns
 
-symbol
-grudgingly
+symbol grudgingly
 
 telescope
 
@@ -400,11 +375,9 @@ hackles
 
 radiation
 
-emitting
-charlotte
+emitting charlotte
 
-metropolis
-granules
+metropolis granules
 
 colleagues
 
@@ -422,11 +395,9 @@ mallet
 
 disembodied
 
-because
-feline
+because feline
 
-bustling
-scrolls
+bustling scrolls
 
 detect
 
@@ -512,123 +483,93 @@ Korea
 
 morbidity
 
-referral
-stalemate
+referral stalemate
 
-appeasement
-instinctive
+appeasement instinctive
 
 convictions
 
-lineage
-drudgery
+lineage drudgery
 
 heirloom
 
 russet
 
-heresy
-dispensation
+heresy dispensation
 
-bantlings
-padre
+bantlings padre
 
-chaplain
-herbalist
+chaplain herbalist
 
 adduced
 
-transept
-mortification
+transept mortification
 
 aversion
 
 Vuvuzela
 
-Wiesbaden
-condyles
+Wiesbaden condyles
 
-Chelonia
-quatrains
+Chelonia quatrains
 
-hawsers
-linsey-woolsey
+hawsers linsey-woolsey
 
 abalones
 
-Confucianism
-Mantua
+Confucianism Mantua
 
-Durham
-bier
+Durham bier
 
-refectory
-presidio
+refectory presidio
 
 aisles
 
-proctors
-aerials
+proctors aerials
 
-thoroughfare
-liability
+thoroughfare liability
 
-infectious
-intestine
+infectious intestine
 
-coaxing
-ransacked
+coaxing ransacked
 
 pallid
 
-topologically
-perdition
+topologically perdition
 
-Richter-scale
-prioress
+Richter-scale prioress
 
 mien
 
-feinted
-fortuitous
+feinted fortuitous
 
-impertinent
-condescendingly
+impertinent condescendingly
 
-covenant
-primordial
+covenant primordial
 
-adzuki
-Montmorency
+adzuki Montmorency
 
-Yom-Kippur
-Quasimodo
+Yom-Kippur Quasimodo
 
 katabatic
 
 Bayreuth
 
-Albion
-repast
+Albion repast
 
-Chaucerian
-Jains
+Chaucerian Jains
 
-derrick
-Des-Moines
+derrick Des-Moines
 
 conurbation
 
-unsportsmanlike
-trodden
+unsportsmanlike trodden
 
 surgeon
 
-transgressions
-penchant
+transgressions penchant
 
-Minnesota
-discriminating
+Minnesota discriminating
 
 permanence
 
@@ -638,11 +579,9 @@ kimchi-OR-kimchee
 
 burgundy
 
-incorrigibles
-palpable
+incorrigibles palpable
 
-embroidery
-resinous
+embroidery resinous
 
 humus
 
@@ -650,77 +589,57 @@ poultice
 
 fractious
 
-rhetorical
-throes
+rhetorical throes
 
-moppet
-allée
+moppet allée
 
-justaucorps
-Firenze
+justaucorps Firenze
 
-Helvetia
-bivouac
+Helvetia bivouac
 
-vambrace
-paschal
+vambrace paschal
 
 Bloomsbury
 
 Edinburgh
 
-ziggurat
-Kerala
+ziggurat Kerala
 
 Sioux
 
-ensnarement
-torturous
+ensnarement torturous
 
-Judaism
-abdomen
+Judaism abdomen
 
 propensity
 
-adversity
-exile
+adversity exile
 
-larkspur
-menorahs
+larkspur menorahs
 
 mete
 
-brocade
-porcine
+brocade porcine
 
-congealing
-coronation
+congealing coronation
 
-scree
-Cantonese
+scree Cantonese
 
-guarantor
-Darwinism
+guarantor Darwinism
 
 phenomenal
 
-semblance
-assassinate
+semblance assassinate
 
-d'orsay
-ducats
+d'orsay ducats
 
-kaddish
-lachrymose
+kaddish lachrymose
 
-fata-morgana
-plastron
+fata-morgana plastron
 
-coracle
-aquiline
+coracle aquiline
 
-Carlisle
-
+Carlisle 
 
 Arapaho-OR-Arapahoe
 

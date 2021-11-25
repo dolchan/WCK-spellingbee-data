@@ -19,25 +19,28 @@ read_word_list <- function(filename) {
     x <- x[-(1:grep("--", x))]
   x <- x[sapply(x, str_length) > 0]
   
+  # actually, this is not working properly....
   new_word_loc <- grep("***", x, fixed = TRUE)[1]
   if (is.na(new_word_loc)) {
     new_word_loc <- length(x) + 1
+  } else {
+    x <- sub("***", "", x, fixed = TRUE)
   }
 
   # split multiple words in a line
-  multi_words_loc <- grep(" ", x)
-  if (length(multi_words_loc) > 0) {
-    multi_words_lines <- x[multi_words_loc]
-    x <- x[-multi_words_loc]
-    
-    multi_words_lines %>% 
-      sub(" +$", "", .) %>%
-      str_split(" +") %>% 
-      unlist() ->
-      multi_words_lines
-    
-    x <- c(x, multi_words_lines)
-  }
+  # multi_words_loc <- grep(" ", x)
+  # if (length(multi_words_loc) > 0) {
+  #  multi_words_lines <- x[multi_words_loc]
+  #  x <- x[-multi_words_loc]
+  #  
+  #  multi_words_lines %>% 
+  #    sub(" +$", "", .) %>%
+  #    str_split(" +") %>% 
+  #    unlist() ->
+  #    multi_words_lines
+  #  
+  #  x <- c(x, multi_words_lines)
+  #}
   
   alt_loc <- grep("-OR-", x)
   
