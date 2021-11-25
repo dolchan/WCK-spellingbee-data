@@ -695,7 +695,7 @@ id,word,alt,new_word,bee,group,nTried,nMistakes,weight
 694,moped,,0,one,champions,0,0,1
 695,groats,,0,one,champions,0,0,1
 696,Highlands,,0,one,champions,0,0,1
-697,***retriever,,0,one,champions,0,0,1
+697,retriever,,0,one,champions,0,0,1
 698,anime,,0,one,champions,0,0,1
 699,regiment,,0,one,champions,0,0,1
 700,sterling,,0,one,champions,0,0,1
@@ -2709,7 +2709,7 @@ id,word,alt,new_word,bee,group,nTried,nMistakes,weight
 2708,froward,,0,two,champions,0,0,1
 2709,ensconced,,0,two,champions,0,0,1
 2710,hypogeous,,0,two,champions,0,0,1
-2711,***composite,,0,two,champions,0,0,1
+2711,composite,,0,two,champions,0,0,1
 2712,Miranda,,0,two,champions,0,0,1
 2713,Newfoundland,,0,two,champions,0,0,1
 2714,fulminate,,0,two,champions,0,0,1
@@ -3888,7 +3888,7 @@ id,word,alt,new_word,bee,group,nTried,nMistakes,weight
 3887,Tegucigalpa,,0,three,champions,0,0,1
 3888,Llullaillaco,,0,three,champions,0,0,1
 3889,Pyxis,,0,three,champions,0,0,1
-3890,***Bezier-curve,,0,three,champions,0,0,1
+3890,Bezier-curve,,0,three,champions,0,0,1
 3891,Beauceron,,0,three,champions,0,0,1
 3892,ni-Vanuatu,,0,three,champions,0,0,1
 3893,Vulcan,,0,three,champions,0,0,1
