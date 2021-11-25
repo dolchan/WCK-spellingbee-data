@@ -7657,7 +7657,7 @@
   },
   {
     "id": 697,
-    "word": "***retriever",
+    "word": "retriever",
     "alt": "",
     "new_word": 0,
     "bee": "one",
@@ -29811,7 +29811,7 @@
   },
   {
     "id": 2711,
-    "word": "***composite",
+    "word": "composite",
     "alt": "",
     "new_word": 0,
     "bee": "two",
@@ -42780,7 +42780,7 @@
   },
   {
     "id": 3890,
-    "word": "***Bezier-curve",
+    "word": "Bezier-curve",
     "alt": "",
     "new_word": 0,
     "bee": "three",
