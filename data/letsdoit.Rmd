@@ -24,6 +24,21 @@ read_word_list <- function(filename) {
     new_word_loc <- length(x) + 1
   }
 
+  # split multiple words in a line
+  multi_words_loc <- grep(" ", x)
+  if (length(multi_words_loc) > 0) {
+    multi_words_lines <- x[multi_words_loc]
+    x <- x[-multi_words_loc]
+    
+    multi_words_lines %>% 
+      sub(" +$", "", .) %>%
+      str_split(" +") %>% 
+      unlist() ->
+      multi_words_lines
+    
+    x <- c(x, multi_words_lines)
+  }
+  
   alt_loc <- grep("-OR-", x)
   
   alt_words <- x[alt_loc]
@@ -79,6 +94,7 @@ word_list_2022$id <- 1:nrow(word_list_2022)
 ```{r}
 words_of_champions <- word_list_2022
 ```
+
 
 ```{r}
 words_of_extreme <- read_csv("merged_word_rev2019-03-24.csv")
@@ -179,5 +195,17 @@ read_json(file.path(archived_dir, old_woc_filename)) %>%
   bind_rows() %>%
   mutate(new_word = 0) %>%
   write_json(path = old_woc_filename, pretty = TRUE)
+```
+
+
+```{r}
+words_of_school <- read_word_list("2022-word-list-school.txt")
+```
+
+```{r}
+words_of_school %>%
+  select(word) %>%
+  left_join(words_of_champions, by = "word") ->
+  words_of_school
 ```
 

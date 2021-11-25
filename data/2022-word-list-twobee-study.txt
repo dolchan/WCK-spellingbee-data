@@ -12,7 +12,7 @@ detect
 blindfolded
 basically
 squints
-s’mores
+s'mores
 scuba
 trickster
 glib
@@ -76,6 +76,8 @@ granules
 pedestals
 wreaked
 renowned
+colleagues
+withered
 clobbered
 wardrobe
 curtains
